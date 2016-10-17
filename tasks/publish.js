@@ -20,7 +20,7 @@ var formatSize = function(input) {
   return input + "B";
 };
 
-var gzippable = ["js", "html", "json", "map", "css", "txt", "svg", "geojson"];
+var gzippable = ["js", "html", "json", "map", "css", "txt", "csv", "svg", "geojson"];
 
 module.exports = function(grunt) {
 
@@ -80,6 +80,8 @@ module.exports = function(grunt) {
     }
 
     var bucketConfig = config.s3[deploy];
+    //strip slashes for safety
+    bucketConfig.path = bucketConfig.path.replace(/^\/|\/$/g, "");
 
     var creds = {
       accessKeyId: process.env.AWS_ACCESS_KEY_ID,
@@ -105,8 +107,8 @@ module.exports = function(grunt) {
           Key: join(bucketConfig.path, upload.path.replace(/^\\?build/, "")),
           Body: upload.buffer,
           ACL: "public-read",
-          CacheControl: "public,max-age=300",
-          ContentType: mime.lookup(upload.path)
+          ContentType: mime.lookup(upload.path),
+          CacheControl: "public,max-age=300"
         };
         //if this matches GZip support, compress them before uploading to S3
         var extension = upload.path.split(".").pop();

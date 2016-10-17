@@ -17,6 +17,7 @@ module.exports = function(grunt) {
     connect: {
       dev: {
         options: {
+          hostname: "localhost",
           livereload: true,
           base: "./build",
           //middleware to protect against case-insensitive file systems
@@ -29,9 +30,9 @@ module.exports = function(grunt) {
               if (!filename) return next();
               var dir = path.dirname(location);
               fs.readdir(dir, function(err, list) {
-                if (list.indexOf(filename) == -1) {
+                if (!err && list.indexOf(filename) == -1) {
                   response.statusCode = 404;
-                  response.end();
+                  response.end("<pre>            404 Not Found\n-this space intentionally left blank-</pre>");
                 } else {
                   next();
                 }
