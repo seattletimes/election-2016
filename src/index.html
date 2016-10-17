@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+  <head>
+    <title><%= json.project.title %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <%= t.include("partials/_head.html") %>
+  </head>
+  <body class="pending">
+
+    <%= t.include("partials/_nav.html") %>
+
+    <div class="content">
+
+      <header class="hed">
+        <div class="ad">
+          <%= t.include("partials/_ad.html", { type: "banner" }) %>
+        </div>
+        <h1>2015 election results for Washington state</h1>
+        <p class="dateline">Last updated: <%= election.updated %> with
+          <%= election.turnout.percentage %>% of expected ballots counted statewide
+      </header>
+      
+      <main class="elections">
+        <p class="cutline"> 
+          View state and local election results by race and see county-by-county results for key statewide races. Uncontested races are not included. For complete Washington state results, visit the <a href="http://results.vote.wa.gov/results/current/">Washington Secretary of State</a>. Visit <a href="http://www.seattletimes.com/category/election-2015">our Election 2015 page</a> for all our election coverage.
+
+        <nav class="tab-container">
+          <% election.categories.forEach(function(cat) { %>
+          <a class="tab" href="#<%= cat.replace(/\s/g, "") %>"><%= cat %></a>
+          <% }) %>
+        </nav>
+        <article>
+          <% election.categories.forEach(function(cat, i) { var category = election.categorized[cat]; %>
+            <section class="category show" id="<%= cat.replace(/\s/g, "") %>">
+            <% 
+            var groups = Object.keys(category.grouped);
+            if (groups.length) {
+              if (groups.length) { %>
+              <p class="subnav-controls">Select a location: <select class="subnav">
+                <% groups.sort().forEach(function(group) { %>
+                <option value="<%= group %>"><%= group %></option>
+                <% }); %>
+              </select></p> <%
+              }
+              groups.forEach(function(group) { %>
+              <div class="subcategory" data-subcat="<%= group %>">
+                <h2><%= group %></h2><%
+                category.grouped[group].forEach(function(race) {
+                  print(t.include("_resultEntry.html", { race: race, cat: cat }));
+                });%>
+              </div><%
+              }); 
+            }
+            //present ungrouped races last
+            category.races.forEach(function(race) {
+              print(t.include("_resultEntry.html", { race: race, cat: cat }));
+            }); 
+            %>
+            </section>
+          <% }); %>
+          <ul class="key">
+            <li> * indicates incumbent
+            <li> Races that cross county borders include vote totals from all jurisdictions.
+          </li>
+        </article>
+      </main>
+
+      <aside class="rail">
+        <%= t.include("partials/_ad.html", { type: "square" }) %>
+      </aside>
+
+    </div>
+
+    <%= t.include("partials/_navBottom.html") %>
+
+    <script>
+<% 
+for (var raceID in election.mapped) {
+  var race = election.mapped[raceID];
+  for (var county in race) {
+    var c = race[county];
+    c.results.forEach(function(result) {
+      var votes = result.votes + "";
+      for (var i = votes.length - 3; i > 0; i -= 3) {
+        votes = votes.substr(0, i) + "," + votes.substr(i);
+      }
+      result.votes = votes;
+    })
+  }
+} %>
+window.mapData = <%= JSON.stringify(election.mapped) %>;
+    </script>
+    <script src="app.js" async></script>
+    <%= t.include("partials/_foot.html") %>
+    <%= t.include("partials/_workHere.html") %>
+  </body>
+</html>

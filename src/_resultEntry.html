@@ -1,0 +1,82 @@
+<% 
+var t = grunt.template;
+var synonyms = {
+  yes: "yes",
+  approved: "yes",
+  maintained: "yes",
+  "levy yes": "yes",
+  "prop. 1a (unfunded measure)": "yes",
+  no: "no",
+  rejected: "no",
+  repealed: "no",
+  "levy no": "no",
+  "prop. 1b (property-tax levy)": "no"
+};
+%>
+<div class="result-block">
+  <h3><%= race.name %><%
+  if (cat == "Congressional") { %>
+    <span class="map-icon">Map
+      <svg-map 
+        class="us district"
+        src="assets/congress.svg"
+        data-district="<%= race.name.replace(/^.*?district\s+/i, "") %>"></svg-map>
+    </span>
+  <% } else if (cat == "Legislative") { %>
+    <span class="map-icon">Map
+      <svg-map 
+        class="state district" <% 
+        var district = race.name.match(/district (\d+)/i)[1] * 1;
+        if ([1,11,21,23,25,26,27,28,29,30,32,33,34,36,37,38,41,43,44,45,46,47,48].indexOf(district) > -1) { %>
+        src="assets/zoomed.svg"
+        <% } else { %>
+        src="assets/legislativedists.svg"
+        <% } %>
+        data-district="<%= district %>"></svg>
+    </span>
+  <% } %>
+  <% if (race.url) { %>
+    <span class="related-story"><a href="<%= race.url %>"><!-- <i class="fa fa-external-link-square"></i> --> Read story</a></span>
+  <% } %>
+  </h3>
+  <% if (race.description) { %><p class="description"><%= race.description %><% } %>
+  <ul class="results">
+  <% race.results.forEach(function(result, i) { %>
+    <li>
+      <div class="candidate">
+        <%= result.incumbent ? "*" : "" %>
+        <%= result.candidate %>
+        <span class="party"><%= result.party ? " - " + result.party : "" %></span>
+      </div>
+      <div class="votes">
+        <span class="numbers"><%= t.formatNumber(result.votes) %></span>
+      </div>
+      <% if (result.percent * 1) { %>
+      <div class="bar-container">
+        <div 
+          class="bar <%= result.party %> <%= synonyms[result.candidate.toLowerCase()] %>" 
+          style="width: <%= result.percent * .8 %>%">
+          <div class="percentage"><%= result.percent %>%</div>
+        </div>
+      </div>
+      <% } %>
+    </li>
+  <% }) %>
+  </ul>
+  <% if (race.map) { %>
+  <div class="map-container">
+    <svg-map class="county" src="assets/countyMap.svg" data-race="<%= race.code || race.sosRaceID %>">
+<span class="county">{%= data.county %}</span>
+<ul>
+{% if (data.results) { %}
+{% data.results.forEach(function(result) { %}
+  <li> {%= result.candidate %} - {%= result.percent ? result.percent + "%" : "" %}&nbsp;({%= result.votes %})
+{% }); %}
+{% } else { %}
+  <li> No results yet.
+{% } %}
+</ul>
+    </svg-map>
+  </div>
+  <% } %>
+</div>

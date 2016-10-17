@@ -1,0 +1,16 @@
+svg-map {
+  position: relative;
+
+  svg {
+    width: 100%;
+    display: block;
+  }
+
+  .popup {
+    position: absolute;
+    padding: 8px;
+    display: none;
+    &[show] { display: block }
+    z-index: 999;
+  }
+}
