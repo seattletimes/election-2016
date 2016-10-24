@@ -1,0 +1,2878 @@
+[
+  {
+    "id": 1,
+    "name": "President/Vice President",
+    "category": "National",
+    "featured": "x"
+  },
+  {
+    "id": 3,
+    "name": "U.S. Senator",
+    "category": "National",
+    "featured": "x"
+  },
+  {
+    "id": 113429,
+    "name": "Initiative Measure No. 732 concerns taxes.",
+    "category": "Initiatives",
+    "featured": "x"
+  },
+  {
+    "id": 113445,
+    "name": "Initiative Measure No. 735 concerns a proposed amendment to the federal constitution.",
+    "category": "Initiatives"
+  },
+  {
+    "id": 113449,
+    "name": "Proposed Amendments to the Constitution - Senate Joint Resolution No. 8210 concerns the deadline for completing state legislative and congressional redistricting.",
+    "category": "Initiatives"
+  },
+  {
+    "id": 113457,
+    "name": "Advisory Vote No. 15 Second Engrossed Substitute House Bill 2778",
+    "category": "Initiatives"
+  },
+  {
+    "id": 113461,
+    "name": "Advisory Vote No. 14 House Bill 2768",
+    "category": "Initiatives"
+  },
+  {
+    "id": 113485,
+    "name": "Initiative Measure No. 1433 concerns labor standards.",
+    "category": "Initiatives"
+  },
+  {
+    "id": 113489,
+    "name": "Initiative Measure No. 1491 concerns court-issued extreme risk protection orders temporarily preventing access to firearms.",
+    "category": "Initiatives",
+    "featured": "x"
+  },
+  {
+    "id": 113497,
+    "name": "Initiative Measure No. 1501 concerns seniors and vulnerable individuals.",
+    "category": "Initiatives"
+  },
+  {
+    "id": 113525,
+    "name": "Initiative Measure No. 1464 concerns campaign finance laws and lobbyists.",
+    "category": "Initiatives"
+  },
+  {
+    "id": 13,
+    "name": "Governor",
+    "category": "Statewide",
+    "featured": "x"
+  },
+  {
+    "id": 14,
+    "name": "Lt. Governor",
+    "category": "Statewide",
+    "featured": "x"
+  },
+  {
+    "id": 15,
+    "name": "Secretary of State",
+    "category": "Statewide"
+  },
+  {
+    "id": 16,
+    "name": "State Treasurer",
+    "category": "Statewide"
+  },
+  {
+    "id": 17,
+    "name": "State Auditor",
+    "category": "Statewide"
+  },
+  {
+    "id": 18,
+    "name": "Attorney General",
+    "category": "Statewide"
+  },
+  {
+    "id": 19,
+    "name": "Commissioner of Public Lands",
+    "category": "Statewide"
+  },
+  {
+    "id": 20,
+    "name": "Superintendent of Public Instruction",
+    "category": "Statewide"
+  },
+  {
+    "id": 21,
+    "name": "Insurance Commissioner",
+    "category": "Statewide"
+  },
+  {
+    "id": 4,
+    "name": "Congressional District 5 - U.S. Representative",
+    "category": "Congressional"
+  },
+  {
+    "id": 5,
+    "name": "Congressional District 3 - U.S. Representative",
+    "category": "Congressional"
+  },
+  {
+    "id": 6,
+    "name": "Congressional District 1 - U.S. Representative",
+    "category": "Congressional"
+  },
+  {
+    "id": 7,
+    "name": "Congressional District 4 - U.S. Representative",
+    "category": "Congressional"
+  },
+  {
+    "id": 8,
+    "name": "Congressional District 2 - U.S. Representative",
+    "category": "Congressional"
+  },
+  {
+    "id": 9,
+    "name": "Congressional District 6 - U.S. Representative",
+    "category": "Congressional"
+  },
+  {
+    "id": 10,
+    "name": "Congressional District 9 - U.S. Representative",
+    "category": "Congressional"
+  },
+  {
+    "id": 11,
+    "name": "Congressional District 7 - U.S. Representative",
+    "category": "Congressional"
+  },
+  {
+    "id": 12,
+    "name": "Congressional District 8 - U.S. Representative",
+    "category": "Congressional"
+  },
+  {
+    "id": 28824,
+    "name": "Congressional District 10 - U.S. Representative",
+    "category": "Congressional"
+  },
+  {
+    "id": 22,
+    "name": "Supreme Court - Justice Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 26,
+    "name": "Supreme Court - Justice Position 5",
+    "category": "Judicial"
+  },
+  {
+    "id": 27,
+    "name": "Supreme Court - Justice Position 6",
+    "category": "Judicial"
+  },
+  {
+    "id": 31,
+    "name": "Court of Appeals, Division 1, District 1 - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 38,
+    "name": "Court of Appeals, Division 1, District 2 - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 41,
+    "name": "Court of Appeals, Division 2, District 1 - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 47,
+    "name": "Court of Appeals, Division 2, District 3 - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 50,
+    "name": "Court of Appeals, Division 3, District 2 - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 51,
+    "name": "Court of Appeals, Division 3, District 3 - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 53,
+    "name": "Asotin, Columbia, Garfield Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 54,
+    "name": "Benton, Franklin Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 55,
+    "name": "Benton, Franklin Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 56,
+    "name": "Benton, Franklin Superior Court - Judge Position 3",
+    "category": "Judicial"
+  },
+  {
+    "id": 57,
+    "name": "Benton, Franklin Superior Court - Judge Position 4",
+    "category": "Judicial"
+  },
+  {
+    "id": 58,
+    "name": "Benton, Franklin Superior Court - Judge Position 5",
+    "category": "Judicial"
+  },
+  {
+    "id": 59,
+    "name": "Ferry, Pend Oreille, Stevens Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 60,
+    "name": "Ferry, Pend Oreille, Stevens Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 63,
+    "name": "Klickitat, Skamania Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 64,
+    "name": "Pacific, Wahkiakum Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 65,
+    "name": "Adams Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 66,
+    "name": "Chelan Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 67,
+    "name": "Chelan Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 68,
+    "name": "Clallam Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 69,
+    "name": "Clallam Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 78,
+    "name": "Cowlitz Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 82,
+    "name": "Douglas Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 83,
+    "name": "Grant Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 84,
+    "name": "Grant Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 85,
+    "name": "Grant Superior Court - Judge Position 3",
+    "category": "Judicial"
+  },
+  {
+    "id": 86,
+    "name": "Grays Harbor Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 87,
+    "name": "Grays Harbor Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 88,
+    "name": "Grays Harbor Superior Court - Judge Position 3",
+    "category": "Judicial"
+  },
+  {
+    "id": 89,
+    "name": "Jefferson Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 94,
+    "name": "Kitsap Superior Court - Judge Position 5",
+    "category": "Judicial"
+  },
+  {
+    "id": 97,
+    "name": "Kittitas Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 98,
+    "name": "Lewis Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 99,
+    "name": "Lewis Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 100,
+    "name": "Lewis Superior Court - Judge Position 3",
+    "category": "Judicial"
+  },
+  {
+    "id": 101,
+    "name": "Lincoln Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 102,
+    "name": "Mason Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 103,
+    "name": "Mason Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 104,
+    "name": "Okanogan Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 107,
+    "name": "Skagit Superior Court - Judge Position 3",
+    "category": "Judicial"
+  },
+  {
+    "id": 108,
+    "name": "Walla Walla Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 109,
+    "name": "Walla Walla Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 113,
+    "name": "Whitman Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 127,
+    "name": "King Superior Court - Judge Position 14",
+    "category": "Judicial"
+  },
+  {
+    "id": 139,
+    "name": "King Superior Court - Judge Position 26",
+    "category": "Judicial"
+  },
+  {
+    "id": 142,
+    "name": "Chelan Superior Court - Judge Position 3",
+    "category": "Judicial"
+  },
+  {
+    "id": 145,
+    "name": "King Superior Court - Judge Position 31",
+    "category": "Judicial"
+  },
+  {
+    "id": 158,
+    "name": "King Superior Court - Judge Position 44",
+    "category": "Judicial"
+  },
+  {
+    "id": 167,
+    "name": "Pierce Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 170,
+    "name": "Pierce Superior Court - Judge Position 5",
+    "category": "Judicial"
+  },
+  {
+    "id": 173,
+    "name": "Pierce Superior Court - Judge Position 8",
+    "category": "Judicial"
+  },
+  {
+    "id": 182,
+    "name": "Pierce Superior Court - Judge Position 17",
+    "category": "Judicial"
+  },
+  {
+    "id": 189,
+    "name": "Snohomish Superior Court - Judge Position 3",
+    "category": "Judicial"
+  },
+  {
+    "id": 210,
+    "name": "Spokane Superior Court - Judge Position 10",
+    "category": "Judicial"
+  },
+  {
+    "id": 211,
+    "name": "Spokane Superior Court - Judge Position 11",
+    "category": "Judicial"
+  },
+  {
+    "id": 213,
+    "name": "Thurston Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 219,
+    "name": "Thurston Superior Court - Judge Position 7",
+    "category": "Judicial"
+  },
+  {
+    "id": 222,
+    "name": "Yakima Superior Court - Judge Position 3",
+    "category": "Judicial"
+  },
+  {
+    "id": 376,
+    "name": "Benton, Franklin Superior Court - Judge Position 6",
+    "category": "Judicial"
+  },
+  {
+    "id": 377,
+    "name": "Kittitas Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 6195,
+    "name": "Clallam Superior Court - Judge Position 3",
+    "category": "Judicial"
+  },
+  {
+    "id": 7738,
+    "name": "King Superior Court - Judge Position 52",
+    "category": "Judicial"
+  },
+  {
+    "id": 9204,
+    "name": "San Juan Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 9219,
+    "name": "Island Superior Court - Judge Position 1",
+    "category": "Judicial"
+  },
+  {
+    "id": 9220,
+    "name": "Island Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 10104,
+    "name": "King Superior Court - Judge Position 53",
+    "category": "Judicial"
+  },
+  {
+    "id": 28820,
+    "name": "Okanogan Superior Court - Judge Position 2",
+    "category": "Judicial"
+  },
+  {
+    "id": 39665,
+    "name": "Mason Superior Court - Judge Position 3",
+    "category": "Judicial"
+  },
+  {
+    "id": 39812,
+    "name": "Benton, Franklin Superior Court - Judge Position 7",
+    "category": "Judicial"
+  },
+  {
+    "id": 228,
+    "name": "Legislative District 1 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 229,
+    "name": "Legislative District 1 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 230,
+    "name": "Legislative District 1 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 231,
+    "name": "Legislative District 2 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 232,
+    "name": "Legislative District 2 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 233,
+    "name": "Legislative District 2 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 234,
+    "name": "Legislative District 3 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 235,
+    "name": "Legislative District 3 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 236,
+    "name": "Legislative District 3 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 237,
+    "name": "Legislative District 4 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 238,
+    "name": "Legislative District 4 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 239,
+    "name": "Legislative District 4 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 240,
+    "name": "Legislative District 5 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 241,
+    "name": "Legislative District 5 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 242,
+    "name": "Legislative District 5 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 244,
+    "name": "Legislative District 6 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 245,
+    "name": "Legislative District 6 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 247,
+    "name": "Legislative District 7 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 248,
+    "name": "Legislative District 7 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 251,
+    "name": "Legislative District 8 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 252,
+    "name": "Legislative District 8 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 253,
+    "name": "Legislative District 9 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 254,
+    "name": "Legislative District 9 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 255,
+    "name": "Legislative District 9 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 256,
+    "name": "Legislative District 10 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 257,
+    "name": "Legislative District 10 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 258,
+    "name": "Legislative District 10 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 259,
+    "name": "Legislative District 11 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 260,
+    "name": "Legislative District 11 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 261,
+    "name": "Legislative District 11 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 262,
+    "name": "Legislative District 12 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 263,
+    "name": "Legislative District 12 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 264,
+    "name": "Legislative District 12 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 266,
+    "name": "Legislative District 13 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 267,
+    "name": "Legislative District 13 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 268,
+    "name": "Legislative District 14 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 269,
+    "name": "Legislative District 14 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 270,
+    "name": "Legislative District 14 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 272,
+    "name": "Legislative District 15 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 273,
+    "name": "Legislative District 15 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 274,
+    "name": "Legislative District 16 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 275,
+    "name": "Legislative District 16 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 276,
+    "name": "Legislative District 16 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 277,
+    "name": "Legislative District 17 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 278,
+    "name": "Legislative District 17 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 279,
+    "name": "Legislative District 17 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 280,
+    "name": "Legislative District 18 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 281,
+    "name": "Legislative District 18 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 282,
+    "name": "Legislative District 18 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 283,
+    "name": "Legislative District 19 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 284,
+    "name": "Legislative District 19 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 285,
+    "name": "Legislative District 19 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 286,
+    "name": "Legislative District 20 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 287,
+    "name": "Legislative District 20 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 288,
+    "name": "Legislative District 20 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 290,
+    "name": "Legislative District 21 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 291,
+    "name": "Legislative District 21 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 292,
+    "name": "Legislative District 22 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 293,
+    "name": "Legislative District 22 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 294,
+    "name": "Legislative District 22 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 295,
+    "name": "Legislative District 23 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 296,
+    "name": "Legislative District 23 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 297,
+    "name": "Legislative District 23 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 298,
+    "name": "Legislative District 24 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 299,
+    "name": "Legislative District 24 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 300,
+    "name": "Legislative District 24 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 301,
+    "name": "Legislative District 25 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 302,
+    "name": "Legislative District 25 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 303,
+    "name": "Legislative District 25 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 305,
+    "name": "Legislative District 26 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 306,
+    "name": "Legislative District 26 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 307,
+    "name": "Legislative District 27 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 308,
+    "name": "Legislative District 27 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 309,
+    "name": "Legislative District 27 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 310,
+    "name": "Legislative District 28 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 311,
+    "name": "Legislative District 28 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 312,
+    "name": "Legislative District 28 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 314,
+    "name": "Legislative District 29 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 315,
+    "name": "Legislative District 29 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 317,
+    "name": "Legislative District 30 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 318,
+    "name": "Legislative District 30 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 320,
+    "name": "Legislative District 31 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 321,
+    "name": "Legislative District 31 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 323,
+    "name": "Legislative District 32 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 324,
+    "name": "Legislative District 32 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 326,
+    "name": "Legislative District 33 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 327,
+    "name": "Legislative District 33 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 329,
+    "name": "Legislative District 34 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 330,
+    "name": "Legislative District 34 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 332,
+    "name": "Legislative District 35 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 333,
+    "name": "Legislative District 35 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 334,
+    "name": "Legislative District 36 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 335,
+    "name": "Legislative District 36 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 336,
+    "name": "Legislative District 36 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 338,
+    "name": "Legislative District 37 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 339,
+    "name": "Legislative District 37 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 341,
+    "name": "Legislative District 38 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 342,
+    "name": "Legislative District 38 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 343,
+    "name": "Legislative District 39 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 344,
+    "name": "Legislative District 39 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 345,
+    "name": "Legislative District 39 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 346,
+    "name": "Legislative District 40 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 347,
+    "name": "Legislative District 40 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 348,
+    "name": "Legislative District 40 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 349,
+    "name": "Legislative District 41 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 350,
+    "name": "Legislative District 41 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 351,
+    "name": "Legislative District 41 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 353,
+    "name": "Legislative District 42 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 354,
+    "name": "Legislative District 42 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 356,
+    "name": "Legislative District 43 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 357,
+    "name": "Legislative District 43 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 359,
+    "name": "Legislative District 44 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 360,
+    "name": "Legislative District 44 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 362,
+    "name": "Legislative District 45 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 363,
+    "name": "Legislative District 45 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 365,
+    "name": "Legislative District 46 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 366,
+    "name": "Legislative District 46 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 368,
+    "name": "Legislative District 47 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 369,
+    "name": "Legislative District 47 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 371,
+    "name": "Legislative District 48 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 372,
+    "name": "Legislative District 48 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 373,
+    "name": "Legislative District 49 - State Senator",
+    "category": "Legislative"
+  },
+  {
+    "id": 374,
+    "name": "Legislative District 49 - State Representative Pos. 1",
+    "category": "Legislative"
+  },
+  {
+    "id": 375,
+    "name": "Legislative District 49 - State Representative Pos. 2",
+    "category": "Legislative"
+  },
+  {
+    "id": 9221,
+    "name": "ADAMS COUNTY County Commissioner District 1",
+    "category": "Local",
+    "subcategory": "Adams"
+  },
+  {
+    "id": 9222,
+    "name": "ADAMS COUNTY County Commissioner District 2",
+    "category": "Local",
+    "subcategory": "Adams"
+  },
+  {
+    "id": 9230,
+    "name": "ADAMS COUNTY Sheriff",
+    "category": "Local",
+    "subcategory": "Adams"
+  },
+  {
+    "id": 113973,
+    "name": "CEMETERY DISTRICT 2 Proposition 1 Maintenance and Operation Levy",
+    "category": "Local",
+    "subcategory": "Adams"
+  },
+  {
+    "id": 113977,
+    "name": "CEMETERY DISTRICT 3 Proposition 1 Maintenance and Operation Levy",
+    "category": "Local",
+    "subcategory": "Adams"
+  },
+  {
+    "id": 113981,
+    "name": "FIRE DISTRICT 4 Proposition 1 Maintenance and Operation Levy",
+    "category": "Local",
+    "subcategory": "Adams"
+  },
+  {
+    "id": 113985,
+    "name": "SCHOOL DISTRICT 122 - BENGE Proposition 1 Replacement Maintenance and Operation Levy",
+    "category": "Local",
+    "subcategory": "Adams"
+  },
+  {
+    "id": 6284,
+    "name": "COUNTYWIDE COUNTY COMMISSIONER 1",
+    "category": "Local",
+    "subcategory": "Asotin"
+  },
+  {
+    "id": 6285,
+    "name": "COUNTYWIDE COUNTY COMMISSIONER 2",
+    "category": "Local",
+    "subcategory": "Asotin"
+  },
+  {
+    "id": 6290,
+    "name": "COUNTYWIDE DISTRICT COURT JUDGE",
+    "category": "Local",
+    "subcategory": "Asotin"
+  },
+  {
+    "id": 113473,
+    "name": "CITY OF ASOTIN A Proposition to authorize the levy of additional taxes. A Proposition to authorize the levy of additional taxes.",
+    "category": "Local",
+    "subcategory": "Asotin"
+  },
+  {
+    "id": 113477,
+    "name": "CITY OF CLARKSTON City of Clarkston EMS Excess Tax Levy City of Clarkston EMS Excess Tax Levy",
+    "category": "Local",
+    "subcategory": "Asotin"
+  },
+  {
+    "id": 8174,
+    "name": "Benton County Commissioner District #1",
+    "category": "Local",
+    "subcategory": "Benton"
+  },
+  {
+    "id": 8177,
+    "name": "Benton County Commissioner District #3",
+    "category": "Local",
+    "subcategory": "Benton"
+  },
+  {
+    "id": 8181,
+    "name": "Benton County District Court Judge 2",
+    "category": "Local",
+    "subcategory": "Benton"
+  },
+  {
+    "id": 8190,
+    "name": "Benton County PUD Commissioner Pos. 1",
+    "category": "Local",
+    "subcategory": "Benton"
+  },
+  {
+    "id": 113857,
+    "name": "City of Benton City Proposition 16-9 Marijuana (Advisory only)",
+    "category": "Local",
+    "subcategory": "Benton"
+  },
+  {
+    "id": 113865,
+    "name": "City Of West Richland Proposition 16-10 LEVY LID LIFT FOR SUPPORT OF LIBRARY",
+    "category": "Local",
+    "subcategory": "Benton"
+  },
+  {
+    "id": 6534,
+    "name": "CHELAN COUNTY COMMISSIONER 1",
+    "category": "Local",
+    "subcategory": "Chelan"
+  },
+  {
+    "id": 6536,
+    "name": "CHELAN COUNTY COMMISSIONER 3",
+    "category": "Local",
+    "subcategory": "Chelan"
+  },
+  {
+    "id": 6661,
+    "name": "PUD ALL PUBLIC UTILITY COMMISSIONER #03",
+    "category": "Local",
+    "subcategory": "Chelan"
+  },
+  {
+    "id": 6662,
+    "name": "PUD ALL PUBLIC UTILITY DIST COMMISSIONER A",
+    "category": "Local",
+    "subcategory": "Chelan"
+  },
+  {
+    "id": 8029,
+    "name": "PUBLIC UTILITY DIST 1 Commissioner District No. 1",
+    "category": "Local",
+    "subcategory": "Clallam"
+  },
+  {
+    "id": 8798,
+    "name": "COUNTY COMMISSIONER DIST 2 County Commissioner Dist. No. 2",
+    "category": "Local",
+    "subcategory": "Clallam"
+  },
+  {
+    "id": 113737,
+    "name": "COUNTYWIDE Charter Amendment No. 1 Vacancies in Public Office",
+    "category": "Local",
+    "subcategory": "Clallam"
+  },
+  {
+    "id": 113741,
+    "name": "COUNTYWIDE Charter Amendment No. 2 Employee Appeals of Disciplinary Matters",
+    "category": "Local",
+    "subcategory": "Clallam"
+  },
+  {
+    "id": 113745,
+    "name": "HOSPITAL DISTRICT 1 Proposition No. 1 Increasing the Number of Commissioners",
+    "category": "Local",
+    "subcategory": "Clallam"
+  },
+  {
+    "id": 113749,
+    "name": "CITY OF SEQUIM Advisory Proposition No. 1 Fireworks Ban",
+    "category": "Local",
+    "subcategory": "Clallam"
+  },
+  {
+    "id": 12803,
+    "name": "CLARK PUBLIC UTILITY DISTRICT COMMISSIONER, DISTRICT NO. 2",
+    "category": "Local",
+    "subcategory": "Clark"
+  },
+  {
+    "id": 39805,
+    "name": "COUNTY COUNCILOR DISTRICT #3 COUNCILOR, DISTRICT NO. 3",
+    "category": "Local",
+    "subcategory": "Clark"
+  },
+  {
+    "id": 39806,
+    "name": "COUNTY COUNCILOR DISTRICT #4 COUNCILOR, DISTRICT NO. 4",
+    "category": "Local",
+    "subcategory": "Clark"
+  },
+  {
+    "id": 113549,
+    "name": "CITY OF WOODLAND Proposition 1 Sales and Use Tax for Transportation Improvements",
+    "category": "Local",
+    "subcategory": "Clark"
+  },
+  {
+    "id": 113965,
+    "name": "BATTLE GROUND SCHOOL DISTRICT NO. 119 Proposition No. 1 Bonds to Replace, Renovate and Construct School Facilities and Improve Safety",
+    "category": "Local",
+    "subcategory": "Clark"
+  },
+  {
+    "id": 113969,
+    "name": "CITY OF VANCOUVER Proposition No. 1 Very Low-Income Housing Levy",
+    "category": "Local",
+    "subcategory": "Clark"
+  },
+  {
+    "id": 6761,
+    "name": "COUNTY WIDE DISTRICT 01 Columbia County Commissioner #1",
+    "category": "Local",
+    "subcategory": "Columbia"
+  },
+  {
+    "id": 6762,
+    "name": "COUNTY WIDE DISTRICT 01 Columbia County Commissioner #2",
+    "category": "Local",
+    "subcategory": "Columbia"
+  },
+  {
+    "id": 113933,
+    "name": "WAITSBURG SCHOOL DISTRICT 401-100 Proposition 1 Bonds to Improve and Upgrade Waitsburg School Facilities",
+    "category": "Local",
+    "subcategory": "Columbia"
+  },
+  {
+    "id": 113937,
+    "name": "PRESCOTT JOINT PARK AND REC DIST Proposition No. 1 Maintenance &amp; Operation Excess Levy",
+    "category": "Local",
+    "subcategory": "Columbia"
+  },
+  {
+    "id": 8508,
+    "name": "COWLITZ Commissioner District 1",
+    "category": "Local",
+    "subcategory": "Cowlitz"
+  },
+  {
+    "id": 8511,
+    "name": "COWLITZ Commissioner District 2",
+    "category": "Local",
+    "subcategory": "Cowlitz"
+  },
+  {
+    "id": 8901,
+    "name": "PUD ALL Commissioner 3",
+    "category": "Local",
+    "subcategory": "Cowlitz"
+  },
+  {
+    "id": 113529,
+    "name": "CITY OF KELSO Proposition 1 Charter Amendment Concerning Councilmember District Residency Requirements",
+    "category": "Local",
+    "subcategory": "Cowlitz"
+  },
+  {
+    "id": 113533,
+    "name": "CITY OF KELSO Proposition 2 Charter Amendment Concerning Councilmember Vacancies",
+    "category": "Local",
+    "subcategory": "Cowlitz"
+  },
+  {
+    "id": 113537,
+    "name": "CITY OF KELSO Proposition 3 Charter Amendment Concerning City Manager Provisions",
+    "category": "Local",
+    "subcategory": "Cowlitz"
+  },
+  {
+    "id": 113541,
+    "name": "CITY OF KELSO Proposition 4 Charter Amendment Concerning City Administrative Provisions",
+    "category": "Local",
+    "subcategory": "Cowlitz"
+  },
+  {
+    "id": 113545,
+    "name": "CITY OF KALAMA Proposition 1 Sales/Use Tax Increase of 0.1% for a New Police Facility",
+    "category": "Local",
+    "subcategory": "Cowlitz"
+  },
+  {
+    "id": 113553,
+    "name": "COWLITZ 2 FIRE &amp; RESCUE Proposition 1 Bonds for Fire Stations and Vehicle",
+    "category": "Local",
+    "subcategory": "Cowlitz"
+  },
+  {
+    "id": 113557,
+    "name": "COWLITZ Proposition 1 One-tenth of One Percent Sale and Use Tax for Emergency 911 Communication Systems and Facilities",
+    "category": "Local",
+    "subcategory": "Cowlitz"
+  },
+  {
+    "id": 113561,
+    "name": "FIRE PROTECTION DISTRICT 3 Proposition 1 Toutle Fire Permanent Regular Property Tax Levy for Emergency Medical Services",
+    "category": "Local",
+    "subcategory": "Cowlitz"
+  },
+  {
+    "id": 6071,
+    "name": "DOUGLAS COUNTYWIDE County Commissioner 1",
+    "category": "Local",
+    "subcategory": "Douglas"
+  },
+  {
+    "id": 6072,
+    "name": "DOUGLAS COUNTYWIDE County Commissioner 2",
+    "category": "Local",
+    "subcategory": "Douglas"
+  },
+  {
+    "id": 6166,
+    "name": "PUD COUNTYWIDE COMMISSIONER 3",
+    "category": "Local",
+    "subcategory": "Douglas"
+  },
+  {
+    "id": 113425,
+    "name": "FIRE DISTRICT #3 Proposition 1 PROPERTY TAX LEVY LID LIFT FOR FIRE AND EMERGENCY SERVICES",
+    "category": "Local",
+    "subcategory": "Douglas"
+  },
+  {
+    "id": 113453,
+    "name": "EASTMONT METRO PARK Proposition 1 GENERAL OBLIGATION BONDS",
+    "category": "Local",
+    "subcategory": "Douglas"
+  },
+  {
+    "id": 113833,
+    "name": "EASTMONT SD Proposition 1 RENEWAL OF EXPIRING EDUCATIONAL PROGRAMS AND OPERATIONS LEVY",
+    "category": "Local",
+    "subcategory": "Douglas"
+  },
+  {
+    "id": 113837,
+    "name": "EASTMONT SD Proposition 2 CAPITAL LEVY TO RENOVATE AND MODERNIZE SCHOOL FACILITIE",
+    "category": "Local",
+    "subcategory": "Douglas"
+  },
+  {
+    "id": 113841,
+    "name": "HOSPITAL DISTRICT #2 Proposition 1 ONE YEAR EXCESS LEVY",
+    "category": "Local",
+    "subcategory": "Douglas"
+  },
+  {
+    "id": 5461,
+    "name": "FERRY COUNTY COUNTY COMMISSIONER #1",
+    "category": "Local",
+    "subcategory": "Ferry"
+  },
+  {
+    "id": 5463,
+    "name": "FERRY COUNTY COUNTY COMMISSIONER #3",
+    "category": "Local",
+    "subcategory": "Ferry"
+  },
+  {
+    "id": 5464,
+    "name": "FERRY COUNTY PROSECUTING ATTORNEY",
+    "category": "Local",
+    "subcategory": "Ferry"
+  },
+  {
+    "id": 5478,
+    "name": "PUD (COUNTYWIDE) PUBLIC UTILITY COMMISSIONER #1",
+    "category": "Local",
+    "subcategory": "Ferry"
+  },
+  {
+    "id": 7739,
+    "name": "County of Franklin Commissioner #1",
+    "category": "Local",
+    "subcategory": "Franklin"
+  },
+  {
+    "id": 7740,
+    "name": "County of Franklin Commissioner #2",
+    "category": "Local",
+    "subcategory": "Franklin"
+  },
+  {
+    "id": 7810,
+    "name": "Public Utility District Commissioner #1",
+    "category": "Local",
+    "subcategory": "Franklin"
+  },
+  {
+    "id": 113961,
+    "name": "City of Kahlotus Proposition No. 1 Annexation into the Mid-Columbia Library District",
+    "category": "Local",
+    "subcategory": "Franklin"
+  },
+  {
+    "id": 6823,
+    "name": "COUNTY WIDE DISTRICT 01 COUNTY COMMISSIONER 1",
+    "category": "Local",
+    "subcategory": "Garfield"
+  },
+  {
+    "id": 6824,
+    "name": "COUNTY WIDE DISTRICT 01 COUNTY COMMISSIONER 2",
+    "category": "Local",
+    "subcategory": "Garfield"
+  },
+  {
+    "id": 6956,
+    "name": "Grant COUNTY COMMISSIONER #01",
+    "category": "Local",
+    "subcategory": "Grant"
+  },
+  {
+    "id": 6957,
+    "name": "Grant COUNTY COMMISSIONER #02",
+    "category": "Local",
+    "subcategory": "Grant"
+  },
+  {
+    "id": 7025,
+    "name": "Grant County PUD All Commissioner Distict 2",
+    "category": "Local",
+    "subcategory": "Grant"
+  },
+  {
+    "id": 7027,
+    "name": "Grant County PUD All Commissioner Distict A",
+    "category": "Local",
+    "subcategory": "Grant"
+  },
+  {
+    "id": 113893,
+    "name": "Grant County Hospital Dist #2 Proposition No. 1 LEVY FOR OPERATIONS AND MAINTENANCE",
+    "category": "Local",
+    "subcategory": "Grant"
+  },
+  {
+    "id": 113897,
+    "name": "Mattawa Proposition No. 1 SALES AND USE TAX INCREASE OF 0.1% FOR NEW POLICE OFFICERS",
+    "category": "Local",
+    "subcategory": "Grant"
+  },
+  {
+    "id": 113901,
+    "name": "Soap Lake City of Soap Lake Proposition No. 1 ADOPTION OF THE COUNCIL-MANAGER FORM OF GOVERNMENT WITHIN THE CITY OF SOAP LAKE",
+    "category": "Local",
+    "subcategory": "Grant"
+  },
+  {
+    "id": 113905,
+    "name": "Wilson Creek Cemetery Dist #2 Proposition No. 1 SPECIAL ONE YEAR MAINTENANCE AND OPERATION LEVY",
+    "category": "Local",
+    "subcategory": "Grant"
+  },
+  {
+    "id": 7650,
+    "name": "Grays Harbor - ALL Commissioner #1",
+    "category": "Local",
+    "subcategory": "Grays Harbor"
+  },
+  {
+    "id": 7828,
+    "name": "Grays Harbor - ALL Commissioner #2",
+    "category": "Local",
+    "subcategory": "Grays Harbor"
+  },
+  {
+    "id": 7830,
+    "name": "Grays Harbor - ALL District Court #1",
+    "category": "Local",
+    "subcategory": "Grays Harbor"
+  },
+  {
+    "id": 9213,
+    "name": "PUD District PUD Comm (2)",
+    "category": "Local",
+    "subcategory": "Grays Harbor"
+  },
+  {
+    "id": 113909,
+    "name": "City of Hoquiam Purchase and Reconditioning of Ambulances General Obligation Bonds - $360,000",
+    "category": "Local",
+    "subcategory": "Grays Harbor"
+  },
+  {
+    "id": 113913,
+    "name": "Sch Dist 97 - Quinault Capital Levy for Health, Safety, Security and Infrastructure Improvements",
+    "category": "Local",
+    "subcategory": "Grays Harbor"
+  },
+  {
+    "id": 113917,
+    "name": "Fire District 5 Emergency Medical Services- 6-Year Regular Levy",
+    "category": "Local",
+    "subcategory": "Grays Harbor"
+  },
+  {
+    "id": 113921,
+    "name": "Fire District 14 Emergency Medical Services Excess Levy",
+    "category": "Local",
+    "subcategory": "Grays Harbor"
+  },
+  {
+    "id": 9901,
+    "name": "COUNTY WIDE County Commissioner, District 2",
+    "category": "Local",
+    "subcategory": "Island"
+  },
+  {
+    "id": 9902,
+    "name": "COUNTY WIDE County Commissioner, District 1",
+    "category": "Local",
+    "subcategory": "Island"
+  },
+  {
+    "id": 11032,
+    "name": "PUD NO 1 Commissioner District 3",
+    "category": "Local",
+    "subcategory": "Island"
+  },
+  {
+    "id": 7527,
+    "name": "County of Jefferson Commissioner 1",
+    "category": "Local",
+    "subcategory": "Jefferson"
+  },
+  {
+    "id": 7528,
+    "name": "County of Jefferson Commissioner 2",
+    "category": "Local",
+    "subcategory": "Jefferson"
+  },
+  {
+    "id": 7621,
+    "name": "Public Utility District Public Utility District No. 1 #1",
+    "category": "Local",
+    "subcategory": "Jefferson"
+  },
+  {
+    "id": 113809,
+    "name": "Brinnon Park and Recreation Dist. No. 2 Proposition No. 1 Six Year Regular Tax Levy",
+    "category": "Local",
+    "subcategory": "Jefferson"
+  },
+  {
+    "id": 39933,
+    "name": "Southwest Electoral District Judge Position 3",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 39934,
+    "name": "West Electoral District Judge Position 1",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 39935,
+    "name": "West Electoral District Judge Position 4",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 113817,
+    "name": "Regional Transportation Authority Proposition No. 1 Light-Rail, Commuter-Rail, and Bus Service Expansion",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 113821,
+    "name": "Auburn School District No. 408 Proposition No. 1 School Construction and Replacement General Obligation Bonds - $456,056,000",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 113949,
+    "name": "City Of Bothell Advisory Proposition No. 1 Sale, Possession and Discharge of Consumer Fireworks in the City of Bothell",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 113953,
+    "name": "City Of Bothell Proposition No. 1 Levy for Safe Streets and Sidewalks",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114033,
+    "name": "Metropolitan King County Charter Amendment No. 1, Nonpartisan Prosecuting Attorney",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114037,
+    "name": "Metropolitan King County Charter Amendment No. 2, Gender-Neutral Language",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114041,
+    "name": "City Of Bellevue Proposition No. 1, Levy for Fire Facilities",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114045,
+    "name": "City Of Bellevue Proposition No. 2, Levy for Neighborhood Safety, Connectivity, and Congestion",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114057,
+    "name": "City Of Duvall Proposition No. 1, Nine Year Levy Lid Lift for Big Rock Ballfield Improvements, Employment of a Full-Time School Resource Officer, and IT System Improvements",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114061,
+    "name": "City Of Duvall Advisory Vote No. 1, Sale, Possession, and Discharge of Consumer Fireworks Within the City of Duvall",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114065,
+    "name": "City Of Issaquah Proposition No. 1, Traffic Improvement Bonds",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114069,
+    "name": "City Of Kenmore Proposition No. 1, General Obligation Bonds Walkways and Waterways Improvements",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114073,
+    "name": "City Of Seattle Initiative Measure No. 124",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114077,
+    "name": "City Of Shoreline Proposition No. 1, Basic Public Safety, Parks &amp; Recreation, and Community Services Maintenance and Operations Levy",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114081,
+    "name": "City Of Snoqualmie Proposition No. 1, Public Safety Levy",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114085,
+    "name": "City Of Tukwila Proposition No. 1, Public Safety Bonds",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114089,
+    "name": "Highline School District No. 401 Proposition No. 1, Bonds to Construct New Schools and Replace and Renovate Deteriorating Schools",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114093,
+    "name": "Kent School District No. 415 Proposition No. 1, Capital Improvement and School Construction General Obligation Bonds - $252,000,000",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114097,
+    "name": "King County Fire Protection District 27 Proposition No. 1, Levy of General Tax for Maintenance and Operations",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114101,
+    "name": "South King Fire And Rescue Proposition No. 1, Levy of General Tax $2,750,000 for Maintenance and Operations",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 114105,
+    "name": "Proposed Eastside Regional Fire Authority Proposition No. 1",
+    "category": "Local",
+    "subcategory": "King"
+  },
+  {
+    "id": 38808,
+    "name": "KITSAP COUNTY Commissioner District 1",
+    "category": "Local",
+    "subcategory": "Kitsap"
+  },
+  {
+    "id": 38817,
+    "name": "KITSAP COUNTY Commissioner District 2",
+    "category": "Local",
+    "subcategory": "Kitsap"
+  },
+  {
+    "id": 38975,
+    "name": "PUBLIC UTILITY DISTRICT NO. 1 Commissioner District 1",
+    "category": "Local",
+    "subcategory": "Kitsap"
+  },
+  {
+    "id": 113845,
+    "name": "KITSAP TRANSIT Proposition No. 1 Passenger-Only Ferry Investment Plan And Sales &amp; Use Tax",
+    "category": "Local",
+    "subcategory": "Kitsap"
+  },
+  {
+    "id": 113849,
+    "name": "PROPOSED PT POULSBO ANNEX 2016 Proposition No. 1 Enlargement of Port of Poulsbo",
+    "category": "Local",
+    "subcategory": "Kitsap"
+  },
+  {
+    "id": 11309,
+    "name": "COUNTY WIDE - KITTITAS Commissioner 1",
+    "category": "Local",
+    "subcategory": "Kittitas"
+  },
+  {
+    "id": 11310,
+    "name": "COUNTY WIDE - KITTITAS Commissioner 2",
+    "category": "Local",
+    "subcategory": "Kittitas"
+  },
+  {
+    "id": 11319,
+    "name": "PUBLIC UTILITY DISTRICT 1 Commissioner 3",
+    "category": "Local",
+    "subcategory": "Kittitas"
+  },
+  {
+    "id": 113641,
+    "name": "ELLENSBURG SCHOOL DISTRICT 401 Proposition No. 1 Dissolution and Reaportionment of Directors&#39; Districts",
+    "category": "Local",
+    "subcategory": "Kittitas"
+  },
+  {
+    "id": 113729,
+    "name": "PORT DISTRICT Proposition No. 1 A Measure Regarding the Formation of a Port District",
+    "category": "Local",
+    "subcategory": "Kittitas"
+  },
+  {
+    "id": 9788,
+    "name": "KLICKITAT COUNTY Klickitat County Commissioner 1",
+    "category": "Local",
+    "subcategory": "Klickitat"
+  },
+  {
+    "id": 10137,
+    "name": "KLICKITAT COUNTY Klickitat County Commissioner 3",
+    "category": "Local",
+    "subcategory": "Klickitat"
+  },
+  {
+    "id": 10138,
+    "name": "PUBLIC UTILITY DISTRICT # 1 Utility Commissioner #2",
+    "category": "Local",
+    "subcategory": "Klickitat"
+  },
+  {
+    "id": 113625,
+    "name": "PARK AND RECREATIONAL DIST. # 2 Proposition No. 1 Mount Adams Park and Recreation District Funding",
+    "category": "Local",
+    "subcategory": "Klickitat"
+  },
+  {
+    "id": 9263,
+    "name": "County Comm Dist 1",
+    "category": "Local",
+    "subcategory": "Lewis"
+  },
+  {
+    "id": 9264,
+    "name": "County Comm Dist 2",
+    "category": "Local",
+    "subcategory": "Lewis"
+  },
+  {
+    "id": 9277,
+    "name": "PUD District Comm Dist 3",
+    "category": "Local",
+    "subcategory": "Lewis"
+  },
+  {
+    "id": 113925,
+    "name": "Fire Dist. #3-Mossyrock Bonds to Construct a New Fire Station",
+    "category": "Local",
+    "subcategory": "Lewis"
+  },
+  {
+    "id": 113929,
+    "name": "Fire Dist. #5-Napavine Emergency Medical Services Regular Property Tax Levy",
+    "category": "Local",
+    "subcategory": "Lewis"
+  },
+  {
+    "id": 4221,
+    "name": "COUNTYWIDE COUNTY COMMISSIONER 1",
+    "category": "Local",
+    "subcategory": "Lincoln"
+  },
+  {
+    "id": 4229,
+    "name": "COUNTYWIDE COUNTY COMMISSIONER 2",
+    "category": "Local",
+    "subcategory": "Lincoln"
+  },
+  {
+    "id": 4230,
+    "name": "COUNTYWIDE DISTRICT COURT JUDGE",
+    "category": "Local",
+    "subcategory": "Lincoln"
+  },
+  {
+    "id": 4249,
+    "name": "PUBLIC UTILITY DIST 1 PUBLIC UTILITY COMMISSIONER 3",
+    "category": "Local",
+    "subcategory": "Lincoln"
+  },
+  {
+    "id": 113869,
+    "name": "COUNTYWIDE Propostion No. 1 Lincoln County Public Safety Sales and Use Tax",
+    "category": "Local",
+    "subcategory": "Lincoln"
+  },
+  {
+    "id": 113873,
+    "name": "CITY OF SPRAGUE Proposition No. 1 Regular Six Year Levy for Provision of Emergency Services Allowed by RCW 84.52.069",
+    "category": "Local",
+    "subcategory": "Lincoln"
+  },
+  {
+    "id": 113877,
+    "name": "FIRE DISTRICT 1 Proposition No. 1 Regular Six Year Levy for Provision of Emergency Services Allowed by RCW 84.52.069",
+    "category": "Local",
+    "subcategory": "Lincoln"
+  },
+  {
+    "id": 113881,
+    "name": "CEMETERY DISTRICT 7 Proposition No. 1 Water System Upgrades and Cemetery Maintenance Levy",
+    "category": "Local",
+    "subcategory": "Lincoln"
+  },
+  {
+    "id": 7284,
+    "name": "Mason County County Commissioner District 1",
+    "category": "Local",
+    "subcategory": "Mason"
+  },
+  {
+    "id": 7285,
+    "name": "Mason County County Commissioner District 2",
+    "category": "Local",
+    "subcategory": "Mason"
+  },
+  {
+    "id": 7407,
+    "name": "Public Utility Dist 1 Commissioner District 1",
+    "category": "Local",
+    "subcategory": "Mason"
+  },
+  {
+    "id": 7410,
+    "name": "Public Utility Dist 3 Commissioner District 1",
+    "category": "Local",
+    "subcategory": "Mason"
+  },
+  {
+    "id": 39917,
+    "name": "Proposed Metropolitan Park District Park Commissioner Position 1",
+    "category": "Local",
+    "subcategory": "Mason"
+  },
+  {
+    "id": 39918,
+    "name": "Proposed Metropolitan Park District Park Commissioner Position 2",
+    "category": "Local",
+    "subcategory": "Mason"
+  },
+  {
+    "id": 39919,
+    "name": "Proposed Metropolitan Park District Park Commissioner Position 3",
+    "category": "Local",
+    "subcategory": "Mason"
+  },
+  {
+    "id": 39920,
+    "name": "Proposed Metropolitan Park District Park Commissioner Position 4",
+    "category": "Local",
+    "subcategory": "Mason"
+  },
+  {
+    "id": 39921,
+    "name": "Proposed Metropolitan Park District Park Commissioner Position 5",
+    "category": "Local",
+    "subcategory": "Mason"
+  },
+  {
+    "id": 113941,
+    "name": "Proposed Metropolitan Park District Mason County Proposition No. 1 Metropolitan Park District Mason County Proposition No. 1 Metropolitan Park District",
+    "category": "Local",
+    "subcategory": "Mason"
+  },
+  {
+    "id": 113945,
+    "name": "Fire Protection Dist 13 Proposition For Property Tax Levy Lid Lift",
+    "category": "Local",
+    "subcategory": "Mason"
+  },
+  {
+    "id": 10454,
+    "name": "OKANOGAN COUNTY Commissioner District 1",
+    "category": "Local",
+    "subcategory": "Okanogan"
+  },
+  {
+    "id": 10455,
+    "name": "OKANOGAN COUNTY Commissioner District 2",
+    "category": "Local",
+    "subcategory": "Okanogan"
+  },
+  {
+    "id": 10463,
+    "name": "DISTRICT COURT JUDGE Judge Pos. 1",
+    "category": "Local",
+    "subcategory": "Okanogan"
+  },
+  {
+    "id": 10703,
+    "name": "OKANOGAN PUD ALL Commissioner Dist. #3",
+    "category": "Local",
+    "subcategory": "Okanogan"
+  },
+  {
+    "id": 113861,
+    "name": "TOWN OF TWISP Proposition 1 Emergency Medical Care and Ambulance Services Levy",
+    "category": "Local",
+    "subcategory": "Okanogan"
+  },
+  {
+    "id": 7189,
+    "name": "Pacific County COUNTY COMMISSIONER #01",
+    "category": "Local",
+    "subcategory": "Pacific"
+  },
+  {
+    "id": 7190,
+    "name": "Pacific County COUNTY COMMISSIONER #02",
+    "category": "Local",
+    "subcategory": "Pacific"
+  },
+  {
+    "id": 7233,
+    "name": "PUD 2 Commissioner District #2 PUBLIC UTILITY COMMISSIONER #03",
+    "category": "Local",
+    "subcategory": "Pacific"
+  },
+  {
+    "id": 113885,
+    "name": "Emergency Med. Service 1 NORTH PACIFIC COUNTY EMS DISTRICT NO. 1 EXCESS EMS LEVY",
+    "category": "Local",
+    "subcategory": "Pacific"
+  },
+  {
+    "id": 5689,
+    "name": "County COUNTY COMMISSIONER 1",
+    "category": "Local",
+    "subcategory": "Pend Oreille"
+  },
+  {
+    "id": 5691,
+    "name": "County COUNTY COMMISSIONER 3",
+    "category": "Local",
+    "subcategory": "Pend Oreille"
+  },
+  {
+    "id": 5730,
+    "name": "Public Utility District (ALL) PUBLIC UTILITY COMMISSIONER #3",
+    "category": "Local",
+    "subcategory": "Pend Oreille"
+  },
+  {
+    "id": 113433,
+    "name": "Fire District - 02 Proposition No. 2 Emergency Medical Services Levy",
+    "category": "Local",
+    "subcategory": "Pend Oreille"
+  },
+  {
+    "id": 113437,
+    "name": "Fire District - 02 Proposition No. 1 Permanent Lid Lift Levy to Fund Maintenance and Operations",
+    "category": "Local",
+    "subcategory": "Pend Oreille"
+  },
+  {
+    "id": 113501,
+    "name": "Sacheen Lake W/S District Proposition No. 1 One Year Excess Levy for Maintenance and Operation",
+    "category": "Local",
+    "subcategory": "Pend Oreille"
+  },
+  {
+    "id": 113505,
+    "name": "City of Cusick Proposition No. 2 Annexation into Fire District 4 for Fire and Emergency Medical Services",
+    "category": "Local",
+    "subcategory": "Pend Oreille"
+  },
+  {
+    "id": 113509,
+    "name": "City of Cusick Proposition No. 1 Levy Lid Lift for Fire and Emergency Medical Services",
+    "category": "Local",
+    "subcategory": "Pend Oreille"
+  },
+  {
+    "id": 113513,
+    "name": "Fire District - 05 Proposition No. 1 Permanent Lid Lift Levy to Fund Operations and Maintenance",
+    "category": "Local",
+    "subcategory": "Pend Oreille"
+  },
+  {
+    "id": 113517,
+    "name": "Fire District - 04 Proposition No. 1 Emergency Medical Services Property Tax Levy",
+    "category": "Local",
+    "subcategory": "Pend Oreille"
+  },
+  {
+    "id": 113521,
+    "name": "Fire District - 04 Proposition No. 2 Annexation of Town of Cusick into Pend Oreille County Fire District No. 4",
+    "category": "Local",
+    "subcategory": "Pend Oreille"
+  },
+  {
+    "id": 11523,
+    "name": "COUNTY Executive",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 11525,
+    "name": "COUNTY Assessor - Treasurer",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 11528,
+    "name": "COUNTY Sheriff",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 11568,
+    "name": "COUNTY COUNCIL DISTRICT NO. 2 County Council No. 2",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 11569,
+    "name": "COUNTY COUNCIL DISTRICT NO. 3 County Council No. 3",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 11572,
+    "name": "COUNTY COUNCIL DISTRICT NO. 4 County Council No. 4",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 11573,
+    "name": "COUNTY COUNCIL DISTRICT NO. 6 County Council No. 6",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 113753,
+    "name": "COUNTY Proposed Charter Amendment No. 41 Initiative Procedures",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 113785,
+    "name": "COUNTY Proposed Charter Amendment No. 42 Referendum Procedures",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 113789,
+    "name": "COUNTY Proposed Charter Amendment No. 43 Referendum Procedures",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 113793,
+    "name": "COUNTY Proposed Charter Amendment No. 44 Conflict of Interest",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 113797,
+    "name": "COUNTY Proposed Charter Amendment No. 45 Purchasing, Contracts, Claims and Bonds",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 113801,
+    "name": "FRANKLIN PIERCE SCHOOL DISTRICT NO. 402 Proposition No. 1 General Obligation Bonds - $157,000,000",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 113825,
+    "name": "FIRE PROTECTION DISTRICT NO. 5 Proposition No. 1 Six-Year Levy Lid Lift",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 113829,
+    "name": "FIRE PROTECTION DISTRICT NO. 21 Proposition No. 1 Increasing the Number of Commissioners",
+    "category": "Local",
+    "subcategory": "Pierce"
+  },
+  {
+    "id": 38782,
+    "name": "San Juan County Council Residency District 1",
+    "category": "Local",
+    "subcategory": "San Juan"
+  },
+  {
+    "id": 38783,
+    "name": "San Juan County Council Residency District 2",
+    "category": "Local",
+    "subcategory": "San Juan"
+  },
+  {
+    "id": 113481,
+    "name": "Lopez Solid Waste Disposal District Proposition No. 1 Concerning an excess levy for the District",
+    "category": "Local",
+    "subcategory": "San Juan"
+  },
+  {
+    "id": 113493,
+    "name": "Orcas Island Library District Proposition No. 1 Concerning an increase to its regular property tax",
+    "category": "Local",
+    "subcategory": "San Juan"
+  },
+  {
+    "id": 8989,
+    "name": "SKAGIT COUNTY Coroner",
+    "category": "Local",
+    "subcategory": "Skagit"
+  },
+  {
+    "id": 8993,
+    "name": "SKAGIT COUNTY Commissioner District 1",
+    "category": "Local",
+    "subcategory": "Skagit"
+  },
+  {
+    "id": 8994,
+    "name": "SKAGIT COUNTY Commissioner District 2",
+    "category": "Local",
+    "subcategory": "Skagit"
+  },
+  {
+    "id": 9156,
+    "name": "SKAGIT PUD DISTRICT COUNTYWIDE Commissioner 3",
+    "category": "Local",
+    "subcategory": "Skagit"
+  },
+  {
+    "id": 39813,
+    "name": "SKAGIT COUNTY District Court Judge Position 3",
+    "category": "Local",
+    "subcategory": "Skagit"
+  },
+  {
+    "id": 113805,
+    "name": "CITY OF MOUNT VERNON Proposition No. 1 Mount Vernon Transportation Benefit District Mount Vernon, Washington, Sales and Use Tax for Transpo",
+    "category": "Local",
+    "subcategory": "Skagit"
+  },
+  {
+    "id": 113853,
+    "name": "FIRE DISTRICT 14 Proposition No. 1 Property Tax Levy for Fire Protection and Emergency Medical Services",
+    "category": "Local",
+    "subcategory": "Skagit"
+  },
+  {
+    "id": 8372,
+    "name": "COUNTYWIDE DISTRICT Clerk",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 8373,
+    "name": "COUNTYWIDE DISTRICT Commissioner #1",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 8374,
+    "name": "COUNTYWIDE DISTRICT Commissioner #2",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 8382,
+    "name": "PUBLIC UTILITY DISTRICT Commissioner #2",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 39928,
+    "name": "SKAMANIA COUNTY PARKS AND REC DIST NO. 1 COMMISSIONER 1",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 39929,
+    "name": "SKAMANIA COUNTY PARKS AND REC DIST NO. 1 COMMISSIONER 2",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 39930,
+    "name": "SKAMANIA COUNTY PARKS AND REC DIST NO. 1 COMMISSIONER 3",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 39931,
+    "name": "SKAMANIA COUNTY PARKS AND REC DIST NO. 1 COMMISSIONER 4",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 39932,
+    "name": "SKAMANIA COUNTY PARKS AND REC DIST NO. 1 COMMISSIONER 5",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 114009,
+    "name": "COUNTYWIDE DISTRICT Proposition No. 1 Temporary Property Tax Limit Increase",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 114013,
+    "name": "FIRE DIST #1 Proposition No. 1 Levy Lid Lift",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 114017,
+    "name": "FIRE DIST #1 Proposition No. 2 Excess Levy",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 114021,
+    "name": "FIRE DIST #6 Proposition No. 1 Regular Property Tax Levy",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 114025,
+    "name": "SKAMANIA COUNTY PARKS AND REC DIST NO. 1 Proposition No. 1 PROPOSED SKAMANIA COUNTY PARKS AND RECREATION DISTRICT NO. 1",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 114029,
+    "name": "SKAMANIA COUNTY PARKS AND REC DIST NO. 1 Proposition No. 2 Property Tax Levy",
+    "category": "Local",
+    "subcategory": "Skamania"
+  },
+  {
+    "id": 11037,
+    "name": "COUNTY COUNCIL DISTRICT 5 Council District 5",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113465,
+    "name": "City of Snohomish Proposition No. 1 Fireworks Advisory Measure",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113661,
+    "name": "City of Everett Proposition No. 1 Amendment to the City of Everett Charter, Section 3.2 (Council meetings)",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113665,
+    "name": "City of Everett Proposition No. 2 Amendment to the City of Everett Charter, Section 15.9 (Gender references, correction of scrivener's errors)",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113669,
+    "name": "City of Everett Proposition No. 3 Adding a new section to the City of Everett Charter, Section 15.10 (Diversity â€“ boards, commissions and committees)",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113673,
+    "name": "City of Mill Creek Proposition No. 1 Emergency Medical Services Levy",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113681,
+    "name": "City of Snohomish Proposition No. 2 Whether to Adopt the Mayor/Council Form of Government Within the City of Snohomish",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113685,
+    "name": "Fire District 1 Proposition No. 1 Re-authorization of Regular Property Tax Levy",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113689,
+    "name": "Lynnwood Transportation Benefit District Proposition No. 1 Sales and Use Tax for Transportation Improvements",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113693,
+    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 1 Commission on Human Rights",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113697,
+    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 2 Establishing Office of Public Advocate",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113701,
+    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 3 County Policy on Nondiscrimination",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113705,
+    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 4 Revising Hearing Examiner System and Appeals",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113709,
+    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 5 Requiring Additional County Council Meetings and Hearings",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113713,
+    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 6 Revising Procedures for Appointment and Confirmation of Chief Executive Officers",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113717,
+    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 7 Revising County Redistricting Process",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 113721,
+    "name": "Town of Woodway Proposition No. 1 Levy to Support Police, Fire and Emergency Medical Services and Existing Town Operations",
+    "category": "Local",
+    "subcategory": "Snohomish"
+  },
+  {
+    "id": 5366,
+    "name": "COUNTY WIDE Commissioner District 1",
+    "category": "Local",
+    "subcategory": "Spokane"
+  },
+  {
+    "id": 5367,
+    "name": "COUNTY WIDE Commissioner District 2",
+    "category": "Local",
+    "subcategory": "Spokane"
+  },
+  {
+    "id": 8618,
+    "name": "PUD 01 Commissioner #1",
+    "category": "Local",
+    "subcategory": "Spokane"
+  },
+  {
+    "id": 113629,
+    "name": "ROSALIA PARK DISTRICT 2 Rosalia Park and Recreation District #5 Proposition No.1",
+    "category": "Local",
+    "subcategory": "Spokane"
+  },
+  {
+    "id": 113757,
+    "name": "PTBA Spokane Transit Authority Proposition No. 1 Preservation and Improvement of Public Transportation Services",
+    "category": "Local",
+    "subcategory": "Spokane"
+  },
+  {
+    "id": 113761,
+    "name": "TOWN OF ROCKFORD Town of Rockford Proposition No. 1 2017 Fire Protection Services",
+    "category": "Local",
+    "subcategory": "Spokane"
+  },
+  {
+    "id": 113765,
+    "name": "TOWN OF ROCKFORD Town of Rockford Proposition No. 2 Emergency Medical Services Levy",
+    "category": "Local",
+    "subcategory": "Spokane"
+  },
+  {
+    "id": 113769,
+    "name": "TOWN OF SPANGLE Town of Spangle Proposition No. 1 Fire Protection Service Excess Levy",
+    "category": "Local",
+    "subcategory": "Spokane"
+  },
+  {
+    "id": 113773,
+    "name": "TOWN OF SPANGLE Town of Spangle Proposition No. 2 Police Protection Service Excess Levy",
+    "category": "Local",
+    "subcategory": "Spokane"
+  },
+  {
+    "id": 113777,
+    "name": "NINE MILE FALLS SD 325 Nine Mile Falls School District Proposition No. 1 Bonds to Construct a New Lakeside High School",
+    "category": "Local",
+    "subcategory": "Spokane"
+  },
+  {
+    "id": 113781,
+    "name": "CD-01 SPANGLE Spangle Cemetery District Proposition No. 1 Maintenance and Operations Support Levy",
+    "category": "Local",
+    "subcategory": "Spokane"
+  },
+  {
+    "id": 8565,
+    "name": "COUNTYWIDE Commissioner #1",
+    "category": "Local",
+    "subcategory": "Stevens"
+  },
+  {
+    "id": 8567,
+    "name": "COUNTYWIDE Commissioner #3",
+    "category": "Local",
+    "subcategory": "Stevens"
+  },
+  {
+    "id": 8570,
+    "name": "COUNTYWIDE Treasurer",
+    "category": "Local",
+    "subcategory": "Stevens"
+  },
+  {
+    "id": 113725,
+    "name": "SD 036 CHEWELAH Dissolution and Reapportionment of Directors&#39; Districts",
+    "category": "Local",
+    "subcategory": "Stevens"
+  },
+  {
+    "id": 8048,
+    "name": "County of Thurston Commissioner, District No. 1",
+    "category": "Local",
+    "subcategory": "Thurston"
+  },
+  {
+    "id": 8633,
+    "name": "County of Thurston Commissioner, District No. 2",
+    "category": "Local",
+    "subcategory": "Thurston"
+  },
+  {
+    "id": 8936,
+    "name": "Thurston Public Utility District Commissioner, District No. 2",
+    "category": "Local",
+    "subcategory": "Thurston"
+  },
+  {
+    "id": 113889,
+    "name": "City of Tumwater Advisory Fireworks Ban",
+    "category": "Local",
+    "subcategory": "Thurston"
+  },
+  {
+    "id": 113957,
+    "name": "City of Olympia Initiative No. 1",
+    "category": "Local",
+    "subcategory": "Thurston"
+  },
+  {
+    "id": 7442,
+    "name": "WAHKIAKUM COUNTY Commissioner #2",
+    "category": "Local",
+    "subcategory": "Wahkiakum"
+  },
+  {
+    "id": 7444,
+    "name": "WAHKIAKUM COUNTY Commissioner #1",
+    "category": "Local",
+    "subcategory": "Wahkiakum"
+  },
+  {
+    "id": 7507,
+    "name": "PUBLIC UTILITY DISTRICT COUNTYWIDE Commissioner #3",
+    "category": "Local",
+    "subcategory": "Wahkiakum"
+  },
+  {
+    "id": 11458,
+    "name": "County-Wide Commissioner 1",
+    "category": "Local",
+    "subcategory": "Walla Walla"
+  },
+  {
+    "id": 11459,
+    "name": "County-Wide Commissioner 2",
+    "category": "Local",
+    "subcategory": "Walla Walla"
+  },
+  {
+    "id": 12198,
+    "name": "Public Utility District 1 All Commissioner District 3",
+    "category": "Local",
+    "subcategory": "Whatcom"
+  },
+  {
+    "id": 39922,
+    "name": "Columbia Valley Park and Recreation District Commissioner Position 1",
+    "category": "Local",
+    "subcategory": "Whatcom"
+  },
+  {
+    "id": 39923,
+    "name": "Columbia Valley Park and Recreation District Commissioner Position 3",
+    "category": "Local",
+    "subcategory": "Whatcom"
+  },
+  {
+    "id": 39924,
+    "name": "Columbia Valley Park and Recreation District Commissioner Position 2",
+    "category": "Local",
+    "subcategory": "Whatcom"
+  },
+  {
+    "id": 39925,
+    "name": "Columbia Valley Park and Recreation District Commissioner Position 4",
+    "category": "Local",
+    "subcategory": "Whatcom"
+  },
+  {
+    "id": 39926,
+    "name": "Columbia Valley Park and Recreation District Commissioner Position 5",
+    "category": "Local",
+    "subcategory": "Whatcom"
+  },
+  {
+    "id": 113645,
+    "name": "Whatcom County Whatcom County Proposition No. 2016-1 Regular Property Tax Levy for Emergency Medical Services",
+    "category": "Local",
+    "subcategory": "Whatcom"
+  },
+  {
+    "id": 113649,
+    "name": "Bellingham School District 501 Bellingham School District 501 Proposition No. 2016-1 School Bus Levy",
+    "category": "Local",
+    "subcategory": "Whatcom"
+  },
+  {
+    "id": 113653,
+    "name": "City of Bellingham City of Bellingham Proposition No. 2016-1 Greenways IV Levy",
+    "category": "Local",
+    "subcategory": "Whatcom"
+  },
+  {
+    "id": 113657,
+    "name": "Point Roberts Park and Recreation District 1 Point Roberts Park and Recreation District 1 Proposition No. 2016-1 Library Facilities Renovation Levy",
+    "category": "Local",
+    "subcategory": "Whatcom"
+  },
+  {
+    "id": 113733,
+    "name": "Columbia Valley Park and Recreation District Formation of Columbia Valley Park and Recreation District Proposition No. 2016-1 Formation of Columbia Valley Park and Recreation District",
+    "category": "Local",
+    "subcategory": "Whatcom"
+  },
+  {
+    "id": 7641,
+    "name": "COUNTYWIDE Commissioner 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 10135,
+    "name": "COUNTYWIDE Commissioner 2",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113237,
+    "name": "FARMINGTON TOWN Town of Farmington Special Election- Proposition#1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113245,
+    "name": "GARFIELD TOWN Town of Garfield Special Election- Proposition#1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113565,
+    "name": "CITY OF PALOUSE City of Palouse Proposition No. 2",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113569,
+    "name": "CITY OF PALOUSE City of Palouse Proposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113573,
+    "name": "CITY OF TEKOA City of Tekoa Proposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113577,
+    "name": "TOWN OF COLTON Town of Colton Proposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113581,
+    "name": "OAKESDALE TOWN Town of Oakesdale Proposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113585,
+    "name": "OAKESDALE TOWN Town of Oakesdale Proposition No. 2",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113589,
+    "name": "FIRE DISTRICT - 04 Rural Fire Protection District #4 Proposition No.1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113593,
+    "name": "GARFIELD CEMETERY DISTRICT - 2 Whitman Cemetery District # 2 Proposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113597,
+    "name": "OAKESDALE CEMETERY DISTRICT - 1 Oakesdale Cemetery District #1 Proposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113601,
+    "name": "GARFIELD PARK DISTRICT - 2 Garfield Park and Recreation District #2 Proposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113605,
+    "name": "ST. JOHN PARK DISTRICT - 3 St. John Park and Recreation District # 3 Proposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113609,
+    "name": "OAKESDALE PARK DISTRICT - 4 Oakesdale Park and Recreation District #4 Proposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113613,
+    "name": "LACROSSE PARK DISTRICT - 1 LaCrosse Park and Recreation District #1 Proposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113617,
+    "name": "ST JOHN TOWN Town of St. John Preposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113621,
+    "name": "ST JOHN TOWN Town of St. John Proposition No. 2",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113633,
+    "name": "ENDICOTT CEMETERY DISTRICT - 4 Endicott Cemetery District #4 Proposition No. 1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 113637,
+    "name": "CITY OF COLFAX Metropolitan Park District (City of Colfax) Propostion No.1",
+    "category": "Local",
+    "subcategory": "Whitman"
+  },
+  {
+    "id": 38766,
+    "name": "COUNTYWIDE County Commissioner; District 1",
+    "category": "Local",
+    "subcategory": "Yakima"
+  },
+  {
+    "id": 38767,
+    "name": "COUNTYWIDE County Commissioner; District 2",
+    "category": "Local",
+    "subcategory": "Yakima"
+  },
+  {
+    "id": 113813,
+    "name": "MABTON SCHOOL DISTRICT #120 Proposition No. 1 Capital Levy for Health, Safety and Educational Improvements",
+    "category": "Local",
+    "subcategory": "Yakima"
+  }
+]

@@ -17,14 +17,14 @@
         <div class="ad">
           <%= t.include("partials/_ad.html", { type: "banner" }) %>
         </div>
-        <h1>2015 election results for Washington state</h1>
+        <h1>2016 election results for Washington state</h1>
         <p class="dateline">Last updated: <%= election.updated %> with
           <%= election.turnout.percentage %>% of expected ballots counted statewide
       </header>
-      
+
       <main class="elections">
-        <p class="cutline"> 
-          View state and local election results by race and see county-by-county results for key statewide races. Uncontested races are not included. For complete Washington state results, visit the <a href="http://results.vote.wa.gov/results/current/">Washington Secretary of State</a>. Visit <a href="http://www.seattletimes.com/category/election-2015">our Election 2015 page</a> for all our election coverage.
+        <p class="cutline">
+          View state and local election results by race and see county-by-county results for key statewide races. Uncontested races are not included. For complete Washington state results, visit the <a href="http://results.vote.wa.gov/results/current/">Washington Secretary of State</a>. Visit <a href="http://www.seattletimes.com/category/election-2015">our Election 2016 page</a> for all our election coverage.
 
         <nav class="tab-container">
           <% election.categories.forEach(function(cat) { %>
@@ -34,7 +34,7 @@
         <article>
           <% election.categories.forEach(function(cat, i) { var category = election.categorized[cat]; %>
             <section class="category show" id="<%= cat.replace(/\s/g, "") %>">
-            <% 
+            <%
             var groups = Object.keys(category.grouped);
             if (groups.length) {
               if (groups.length) { %>
@@ -51,12 +51,12 @@
                   print(t.include("_resultEntry.html", { race: race, cat: cat }));
                 });%>
               </div><%
-              }); 
+              });
             }
             //present ungrouped races last
             category.races.forEach(function(race) {
               print(t.include("_resultEntry.html", { race: race, cat: cat }));
-            }); 
+            });
             %>
             </section>
           <% }); %>
@@ -76,7 +76,7 @@
     <%= t.include("partials/_navBottom.html") %>
 
     <script>
-<% 
+<%
 for (var raceID in election.mapped) {
   var race = election.mapped[raceID];
   for (var county in race) {

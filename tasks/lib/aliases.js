@@ -10,6 +10,7 @@ cSheet.forEach(function(person) {
 
 module.exports = {
   antialias: function(name) {
+    name = name.trim();
     return aliases[name] ? aliases[name].alias : name;
   },
   getCandidateInfo: function(name) {

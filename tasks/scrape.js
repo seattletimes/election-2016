@@ -48,31 +48,26 @@ module.exports = function(grunt) {
 
     var c = this.async();
 
-    async.parallel([secState.statewide, secState.counties, kingCounty, turnout], function(err, results) {
+    async.parallel([secState.statewide, secState.counties, turnout], function(err, results) {
       if (err) console.log(err);
 
-      var statewide = results[0];
-      var counties = results[1];
-      var king = results[2];
-      var turnout = results[3];
+      var [statewide, counties, turnout] = results;
 
-      //attach results to races
-      var uncontested = [];
-      var raceConfig = getJSON("Races").filter(function(d) {
-        if (d.uncontested) {
-          //console.log("[scrape] Uncontested race: ", d.name);
-          uncontested.push(d.code || d.sosraceid);
-          return false;
-        }
-        return true;
-      });
       var races = {};
       var categorized = {};
       var featured = [];
+
+      // remove uncontested races from the config files
+      var uncontested = [];
+      var raceConfig = getJSON("Races").filter(d => !d.uncontested);
+
+      // generate the races hash by SOS ID
       raceConfig.forEach(function(row, i) {
-        races[row.code || row.sosRaceID] = row;
+        races[row.id] = row;
         if (!row) console.error("Broken row, index ", i);
         row.results = [];
+
+        //create a category/subcategory for this
         var cat = row.category || "none";
         if (!categorized[cat]) {
           categorized[cat] = {
@@ -80,6 +75,7 @@ module.exports = function(grunt) {
             grouped: {}
           };
         }
+        //rows can have multiple subcategories, comma-separated
         if (row.subcategory) {
           var subcats = row.subcategory.split(/,\s?/);
           subcats.forEach(function(subcat) {
@@ -99,7 +95,7 @@ module.exports = function(grunt) {
       //sort and add Key Races as a category
       featured.sort(function(a, b) {
         if (a.featured == b.featured) return a.index - b.index;
-        return a.featured + "" < b.featured + "" ? -1 : 1;
+        return a.featured - b.featured;
       });
       categorized["Key Races"] = { races: featured, grouped: {} };
 
@@ -110,23 +106,8 @@ module.exports = function(grunt) {
         race.results.push(result);
       });
 
-      //add King county results
-      king.forEach(function(entry) {
-        var exists = races[entry.race];
-        if (!exists) {
-          if (uncontested.indexOf(entry.race) == -1 && entry.race.results > 1) console.log("[scrape] No race config:", entry.race);
-          return;
-        }
-        if (exists.sosRaceID) return console.log("[scrape] Duplicate race: ", entry.race)
-        races[entry.race].results = entry.results;
-      });
-
-      //add county data to races via reference
+      //add mappable county data to races via reference
       var countyData = processCounties(counties, races, raceConfig);
-
-      //override results, if necessary
-      var overrideSheet = getJSON("Overrides");
-      overrides.process(overrideSheet, races);
 
       //Set up widget races
       var widget = getJSON("Widget").map(function(row) {
@@ -148,7 +129,8 @@ module.exports = function(grunt) {
       grunt.data.election = {
         all: races,
         categorized: categorized,
-        categories: ["Key Races", "Seattle", "Local", "Statewide", "Legislative"],
+        // move Key Races to the front
+        categories: ["Key Races"].concat(Object.keys(categorized).filter(r => r != "Key Races")),
         mapped: countyData.mapped,
         turnout: turnout,
         updated: getDateline(),

@@ -4,7 +4,11 @@ var cache = {};
 
 module.exports = function(sheetName) {
   if (cache[sheetName]) return cache[sheetName];
-  var data = JSON.parse(fs.readFileSync("./data/Election2015_" + sheetName + ".sheet.json", "utf8"));
+  try {
+    var data = JSON.parse(fs.readFileSync("./data/" + sheetName + ".sheet.json", "utf8"));
+  } catch (err) {
+    data = [];
+  }
   if (data instanceof Array) {
     data.forEach(function(row, i) {
       row.index = i;

@@ -17,24 +17,10 @@ var configs = {
   }
 };
 
-var getRaceID = function(races, row) {
-  var race = row.RaceName;
-  var id = row.RaceID;
-
-  //look up from spreadsheet - easiest way
-  for (var i = 0; i < races.length; i++) {
-    if (id == races[i].sosRaceID) {
-      return races[i].code || races[i].sosRaceID;
-    }
-  }
-
-  return race;
-};
-
 var getResults = function(config, c) {
   //load results during call, not startup, to let `sheets` run
   var races = getJSON("Races");
-  var raceList = races.filter(function(d) { return !d.uncontested }).map(function(d) { return d.code || d.sosRaceID });
+  var raceList = races.filter(d => !d.uncontested).map(d => d.id);
   var cachePath = "./temp/" + config.cache;
   if (project.caching && fs.existsSync(cachePath)) {
     if (fs.statSync(cachePath).mtime > (new Date(Date.now() - 5 * 60 * 1000))) {
@@ -50,13 +36,12 @@ var getResults = function(config, c) {
   var rows = [];
   parser.on("data", function(row) {
     //transform the data to match our schema
-    var raceID = getRaceID(races, row);
     var name = aliases.antialias(row.BallotName);
     var candidate = aliases.getCandidateInfo(name);
-    if (raceList.indexOf(raceID) < 0) return;
+    if (raceList.indexOf(row.RaceID) < 0) return;
 
     rows.push({
-      race: raceID,
+      race: row.RaceID,
       candidate: name,
       party: candidate.party,
       incumbent: candidate.incumbent,
@@ -86,6 +71,5 @@ var getResults = function(config, c) {
 
 module.exports = {
   statewide: getResults.bind(null, configs.statewide),
-  counties: getResults.bind(null, configs.counties),
-  precincts: getResults.bind(null, configs.precincts)
+  counties: getResults.bind(null, configs.counties)
 };
