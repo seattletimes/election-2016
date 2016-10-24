@@ -32,10 +32,8 @@ module.exports = function(grunt) {
 
   //call various adapters to get resources
   var secState = require("./lib/secState");
-  var kingCounty = require("./lib/king");
   var turnout = require("./lib/turnout");
   var processCounties = require("./lib/processCounties");
-  var overrides = require("./lib/overrides");
 
   grunt.registerTask("scrape", "Pull data from election result endpoints", function() {
 

@@ -18,6 +18,8 @@ var configs = {
 };
 
 var getResults = function(config, c) {
+  aliases.load();
+
   //load results during call, not startup, to let `sheets` run
   var races = getJSON("Races");
   var raceList = races.filter(d => !d.uncontested).map(d => d.id);

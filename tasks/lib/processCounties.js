@@ -40,7 +40,7 @@ module.exports = function(counties, races, raceConfig) {
     if (config.map) {
       var countyMap = {};
       counties.forEach(function(result) {
-        if (result.race == config.code) {
+        if (result.race == config.id) {
           if (!countyMap[result.location]) {
             countyMap[result.location] = {
               winner: null,
@@ -54,7 +54,7 @@ module.exports = function(counties, races, raceConfig) {
           }
         }
       });
-      races[config.code].map = mapped[config.code] = countyMap;
+      races[config.id].map = mapped[config.id] = countyMap;
     }
   });
 

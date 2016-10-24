@@ -2,13 +2,17 @@ var fs = require("fs");
 var getJSON = require("./getJSON");
 
 var candidates = {};
-var cSheet = getJSON("Candidates");
-var aliases = getJSON("Aliases");
-cSheet.forEach(function(person) {
-  candidates[person.name] = person;
-});
+var aliases = null;
 
 module.exports = {
+  load: function() {
+    if (aliases) return;
+    var cSheet = getJSON("Candidates");
+    aliases = getJSON("Aliases");
+    cSheet.forEach(function(person) {
+      candidates[person.name] = person;
+    });
+  },
   antialias: function(name) {
     name = name.trim();
     return aliases[name] ? aliases[name].alias : name;
