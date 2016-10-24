@@ -6,7 +6,6 @@ Relies on adapters in tasks/lib for specific sites.
 */
 
 var async = require("async");
-var getJSON = require("./lib/getJSON");
 var shell = require("shelljs");
 
 var getDateline = function() {
@@ -57,7 +56,7 @@ module.exports = function(grunt) {
 
       // remove uncontested races from the config files
       var uncontested = [];
-      var raceConfig = getJSON("Races").filter(d => !d.uncontested);
+      var raceConfig = require("../data/Races.sheet.json").filter(d => !d.uncontested);
 
       // generate the races hash by SOS ID
       raceConfig.forEach(function(row, i) {
@@ -108,7 +107,7 @@ module.exports = function(grunt) {
       var countyData = processCounties(counties, races, raceConfig);
 
       //Set up widget races
-      var widget = getJSON("Widget").map(function(row) {
+      var widget = require("../data/Widget.sheet.json").map(function(row) {
         var original = races[row.race];
         return {
           results: original.results,
