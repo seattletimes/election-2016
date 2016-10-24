@@ -1,8 +1,6 @@
 var csv = require("csv");
 var fs = require("fs");
 var request = require("request");
-var aliases = require("./aliases");
-var getJSON = require("./getJSON");
 var project = require("../../project.json");
 var configs = {
   statewide: {
@@ -18,11 +16,16 @@ var configs = {
 };
 
 var getResults = function(config, c) {
-  aliases.load();
 
   //load results during call, not startup, to let `sheets` run
-  var races = getJSON("Races");
-  var raceList = races.filter(d => !d.uncontested).map(d => d.id);
+  var races = require("../../data/Races.sheet.json");
+  var raceMap = {};
+  races.filter(d => !d.uncontested).forEach(r => raceMap[r.id] = r);
+
+  var candidates = require("../../data/Candidates.sheet.json");
+  var candidateMap = {};
+  candidates.forEach(c => candidateMap[c.id] = c);
+
   var cachePath = "./temp/" + config.cache;
   if (project.caching && fs.existsSync(cachePath)) {
     if (fs.statSync(cachePath).mtime > (new Date(Date.now() - 5 * 60 * 1000))) {
@@ -37,14 +40,16 @@ var getResults = function(config, c) {
   });
   var rows = [];
   parser.on("data", function(row) {
-    //transform the data to match our schema
-    var name = aliases.antialias(row.BallotName);
-    var candidate = aliases.getCandidateInfo(name);
-    if (raceList.indexOf(row.RaceID) < 0) return;
+    var config = raceMap[row.RaceID];
+    if (!config) return console.log("Missing race in config:", row);
+    var candidate = candidateMap[row.BallotID];
+    if (!candidate) return console.log("Missing candidate:", row);
 
+    //transform the data to match our schema
     rows.push({
-      race: row.RaceID,
-      candidate: name,
+      race: config.id,
+      candidate: candidate.name,
+      candidateID: row.BallotID,
       party: candidate.party,
       incumbent: candidate.incumbent,
       votes: row.Votes * 1,
