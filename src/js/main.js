@@ -63,12 +63,13 @@ var onTabClick = function(e) {
 qsa(".tab").forEach(t => t.addEventListener("click", onTabClick));
 
 var hash = window.location.hash.replace("section-", "");
+var firstTab = document.querySelector("a.tab");
 if (hash) {
   //restore place from the URL hash
   var tab = document.querySelector(`a.tab[href="${hash}"]`);
-  onTabClick.call(tab);
+  onTabClick.call(tab || firstTab);
 } else {
-  onTabClick.call(document.querySelector("a.tab"));
+  onTabClick.call(firstTab);
 }
 
 var closest = function(el, className) {

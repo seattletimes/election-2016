@@ -9,13 +9,11 @@
       font-family: @df-sans;
       font-size: 14px;
       display: inline-block;
-      background: #DDD;
-      color: #999;
+      color: @df-blue;
       text-decoration: none;
       text-transform: uppercase;
-      padding: 4px 8px;
-      border-radius: 4px;
       margin-bottom: 3px;
+      cursor: pointer;
 
       @media @mobile {
         float: left;
@@ -25,13 +23,12 @@
       }
 
       &.active {
-        background: @accent;
-        color: white;
+        font-weight: bold;
+        color: black;
       }
 
-      &:hover {
-        background: @accent;
-        color: white;
+      &:hover, &:focus {
+        color: black;
       }
 
       & + .tab {

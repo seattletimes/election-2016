@@ -14,49 +14,49 @@
   {
     "id": 113429,
     "name": "Initiative Measure No. 732 concerns taxes.",
-    "category": "Initiatives",
+    "category": "Statewide",
     "featured": "x"
   },
   {
     "id": 113445,
     "name": "Initiative Measure No. 735 concerns a proposed amendment to the federal constitution.",
-    "category": "Initiatives"
+    "category": "Statewide"
   },
   {
     "id": 113449,
     "name": "Proposed Amendments to the Constitution - Senate Joint Resolution No. 8210 concerns the deadline for completing state legislative and congressional redistricting.",
-    "category": "Initiatives"
+    "category": "Statewide"
   },
   {
     "id": 113457,
     "name": "Advisory Vote No. 15 Second Engrossed Substitute House Bill 2778",
-    "category": "Initiatives"
+    "category": "Statewide"
   },
   {
     "id": 113461,
     "name": "Advisory Vote No. 14 House Bill 2768",
-    "category": "Initiatives"
+    "category": "Statewide"
   },
   {
     "id": 113485,
     "name": "Initiative Measure No. 1433 concerns labor standards.",
-    "category": "Initiatives"
+    "category": "Statewide"
   },
   {
     "id": 113489,
     "name": "Initiative Measure No. 1491 concerns court-issued extreme risk protection orders temporarily preventing access to firearms.",
-    "category": "Initiatives",
+    "category": "Statewide",
     "featured": "x"
   },
   {
     "id": 113497,
     "name": "Initiative Measure No. 1501 concerns seniors and vulnerable individuals.",
-    "category": "Initiatives"
+    "category": "Statewide"
   },
   {
     "id": 113525,
     "name": "Initiative Measure No. 1464 concerns campaign finance laws and lobbyists.",
-    "category": "Initiatives"
+    "category": "Statewide"
   },
   {
     "id": 13,
@@ -158,362 +158,425 @@
   {
     "id": 22,
     "name": "Supreme Court - Justice Position 1",
-    "category": "Judicial"
+    "category": "Statewide"
   },
   {
     "id": 26,
     "name": "Supreme Court - Justice Position 5",
-    "category": "Judicial"
+    "category": "Statewide"
   },
   {
     "id": 27,
     "name": "Supreme Court - Justice Position 6",
-    "category": "Judicial"
+    "category": "Statewide"
   },
   {
     "id": 31,
     "name": "Court of Appeals, Division 1, District 1 - Judge Position 1",
-    "category": "Judicial"
+    "category": "Statewide"
   },
   {
     "id": 38,
     "name": "Court of Appeals, Division 1, District 2 - Judge Position 1",
-    "category": "Judicial"
+    "category": "Statewide"
   },
   {
     "id": 41,
     "name": "Court of Appeals, Division 2, District 1 - Judge Position 1",
-    "category": "Judicial"
+    "category": "Statewide"
   },
   {
     "id": 47,
     "name": "Court of Appeals, Division 2, District 3 - Judge Position 2",
-    "category": "Judicial"
+    "category": "Statewide"
   },
   {
     "id": 50,
     "name": "Court of Appeals, Division 3, District 2 - Judge Position 1",
-    "category": "Judicial"
+    "category": "Statewide"
   },
   {
     "id": 51,
     "name": "Court of Appeals, Division 3, District 3 - Judge Position 1",
-    "category": "Judicial"
+    "category": "Statewide"
   },
   {
     "id": 53,
     "name": "Asotin, Columbia, Garfield Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Asotin, Columbia, Garfield"
   },
   {
     "id": 54,
     "name": "Benton, Franklin Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Benton"
   },
   {
     "id": 55,
     "name": "Benton, Franklin Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Benton"
   },
   {
     "id": 56,
     "name": "Benton, Franklin Superior Court - Judge Position 3",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Benton"
   },
   {
     "id": 57,
     "name": "Benton, Franklin Superior Court - Judge Position 4",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Benton"
   },
   {
     "id": 58,
     "name": "Benton, Franklin Superior Court - Judge Position 5",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Benton"
   },
   {
     "id": 59,
     "name": "Ferry, Pend Oreille, Stevens Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Ferry, Pend Oreille, Stevens"
   },
   {
     "id": 60,
     "name": "Ferry, Pend Oreille, Stevens Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Ferry, Pend Oreille, Stevens"
   },
   {
     "id": 63,
     "name": "Klickitat, Skamania Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Klickitat, Skamania"
   },
   {
     "id": 64,
     "name": "Pacific, Wahkiakum Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Pacific, Wahkiakum"
   },
   {
     "id": 65,
     "name": "Adams Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Adams"
   },
   {
     "id": 66,
     "name": "Chelan Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Chelan"
   },
   {
     "id": 67,
     "name": "Chelan Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Chelan"
   },
   {
     "id": 68,
     "name": "Clallam Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Clallam"
   },
   {
     "id": 69,
     "name": "Clallam Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Clallam"
   },
   {
     "id": 78,
     "name": "Cowlitz Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Cowlitz"
   },
   {
     "id": 82,
     "name": "Douglas Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Douglas"
   },
   {
     "id": 83,
     "name": "Grant Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Grant"
   },
   {
     "id": 84,
     "name": "Grant Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Grant"
   },
   {
     "id": 85,
     "name": "Grant Superior Court - Judge Position 3",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Grant"
   },
   {
     "id": 86,
     "name": "Grays Harbor Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Grays Harbor"
   },
   {
     "id": 87,
     "name": "Grays Harbor Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Grays Harbor"
   },
   {
     "id": 88,
     "name": "Grays Harbor Superior Court - Judge Position 3",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Grays Harbor"
   },
   {
     "id": 89,
     "name": "Jefferson Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Jefferson"
   },
   {
     "id": 94,
     "name": "Kitsap Superior Court - Judge Position 5",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Kitsap"
   },
   {
     "id": 97,
     "name": "Kittitas Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Kittitas"
   },
   {
     "id": 98,
     "name": "Lewis Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Lewis"
   },
   {
     "id": 99,
     "name": "Lewis Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Lewis"
   },
   {
     "id": 100,
     "name": "Lewis Superior Court - Judge Position 3",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Lewis"
   },
   {
     "id": 101,
     "name": "Lincoln Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Lincoln"
   },
   {
     "id": 102,
     "name": "Mason Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Mason"
   },
   {
     "id": 103,
     "name": "Mason Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Mason"
   },
   {
     "id": 104,
     "name": "Okanogan Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Okanogan"
   },
   {
     "id": 107,
     "name": "Skagit Superior Court - Judge Position 3",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Skagit"
   },
   {
     "id": 108,
     "name": "Walla Walla Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Walla Walla"
   },
   {
     "id": 109,
     "name": "Walla Walla Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Walla Walla"
   },
   {
     "id": 113,
     "name": "Whitman Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Whitman"
   },
   {
     "id": 127,
     "name": "King Superior Court - Judge Position 14",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "King"
   },
   {
     "id": 139,
     "name": "King Superior Court - Judge Position 26",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "King"
   },
   {
     "id": 142,
     "name": "Chelan Superior Court - Judge Position 3",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Chelan"
   },
   {
     "id": 145,
     "name": "King Superior Court - Judge Position 31",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "King"
   },
   {
     "id": 158,
     "name": "King Superior Court - Judge Position 44",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "King"
   },
   {
     "id": 167,
     "name": "Pierce Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Pierce"
   },
   {
     "id": 170,
     "name": "Pierce Superior Court - Judge Position 5",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Pierce"
   },
   {
     "id": 173,
     "name": "Pierce Superior Court - Judge Position 8",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Pierce"
   },
   {
     "id": 182,
     "name": "Pierce Superior Court - Judge Position 17",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Pierce"
   },
   {
     "id": 189,
     "name": "Snohomish Superior Court - Judge Position 3",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Snohomish"
   },
   {
     "id": 210,
     "name": "Spokane Superior Court - Judge Position 10",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Spokane"
   },
   {
     "id": 211,
     "name": "Spokane Superior Court - Judge Position 11",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Spokane"
   },
   {
     "id": 213,
     "name": "Thurston Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Thurston"
   },
   {
     "id": 219,
     "name": "Thurston Superior Court - Judge Position 7",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Thurston"
   },
   {
     "id": 222,
     "name": "Yakima Superior Court - Judge Position 3",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Yakima"
   },
   {
     "id": 376,
     "name": "Benton, Franklin Superior Court - Judge Position 6",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Benton, Franklin"
   },
   {
     "id": 377,
     "name": "Kittitas Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Kittitas"
   },
   {
     "id": 6195,
     "name": "Clallam Superior Court - Judge Position 3",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Clallam"
   },
   {
     "id": 7738,
     "name": "King Superior Court - Judge Position 52",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "King"
   },
   {
     "id": 9204,
     "name": "San Juan Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "San Juan"
   },
   {
     "id": 9219,
     "name": "Island Superior Court - Judge Position 1",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Island"
   },
   {
     "id": 9220,
     "name": "Island Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Island"
   },
   {
     "id": 10104,
     "name": "King Superior Court - Judge Position 53",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "King"
   },
   {
     "id": 28820,
     "name": "Okanogan Superior Court - Judge Position 2",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Okanogan"
   },
   {
     "id": 39665,
     "name": "Mason Superior Court - Judge Position 3",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Mason"
   },
   {
     "id": 39812,
     "name": "Benton, Franklin Superior Court - Judge Position 7",
-    "category": "Judicial"
+    "category": "Local",
+    "subcategory": "Benton, Franklin"
   },
   {
     "id": 228,
