@@ -17,7 +17,9 @@
         <div class="ad">
           <%= t.include("partials/_ad.html", { type: "banner" }) %>
         </div>
-        <h1>2016 election results for Washington state</h1>
+        <h1>
+          <img src="./assets/elex-logo-text.svg" alt="2016 election results for Washington state" class="head-logo">
+        </h1>
         <p class="dateline">Last updated: <%= election.updated %> with
           <%= election.turnout.percentage %>% of expected ballots counted statewide
       </header>

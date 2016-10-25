@@ -50,6 +50,9 @@ module.exports = function(grunt) {
 
       var [statewide, counties, turnout] = results;
 
+      //national results come in from Elex
+      var national = grunt.data.csv.national;
+
       var races = {};
       var categorized = {};
       var featured = [];
