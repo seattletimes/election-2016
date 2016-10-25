@@ -3,7 +3,8 @@
     "id": 1,
     "name": "President/Vice President",
     "category": "National",
-    "featured": "x"
+    "featured": "x",
+    "map": "x"
   },
   {
     "id": 3,

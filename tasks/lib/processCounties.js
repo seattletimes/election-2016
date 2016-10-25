@@ -1,6 +1,8 @@
 module.exports = function(counties, races, raceConfig) {
 
   //aggregate county results
+  //this is only for single-county races
+  //anything statewide skips this
   var aggregated = {};
   counties.forEach(function(county) {
     var race = races[county.race];
@@ -14,9 +16,9 @@ module.exports = function(counties, races, raceConfig) {
     //add the race to the aggregation
     race.aggregate[county.candidate].push(county);
   });
-  Object.keys(aggregated).forEach(function(county) {
+  Object.keys(aggregated).forEach(function(c) {
     var total = 0;
-    county = aggregated[county];
+    var county = aggregated[c];
     for (var candidate in county.aggregate) {
       var list = county.aggregate[candidate];
       var result = {};
@@ -40,6 +42,7 @@ module.exports = function(counties, races, raceConfig) {
     if (config.map) {
       var countyMap = {};
       counties.forEach(function(result) {
+        // console.log(result);
         if (result.race == config.id) {
           if (!countyMap[result.location]) {
             countyMap[result.location] = {

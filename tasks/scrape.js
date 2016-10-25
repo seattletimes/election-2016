@@ -109,6 +109,46 @@ module.exports = function(grunt) {
       //add mappable county data to races via reference
       var countyData = processCounties(counties, races, raceConfig);
 
+      //add national results to our single AP race
+      var ap = {
+        national: [],
+        electoral: {}
+      };
+      var parties = {
+        Dem: "D",
+        GOP: "R",
+        Grn: "G",
+        Lib: "L"
+      };
+      national.forEach(function(row) {
+        if (!(row.party in parties)) return;
+        var result = {
+          race: 1,
+          candidate: row.first + " " + row.last,
+          party: parties[row.party] || "I",
+          votes: row.votecount * 1,
+          percent: row.votepct * 1,
+          source: "AP",
+          location: row.statepostal,
+          electoral: row.electwon * 1,
+          electoralTotal: row.electtotal * 1
+        }
+        if (result.location == "US") {
+          ap.national.push(result)
+        } else {
+          if (!ap.electoral[result.location]) ap.electoral[result.location] = { winner: null, results: [] };
+          var election = ap.electoral[result.location];
+          election.results.push(result);
+          if (result.votes > 0 && (!election.winner || election.winner.votes < result.votes)) {
+            election.winner = result;
+          }
+        }
+      });
+      // redo the structure of race 1 to match
+      var waPresidential = races[1];
+      // console.log(waPresidential);
+      waPresidential.local = waPresidential.results;
+
       //Set up widget races
       var widget = require("../data/Widget.sheet.json").map(function(row) {
         var original = races[row.race];
@@ -128,6 +168,7 @@ module.exports = function(grunt) {
 
       grunt.data.election = {
         all: races,
+        ap: ap,
         categorized: categorized,
         // move Key Races to the front
         categories: ["Key Races"].concat(Object.keys(categorized).filter(r => r != "Key Races")),

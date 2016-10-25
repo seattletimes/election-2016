@@ -96,6 +96,7 @@ for (var raceID in election.mapped) {
   }
 } %>
 window.mapData = <%= JSON.stringify(election.mapped) %>;
+window.apData = <%= JSON.stringify(election.ap) %>;
     </script>
     <script src="app.js" async></script>
     <%= t.include("partials/_foot.html") %>

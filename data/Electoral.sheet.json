@@ -1,1 +1,257 @@
-[]
+[
+  {
+    "state": "Alabama",
+    "postal": "AL",
+    "count": 9
+  },
+  {
+    "state": "Alaska",
+    "postal": "AK",
+    "count": 3
+  },
+  {
+    "state": "Arizona",
+    "postal": "AZ",
+    "count": 11
+  },
+  {
+    "state": "Arkansas",
+    "postal": "AR",
+    "count": 6
+  },
+  {
+    "state": "California",
+    "postal": "CA",
+    "count": 55
+  },
+  {
+    "state": "Colorado",
+    "postal": "CO",
+    "count": 9
+  },
+  {
+    "state": "Connecticut",
+    "postal": "CT",
+    "count": 7
+  },
+  {
+    "state": "Delaware",
+    "postal": "DE",
+    "count": 3
+  },
+  {
+    "state": "District of Columbia",
+    "postal": "DC",
+    "count": 3
+  },
+  {
+    "state": "Florida",
+    "postal": "FL",
+    "count": 29
+  },
+  {
+    "state": "Georgia",
+    "postal": "GA",
+    "count": 16
+  },
+  {
+    "state": "Hawaii",
+    "postal": "HI",
+    "count": 4
+  },
+  {
+    "state": "Idaho",
+    "postal": "ID",
+    "count": 4
+  },
+  {
+    "state": "Illinois",
+    "postal": "IL",
+    "count": 20
+  },
+  {
+    "state": "Indiana",
+    "postal": "IN",
+    "count": 11
+  },
+  {
+    "state": "Iowa",
+    "postal": "IA",
+    "count": 6
+  },
+  {
+    "state": "Kansas",
+    "postal": "KS",
+    "count": 6
+  },
+  {
+    "state": "Kentucky",
+    "postal": "KY",
+    "count": 8
+  },
+  {
+    "state": "Louisiana",
+    "postal": "LA",
+    "count": 8
+  },
+  {
+    "state": "Maine",
+    "postal": "ME",
+    "count": 4
+  },
+  {
+    "state": "Maryland",
+    "postal": "MD",
+    "count": 10
+  },
+  {
+    "state": "Massachusetts",
+    "postal": "MA",
+    "count": 11
+  },
+  {
+    "state": "Michigan",
+    "postal": "MI",
+    "count": 16
+  },
+  {
+    "state": "Minnesota",
+    "postal": "MN",
+    "count": 10
+  },
+  {
+    "state": "Mississippi",
+    "postal": "MS",
+    "count": 6
+  },
+  {
+    "state": "Missouri",
+    "postal": "MO",
+    "count": 10
+  },
+  {
+    "state": "Montana",
+    "postal": "MT",
+    "count": 3
+  },
+  {
+    "state": "Nebraska",
+    "postal": "NE",
+    "count": 5
+  },
+  {
+    "state": "Nevada",
+    "postal": "NV",
+    "count": 6
+  },
+  {
+    "state": "New Hampshire",
+    "postal": "NH",
+    "count": 4
+  },
+  {
+    "state": "New Jersey",
+    "postal": "NJ",
+    "count": 14
+  },
+  {
+    "state": "New Mexico",
+    "postal": "NM",
+    "count": 5
+  },
+  {
+    "state": "New York",
+    "postal": "NY",
+    "count": 29
+  },
+  {
+    "state": "North Carolina",
+    "postal": "NC",
+    "count": 15
+  },
+  {
+    "state": "North Dakota",
+    "postal": "ND",
+    "count": 3
+  },
+  {
+    "state": "Ohio",
+    "postal": "OH",
+    "count": 18
+  },
+  {
+    "state": "Oklahoma",
+    "postal": "OK",
+    "count": 7
+  },
+  {
+    "state": "Oregon",
+    "postal": "OR",
+    "count": 7
+  },
+  {
+    "state": "Pennsylvania",
+    "postal": "PA",
+    "count": 20
+  },
+  {
+    "state": "Rhode Island",
+    "postal": "RI",
+    "count": 4
+  },
+  {
+    "state": "South Carolina",
+    "postal": "SC",
+    "count": 9
+  },
+  {
+    "state": "South Dakota",
+    "postal": "SD",
+    "count": 3
+  },
+  {
+    "state": "Tennessee",
+    "postal": "TN",
+    "count": 11
+  },
+  {
+    "state": "Texas",
+    "postal": "TX",
+    "count": 38
+  },
+  {
+    "state": "Utah",
+    "postal": "UT",
+    "count": 6
+  },
+  {
+    "state": "Vermont",
+    "postal": "VT",
+    "count": 3
+  },
+  {
+    "state": "Virginia",
+    "postal": "VA",
+    "count": 13
+  },
+  {
+    "state": "Washington",
+    "postal": "WA",
+    "count": 12
+  },
+  {
+    "state": "West Virginia",
+    "postal": "WV",
+    "count": 5
+  },
+  {
+    "state": "Wisconsin",
+    "postal": "WI",
+    "count": 10
+  },
+  {
+    "state": "Wyoming",
+    "postal": "WY",
+    "count": 3
+  }
+]

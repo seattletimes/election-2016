@@ -11,7 +11,7 @@ var configs = {
   counties: {
     cache: "counties.json",
     url: "http://results.vote.wa.gov/results/current/export/MediaResultsByCounty.txt",
-    location: function(d) { return d.CountyName }
+    location: d => d.CountyName
   }
 };
 
@@ -40,14 +40,14 @@ var getResults = function(config, c) {
   });
   var rows = [];
   parser.on("data", function(row) {
-    var config = raceMap[row.RaceID];
-    if (!config) return console.log("Missing race in config:", row);
+    var raceConfig = raceMap[row.RaceID];
+    if (!raceConfig) return console.log("Missing race in config:", row);
     var candidate = candidateMap[row.BallotID];
-    if (!candidate) return console.log("Missing candidate:", row);
+    if (!candidate) return;//console.log("Missing candidate:", row);
 
     //transform the data to match our schema
     rows.push({
-      race: config.id,
+      race: raceConfig.id,
       candidate: candidate.name,
       candidateID: row.BallotID,
       party: candidate.party,
