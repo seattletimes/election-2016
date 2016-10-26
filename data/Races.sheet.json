@@ -2,14 +2,14 @@
   {
     "id": 1,
     "name": "President/Vice President",
-    "category": "National",
+    "category": "Statewide",
     "featured": "x",
     "map": "x"
   },
   {
     "id": 3,
     "name": "U.S. Senator",
-    "category": "National",
+    "category": "Statewide",
     "featured": "x"
   },
   {
