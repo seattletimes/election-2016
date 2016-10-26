@@ -112,7 +112,8 @@ module.exports = function(grunt) {
       //add national results to our single AP race
       var ap = {
         national: [],
-        electoral: {}
+        electoral: {},
+        byCandidate: {}
       };
       var parties = {
         Dem: "D",
@@ -125,6 +126,7 @@ module.exports = function(grunt) {
         var result = {
           race: 1,
           candidate: row.first + " " + row.last,
+          last: row.last,
           party: parties[row.party] || "I",
           votes: row.votecount * 1,
           percent: row.votepct * 1,
@@ -132,14 +134,23 @@ module.exports = function(grunt) {
           location: row.statepostal,
           electoral: row.electwon * 1,
           electoralTotal: row.electtotal * 1
+        };
+        // DEBUG
+        if (result.location != "US" && Math.random() > .5) result.electoral = grunt.data.json.Electoral[row.statepostal].count;
+
+        if (!ap.byCandidate[row.last]) ap.byCandidate[row.last] = {
+          national: null,
+          electoral: {}
         }
         if (result.location == "US") {
-          ap.national.push(result)
+          ap.national.push(result);
+          ap.byCandidate[row.last].national = result;
         } else {
           if (!ap.electoral[result.location]) ap.electoral[result.location] = { winner: null, results: [] };
           var election = ap.electoral[result.location];
           election.results.push(result);
-          if (result.votes > 0 && (!election.winner || election.winner.votes < result.votes)) {
+          ap.byCandidate[row.last].electoral[result.location] = result;
+          if (result.electoral > 0 && (!election.winner || election.winner.electoral < result.electoral)) {
             election.winner = result;
           }
         }

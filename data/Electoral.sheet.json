@@ -1,257 +1,206 @@
-[
-  {
+{
+  "AL": {
     "state": "Alabama",
-    "postal": "AL",
     "count": 9
   },
-  {
+  "AK": {
     "state": "Alaska",
-    "postal": "AK",
     "count": 3
   },
-  {
+  "AZ": {
     "state": "Arizona",
-    "postal": "AZ",
     "count": 11
   },
-  {
+  "AR": {
     "state": "Arkansas",
-    "postal": "AR",
     "count": 6
   },
-  {
+  "CA": {
     "state": "California",
-    "postal": "CA",
     "count": 55
   },
-  {
+  "CO": {
     "state": "Colorado",
-    "postal": "CO",
     "count": 9
   },
-  {
+  "CT": {
     "state": "Connecticut",
-    "postal": "CT",
     "count": 7
   },
-  {
+  "DE": {
     "state": "Delaware",
-    "postal": "DE",
     "count": 3
   },
-  {
+  "DC": {
     "state": "District of Columbia",
-    "postal": "DC",
     "count": 3
   },
-  {
+  "FL": {
     "state": "Florida",
-    "postal": "FL",
     "count": 29
   },
-  {
+  "GA": {
     "state": "Georgia",
-    "postal": "GA",
     "count": 16
   },
-  {
+  "HI": {
     "state": "Hawaii",
-    "postal": "HI",
     "count": 4
   },
-  {
+  "ID": {
     "state": "Idaho",
-    "postal": "ID",
     "count": 4
   },
-  {
+  "IL": {
     "state": "Illinois",
-    "postal": "IL",
     "count": 20
   },
-  {
+  "IN": {
     "state": "Indiana",
-    "postal": "IN",
     "count": 11
   },
-  {
+  "IA": {
     "state": "Iowa",
-    "postal": "IA",
     "count": 6
   },
-  {
+  "KS": {
     "state": "Kansas",
-    "postal": "KS",
     "count": 6
   },
-  {
+  "KY": {
     "state": "Kentucky",
-    "postal": "KY",
     "count": 8
   },
-  {
+  "LA": {
     "state": "Louisiana",
-    "postal": "LA",
     "count": 8
   },
-  {
+  "ME": {
     "state": "Maine",
-    "postal": "ME",
     "count": 4
   },
-  {
+  "MD": {
     "state": "Maryland",
-    "postal": "MD",
     "count": 10
   },
-  {
+  "MA": {
     "state": "Massachusetts",
-    "postal": "MA",
     "count": 11
   },
-  {
+  "MI": {
     "state": "Michigan",
-    "postal": "MI",
     "count": 16
   },
-  {
+  "MN": {
     "state": "Minnesota",
-    "postal": "MN",
     "count": 10
   },
-  {
+  "MS": {
     "state": "Mississippi",
-    "postal": "MS",
     "count": 6
   },
-  {
+  "MO": {
     "state": "Missouri",
-    "postal": "MO",
     "count": 10
   },
-  {
+  "MT": {
     "state": "Montana",
-    "postal": "MT",
     "count": 3
   },
-  {
+  "NE": {
     "state": "Nebraska",
-    "postal": "NE",
     "count": 5
   },
-  {
+  "NV": {
     "state": "Nevada",
-    "postal": "NV",
     "count": 6
   },
-  {
+  "NH": {
     "state": "New Hampshire",
-    "postal": "NH",
     "count": 4
   },
-  {
+  "NJ": {
     "state": "New Jersey",
-    "postal": "NJ",
     "count": 14
   },
-  {
+  "NM": {
     "state": "New Mexico",
-    "postal": "NM",
     "count": 5
   },
-  {
+  "NY": {
     "state": "New York",
-    "postal": "NY",
     "count": 29
   },
-  {
+  "NC": {
     "state": "North Carolina",
-    "postal": "NC",
     "count": 15
   },
-  {
+  "ND": {
     "state": "North Dakota",
-    "postal": "ND",
     "count": 3
   },
-  {
+  "OH": {
     "state": "Ohio",
-    "postal": "OH",
     "count": 18
   },
-  {
+  "OK": {
     "state": "Oklahoma",
-    "postal": "OK",
     "count": 7
   },
-  {
+  "OR": {
     "state": "Oregon",
-    "postal": "OR",
     "count": 7
   },
-  {
+  "PA": {
     "state": "Pennsylvania",
-    "postal": "PA",
     "count": 20
   },
-  {
+  "RI": {
     "state": "Rhode Island",
-    "postal": "RI",
     "count": 4
   },
-  {
+  "SC": {
     "state": "South Carolina",
-    "postal": "SC",
     "count": 9
   },
-  {
+  "SD": {
     "state": "South Dakota",
-    "postal": "SD",
     "count": 3
   },
-  {
+  "TN": {
     "state": "Tennessee",
-    "postal": "TN",
     "count": 11
   },
-  {
+  "TX": {
     "state": "Texas",
-    "postal": "TX",
     "count": 38
   },
-  {
+  "UT": {
     "state": "Utah",
-    "postal": "UT",
     "count": 6
   },
-  {
+  "VT": {
     "state": "Vermont",
-    "postal": "VT",
     "count": 3
   },
-  {
+  "VA": {
     "state": "Virginia",
-    "postal": "VA",
     "count": 13
   },
-  {
+  "WA": {
     "state": "Washington",
-    "postal": "WA",
     "count": 12
   },
-  {
+  "WV": {
     "state": "West Virginia",
-    "postal": "WV",
     "count": 5
   },
-  {
+  "WI": {
     "state": "Wisconsin",
-    "postal": "WI",
     "count": 10
   },
-  {
+  "WY": {
     "state": "Wyoming",
-    "postal": "WY",
     "count": 3
   }
-]
+}

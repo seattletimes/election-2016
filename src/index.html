@@ -39,8 +39,53 @@
         </nav>
         <article>
           <section class="category show" id="President">
-            Electoral college dashboard goes here
+
+            <div class="vs-container">
+              <header>
+                <% ["Clinton", "Trump"].forEach(function(candidate) { %>
+                <div class="<%= candidate.toLowerCase() %> half">
+                  <% var result = election.ap.byCandidate[candidate].national; %>
+                  <span class="name"><%= candidate %></span>
+                  <span class="electoral vote"><%= result.electoral %></span>
+                </div>
+                <% }) %>
+              </header>
+              <div class="reported state list">
+                <% ["Clinton", "Trump"].forEach(function(candidate) { %>
+                <div class="<%= candidate.toLowerCase() %> half">
+                  <%
+                  for (var k in election.ap.electoral) {
+                    var state = election.ap.electoral[k];
+                    if (state.winner && state.winner.last == candidate) { %>
+                    <div class="<%= candidate.toLowerCase() %> victory">
+                      <span class="name"><%= k %></span>
+                      <% for (var i = 0; i < state.winner.electoral; i++) { %>
+                      <span class="electoral block"></span>
+                      <% } %>
+                    </div>
+                    <%
+                    }
+                  } %>
+                </div>
+                <% }) %>
+              </div>
+              <div class="unreported state list">
+                <%
+                for (var k in election.ap.electoral) {
+                  var state = election.ap.electoral[k];
+                  if (!state.winner) { %>
+                  <div class="pending">
+                    <span class="name"><%= k %></span>: <%= json.Electoral[k].count %>
+                  </div>
+                  <%
+                  }
+                }
+                %>
+              </div>
+            </div>
+
           </section>
+
           <% election.categories.forEach(function(cat, i) { var category = election.categorized[cat]; %>
             <section class="category show" id="<%= cat.replace(/\s/g, "") %>">
             <%
@@ -69,6 +114,7 @@
             %>
             </section>
           <% }); %>
+
           <ul class="key">
             <li> * indicates incumbent
             <li> Races that cross county borders include vote totals from all jurisdictions.

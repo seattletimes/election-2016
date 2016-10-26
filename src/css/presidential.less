@@ -1,0 +1,83 @@
+#President {
+
+  .vs-container {
+    font-family: @df-sans;
+    header {
+      .display-flex();
+
+      .half {
+        .flex(0 0 50%);
+        .display-flex();
+        .align-items(flex-end);
+        line-height: 1;
+        border-bottom-width: 4px;
+        border-bottom-style: solid;
+        border-bottom-color: @elex-blue;
+
+        &.trump {
+          .flex-direction(row-reverse);
+          border-bottom-color: @elex-red;
+        }
+      }
+
+      .name {
+        font-size: 16px;
+        text-transform: uppercase;
+      }
+
+      .electoral.vote {
+        font-weight: bold;
+        font-size: 24px;
+        margin: 0 16px;
+      }
+    }
+
+    .reported {
+      .display-flex();
+      .half {
+        .flex(0 0 50%);
+      }
+    }
+
+    .victory {
+      clear: both;
+      overflow: hidden;
+      width: 100%;
+      font-size: 15px;
+      color: @df-middle-gray;
+      margin-bottom: 10px;
+
+      .name {
+        width: 3em;
+        text-align: center;
+      }
+
+      span {
+        float: left;
+
+        &.electoral.block {
+          background: @elex-blue;
+        }
+      }
+
+      &.trump {
+        span {
+          float: right;
+
+          &.electoral.block {
+            background: @elex-red;
+          }
+        }
+      }
+    }
+
+    .electoral.block {
+      display: inline-block;
+      width: 15px;
+      height: 15px;
+      margin: 2px;
+      background: @elex-green;
+    }
+  }
+
+}
