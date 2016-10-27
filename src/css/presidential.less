@@ -40,41 +40,41 @@
     }
 
     .victory {
-      clear: both;
-      overflow: hidden;
       width: 100%;
       font-size: 15px;
       color: @df-middle-gray;
       margin-bottom: 10px;
+      .display-flex();
 
       .name {
-        width: 3em;
+        .flex(0 0 3em);
         text-align: center;
       }
 
-      span {
-        float: left;
+      .block-collection {
+        padding-top: 4px;
+      }
 
-        &.electoral.block {
-          background: @elex-blue;
-        }
+      .electoral.block {
+        background: @elex-blue;
+        float: left;
+        border-radius: 100%;
       }
 
       &.trump {
-        span {
-          float: right;
+        .flex-direction(row-reverse);
 
-          &.electoral.block {
-            background: @elex-red;
-          }
+        .electoral.block {
+          background: @elex-red;
+          float: right;
         }
       }
     }
 
     .electoral.block {
       display: inline-block;
-      width: 15px;
-      height: 15px;
+      width: 8px;
+      height: 8px;
       margin: 2px;
       background: @elex-green;
     }

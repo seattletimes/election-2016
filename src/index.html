@@ -58,10 +58,12 @@
                     var state = election.ap.electoral[k];
                     if (state.winner && state.winner.last == candidate) { %>
                     <div class="<%= candidate.toLowerCase() %> victory">
-                      <span class="name"><%= k %></span>
-                      <% for (var i = 0; i < state.winner.electoral; i++) { %>
-                      <span class="electoral block"></span>
-                      <% } %>
+                      <div class="name"><%= k %></div>
+                      <div class="block-collection">
+                        <% for (var i = 0; i < state.winner.electoral; i++) { %>
+                        <span class="electoral block"></span>
+                        <% } %>
+                      </div>
                     </div>
                     <%
                     }
