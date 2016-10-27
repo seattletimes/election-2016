@@ -135,8 +135,6 @@ module.exports = function(grunt) {
           electoral: row.electwon * 1,
           electoralTotal: row.electtotal * 1
         };
-        // DEBUG
-        if (result.location != "US" && Math.random() > .5) result.electoral = grunt.data.json.Electoral[row.statepostal].count;
 
         if (!ap.byCandidate[row.last]) ap.byCandidate[row.last] = {
           national: null,
