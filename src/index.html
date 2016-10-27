@@ -77,7 +77,17 @@
                   var state = election.ap.electoral[k];
                   if (!state.winner) { %>
                   <div class="pending">
-                    <span class="name"><%= k %></span>: <%= json.Electoral[k].count %>
+                    <div class="left block-collection">
+                      <% for (var i = 0; i < (json.Electoral[k].count >> 1); i++) { %>
+                      <span class="electoral block"></span>
+                      <% } %>
+                    </div>
+                    <div class="name"><%= k %></div>
+                    <div class="right block-collection">
+                      <% for (var i = (json.Electoral[k].count >> 1); i < json.Electoral[k].count; i++) { %>
+                      <span class="electoral block"></span>
+                      <% } %>
+                    </div>
                   </div>
                   <%
                   }
