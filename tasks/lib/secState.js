@@ -20,7 +20,7 @@ var getResults = function(config, c) {
   //load results during call, not startup, to let `sheets` run
   var races = require("../../data/Races.sheet.json");
   var raceMap = {};
-  races.filter(d => !d.uncontested).forEach(r => raceMap[r.id] = r);
+  races.filter(d => !d.filter).forEach(r => raceMap[r.id] = r);
 
   var candidates = require("../../data/Candidates.sheet.json");
   var candidateMap = {};

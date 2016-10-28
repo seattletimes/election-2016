@@ -58,14 +58,16 @@ module.exports = function(grunt) {
       var featured = [];
 
       // remove uncontested races from the config files
-      var uncontested = [];
-      var raceConfig = require("../data/Races.sheet.json").filter(d => !d.uncontested);
+      var raceConfig = require("../data/Races.sheet.json").filter(d => !d.filter);
 
       // generate the races hash by SOS ID
       raceConfig.forEach(function(row, i) {
         races[row.id] = row;
         if (!row) console.error("Broken row, index ", i);
         row.results = [];
+
+        //don't categorize presidential race
+        if (row.id == 1) return;
 
         //create a category/subcategory for this
         var cat = row.category || "none";
