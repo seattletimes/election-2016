@@ -1,47 +1,104 @@
 require("./lib/social");
 require("./lib/ads");
-require("./components/svg-map/svg-map");
+require("savage-image");
+var savage = require("savage-query");
 
 var yes = ["yes", "approved", "maintained"];
 
-var qsa = s => Array.prototype.slice.call(document.querySelectorAll(s));
+var $ = require("./lib/qsa");
 
 //enable county maps
-qsa("svg-map.county").forEach(function(map, i) {
+$("savage-image.county").forEach(function(map, i) {
+  var tooltip = document.createElement("div");
+  tooltip.classList.add("popup");
+  map.parentElement.appendChild(tooltip);
+
   var raceID = map.getAttribute("data-race");
   var data = window.mapData[raceID];
-  if (Object.keys(data).length) {
-    map.eachPath(".county", function(shape) {
-      var id = shape.id.replace(/_/g, " ");
+  var lastCounty = null;
+
+  var hover = function(e) {
+
+    var id = this.getAttribute("id").replace(/_/g, " ");
+    if (id != lastCounty) {
+      var county = data[id] || {};
+      var results = county.results || [];
+
+      var html = `<span class="county">${id}</span>
+      <ul>
+      ${results.map(r => {
+        return `
+        <li> ${r.candidate} - ${r.percent ? r.percent + "%" : "0.0%"}&nbsp;(${r.votes})`
+      }).join("") || "<li> No results yet."}
+      </ul>`
+
+      tooltip.innerHTML = html;
+    }
+    lastCounty = id;
+    tooltip.classList.add("show");
+
+    var bounds = map.getBoundingClientRect();
+    var x = e.clientX - bounds.left;
+    var y = e.clientY - bounds.top;
+    if (x > bounds.width >> 1) {
+      x -= tooltip.offsetWidth;
+    }
+
+    tooltip.style.left = `${x}px`;
+    tooltip.style.top = `${y + 20}px`;
+
+
+  };
+
+  var exit = function() {
+    tooltip.classList.remove("show");
+  };
+
+  var ready = function() {
+    var counties = $(".county", map);
+    counties.forEach(function(path) {
+      var $path = savage(path);
+      var id = path.id.replace(/_/g, " ");
       var result = data[id];
       if (!result) {
-        map.savage.addClass(shape, "null");
+        $path.addClass("null");
       } else if (!result.winner) {
-        map.savage.addClass(shape, "tie");
+        $path.addClass("tie");
       } else if (result.winner.party) {
-        map.savage.addClass(shape, result.winner.party == "D" ? "dem" : "rep");
+        $path.addClass(result.winner.party == "D" ? "dem" : "rep");
       } else {
         var option = result.winner.candidate.toLowerCase();
-        map.savage.addClass(shape, yes.indexOf(option) > -1 ? "yes" : "no");
+        $path.addClass(yes.indexOf(option) > -1 ? "yes" : "no");
       }
+
+      path.addEventListener("mousemove", hover);
+      path.addEventListener("mouseexit", exit);
     });
-    var mapState = map.getState();
-    mapState.onhover = function(county) {
-      county = county.replace(/_/g, " ");
-      var c = data[county];
-      if (!c) c = { county };
-      c.county = county;
-      return c || {};
-    };
-    mapState.hoverClass = "county";
   }
+
+  if (map.readyState == 4) {
+    ready();
+  } else {
+    map.addEventListener("load", ready);
+  }
+
 });
 
-qsa("svg-map.district").forEach(function(map, i) {
-  var districtID = map.getAttribute("data-district");
-  map.eachPath(".district", function(shape) {
-    map.savage.addClass(shape, shape.id == districtID ? "district" : "null");
-  });
+$("savage-image.district").forEach(function(map, i) {
+  var districtID = map.getAttribute("data-district").match(/^\d+/)[0] * 1;
+
+  var ready = function() {
+    var paths = $("path, polygon", map);
+    paths.forEach(function(p) {
+      savage(p).addClass(p.id * 1 === districtID ? "highlight" : "null");
+    });
+  }
+
+  if (map.readyState == 4) {
+    ready();
+  } else {
+    map.addEventListener("load", ready);
+  }
 });
 
 var onTabClick = function(e) {
@@ -50,7 +107,7 @@ var onTabClick = function(e) {
   var active = document.querySelector(".tab.active");
   if (active) active.classList.remove("active");
   this.classList.add("active");
-  qsa("section.category.show").forEach(s => s.classList.remove("show"));
+  $("section.category.show").forEach(s => s.classList.remove("show"));
   var section = document.querySelector(href);
   section.classList.add("show")
   if (window.history && window.history.replaceState) {
@@ -60,7 +117,7 @@ var onTabClick = function(e) {
   }
 }
 
-qsa(".tab").forEach(t => t.addEventListener("click", onTabClick));
+$(".tab").forEach(t => t.addEventListener("click", onTabClick));
 
 var hash = window.location.hash.replace("section-", "");
 var firstTab = document.querySelector("a.tab");
@@ -87,7 +144,7 @@ var onSubnavChange = function() {
   section.querySelector(selector).classList.add("show");
 };
 
-qsa("select.subnav").forEach(function(s) {
+$("select.subnav").forEach(function(s) {
   s.addEventListener("change", onSubnavChange);
   onSubnavChange.call(s);
 });
