@@ -19,6 +19,8 @@ var getResults = function(config, c) {
 
   //load results during call, not startup, to let `sheets` run
   var races = require("../../data/Races.sheet.json");
+
+  //remove non-local "local" races and filtered
   var raceMap = {};
   races.filter(d => !d.filter).forEach(r => raceMap[r.id] = r);
 
@@ -41,7 +43,7 @@ var getResults = function(config, c) {
   var rows = [];
   parser.on("data", function(row) {
     var raceConfig = raceMap[row.RaceID];
-    if (!raceConfig) return console.log("Missing race in config:", row);
+    if (!raceConfig) return;// console.log("Missing race in config:", row);
     var candidate = candidateMap[row.BallotID];
     if (!candidate) return;//console.log("Missing candidate:", row);
 

@@ -1,206 +1,257 @@
 {
   "AL": {
     "state": "Alabama",
-    "count": 9
+    "count": 9,
+    "close": 5
   },
   "AK": {
     "state": "Alaska",
-    "count": 3
+    "count": 3,
+    "close": 8
   },
   "AZ": {
     "state": "Arizona",
-    "count": 11
+    "count": 11,
+    "close": 6
   },
   "AR": {
     "state": "Arkansas",
-    "count": 6
+    "count": 6,
+    "close": "5:30"
   },
   "CA": {
     "state": "California",
-    "count": 55
+    "count": 55,
+    "close": 8
   },
   "CO": {
     "state": "Colorado",
-    "count": 9
+    "count": 9,
+    "close": 6
   },
   "CT": {
     "state": "Connecticut",
-    "count": 7
+    "count": 7,
+    "close": 5
   },
   "DE": {
     "state": "Delaware",
-    "count": 3
+    "count": 3,
+    "close": 5
   },
   "DC": {
     "state": "District of Columbia",
-    "count": 3
+    "count": 3,
+    "close": 5
   },
   "FL": {
     "state": "Florida",
-    "count": 29
+    "count": 29,
+    "close": 4
   },
   "GA": {
     "state": "Georgia",
-    "count": 16
+    "count": 16,
+    "close": 4
   },
   "HI": {
     "state": "Hawaii",
-    "count": 4
+    "count": 4,
+    "close": 8
   },
   "ID": {
     "state": "Idaho",
-    "count": 4
+    "count": 4,
+    "close": 7
   },
   "IL": {
     "state": "Illinois",
-    "count": 20
+    "count": 20,
+    "close": 5
   },
   "IN": {
     "state": "Indiana",
-    "count": 11
+    "count": 11,
+    "close": 3
   },
   "IA": {
     "state": "Iowa",
-    "count": 6
+    "count": 6,
+    "close": 7
   },
   "KS": {
     "state": "Kansas",
-    "count": 6
+    "count": 6,
+    "close": 5
   },
   "KY": {
     "state": "Kentucky",
-    "count": 8
+    "count": 8,
+    "close": 3
   },
   "LA": {
     "state": "Louisiana",
-    "count": 8
+    "count": 8,
+    "close": 6
   },
   "ME": {
     "state": "Maine",
-    "count": 4
+    "count": 4,
+    "close": 5
   },
   "MD": {
     "state": "Maryland",
-    "count": 10
+    "count": 10,
+    "close": 5
   },
   "MA": {
     "state": "Massachusetts",
-    "count": 11
+    "count": 11,
+    "close": 5
   },
   "MI": {
     "state": "Michigan",
-    "count": 16
+    "count": 16,
+    "close": 5
   },
   "MN": {
     "state": "Minnesota",
-    "count": 10
+    "count": 10,
+    "close": 6
   },
   "MS": {
     "state": "Mississippi",
-    "count": 6
+    "count": 6,
+    "close": 5
   },
   "MO": {
     "state": "Missouri",
-    "count": 10
+    "count": 10,
+    "close": 5
   },
   "MT": {
     "state": "Montana",
-    "count": 3
+    "count": 3,
+    "close": 7
   },
   "NE": {
     "state": "Nebraska",
-    "count": 5
+    "count": 5,
+    "close": 6
   },
   "NV": {
     "state": "Nevada",
-    "count": 6
+    "count": 6,
+    "close": 7
   },
   "NH": {
     "state": "New Hampshire",
-    "count": 4
+    "count": 4,
+    "close": 5
   },
   "NJ": {
     "state": "New Jersey",
-    "count": 14
+    "count": 14,
+    "close": 5
   },
   "NM": {
     "state": "New Mexico",
-    "count": 5
+    "count": 5,
+    "close": 6
   },
   "NY": {
     "state": "New York",
-    "count": 29
+    "count": 29,
+    "close": 6
   },
   "NC": {
     "state": "North Carolina",
-    "count": 15
+    "count": 15,
+    "close": "4:30"
   },
   "ND": {
     "state": "North Dakota",
-    "count": 3
+    "count": 3,
+    "close": 7
   },
   "OH": {
     "state": "Ohio",
-    "count": 18
+    "count": 18,
+    "close": "4:30"
   },
   "OK": {
     "state": "Oklahoma",
-    "count": 7
+    "count": 7,
+    "close": 5
   },
   "OR": {
     "state": "Oregon",
-    "count": 7
+    "count": 7,
+    "close": 7
   },
   "PA": {
     "state": "Pennsylvania",
-    "count": 20
+    "count": 20,
+    "close": 5
   },
   "RI": {
     "state": "Rhode Island",
-    "count": 4
+    "count": 4,
+    "close": 5
   },
   "SC": {
     "state": "South Carolina",
-    "count": 9
+    "count": 9,
+    "close": 4
   },
   "SD": {
     "state": "South Dakota",
-    "count": 3
+    "count": 3,
+    "close": 5
   },
   "TN": {
     "state": "Tennessee",
-    "count": 11
+    "count": 11,
+    "close": 5
   },
   "TX": {
     "state": "Texas",
-    "count": 38
+    "count": 38,
+    "close": 5
   },
   "UT": {
     "state": "Utah",
-    "count": 6
+    "count": 6,
+    "close": 7
   },
   "VT": {
     "state": "Vermont",
-    "count": 3
+    "count": 3,
+    "close": 4
   },
   "VA": {
     "state": "Virginia",
-    "count": 13
+    "count": 13,
+    "close": 4
   },
   "WA": {
     "state": "Washington",
-    "count": 12
+    "count": 12,
+    "close": 8
   },
   "WV": {
     "state": "West Virginia",
-    "count": 5
+    "count": 5,
+    "close": "4:30"
   },
   "WI": {
     "state": "Wisconsin",
-    "count": 10
+    "count": 10,
+    "close": 6
   },
   "WY": {
     "state": "Wyoming",
-    "count": 3
+    "count": 3,
+    "close": 6
   }
 }
