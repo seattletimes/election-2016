@@ -114,62 +114,62 @@
   {
     "id": 6,
     "name": "Congressional District 1",
-    "locator": 1,
-    "category": "Congressional"
+    "category": "Congressional",
+    "locator": 1
   },
   {
     "id": 8,
     "name": "Congressional District 2",
-    "locator": 2,
-    "category": "Congressional"
+    "category": "Congressional",
+    "locator": 2
   },
   {
     "id": 5,
     "name": "Congressional District 3",
-    "locator": 3,
-    "category": "Congressional"
+    "category": "Congressional",
+    "locator": 3
   },
   {
     "id": 7,
     "name": "Congressional District 4",
-    "locator": 4,
-    "category": "Congressional"
+    "category": "Congressional",
+    "locator": 4
   },
   {
     "id": 4,
     "name": "Congressional District 5",
-    "locator": 5,
-    "category": "Congressional"
+    "category": "Congressional",
+    "locator": 5
   },
   {
     "id": 9,
     "name": "Congressional District 6",
-    "locator": 6,
-    "category": "Congressional"
+    "category": "Congressional",
+    "locator": 6
   },
   {
     "id": 11,
     "name": "Congressional District 7",
-    "locator": 7,
-    "category": "Congressional"
+    "category": "Congressional",
+    "locator": 7
   },
   {
     "id": 12,
     "name": "Congressional District 8",
-    "locator": 8,
-    "category": "Congressional"
+    "category": "Congressional",
+    "locator": 8
   },
   {
     "id": 10,
     "name": "Congressional District 9",
-    "locator": 9,
-    "category": "Congressional"
+    "category": "Congressional",
+    "locator": 9
   },
   {
     "id": 28824,
     "name": "Congressional District 10",
-    "locator": 10,
-    "category": "Congressional"
+    "category": "Congressional",
+    "locator": 10
   },
   {
     "id": 22,
@@ -648,746 +648,746 @@
   {
     "id": 228,
     "name": "Legislative District 1 - State Senator",
-    "locator": 1,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 1
   },
   {
     "id": 229,
     "name": "Legislative District 1 - State Representative Pos. 1",
-    "locator": 1,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 1
   },
   {
     "id": 230,
     "name": "Legislative District 1 - State Representative Pos. 2",
-    "locator": 1,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 1
   },
   {
     "id": 231,
     "name": "Legislative District 2 - State Senator",
-    "locator": 2,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 2
   },
   {
     "id": 232,
     "name": "Legislative District 2 - State Representative Pos. 1",
-    "locator": 2,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 2
   },
   {
     "id": 233,
     "name": "Legislative District 2 - State Representative Pos. 2",
-    "locator": 2,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 2
   },
   {
     "id": 234,
     "name": "Legislative District 3 - State Senator",
-    "locator": 3,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 3
   },
   {
     "id": 235,
     "name": "Legislative District 3 - State Representative Pos. 1",
-    "locator": 3,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 3
   },
   {
     "id": 236,
     "name": "Legislative District 3 - State Representative Pos. 2",
-    "locator": 3,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 3
   },
   {
     "id": 237,
     "name": "Legislative District 4 - State Senator",
-    "locator": 4,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 4
   },
   {
     "id": 238,
     "name": "Legislative District 4 - State Representative Pos. 1",
-    "locator": 4,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 4
   },
   {
     "id": 239,
     "name": "Legislative District 4 - State Representative Pos. 2",
-    "locator": 4,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 4
   },
   {
     "id": 240,
     "name": "Legislative District 5 - State Senator",
-    "locator": 5,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 5
   },
   {
     "id": 241,
     "name": "Legislative District 5 - State Representative Pos. 1",
-    "locator": 5,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 5
   },
   {
     "id": 242,
     "name": "Legislative District 5 - State Representative Pos. 2",
-    "locator": 5,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 5
   },
   {
     "id": 244,
     "name": "Legislative District 6 - State Representative Pos. 1",
-    "locator": 6,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 6
   },
   {
     "id": 245,
     "name": "Legislative District 6 - State Representative Pos. 2",
-    "locator": 6,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 6
   },
   {
     "id": 247,
     "name": "Legislative District 7 - State Representative Pos. 1",
-    "locator": 7,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 7
   },
   {
     "id": 248,
     "name": "Legislative District 7 - State Representative Pos. 2",
-    "locator": 7,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 7
   },
   {
     "id": 251,
     "name": "Legislative District 8 - State Representative Pos. 1",
-    "locator": 8,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 8
   },
   {
     "id": 252,
     "name": "Legislative District 8 - State Representative Pos. 2",
-    "locator": 8,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 8
   },
   {
     "id": 253,
     "name": "Legislative District 9 - State Senator",
-    "locator": 9,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 9
   },
   {
     "id": 254,
     "name": "Legislative District 9 - State Representative Pos. 1",
-    "locator": 9,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 9
   },
   {
     "id": 255,
     "name": "Legislative District 9 - State Representative Pos. 2",
-    "locator": 9,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 9
   },
   {
     "id": 256,
     "name": "Legislative District 10 - State Senator",
-    "locator": 10,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 10
   },
   {
     "id": 257,
     "name": "Legislative District 10 - State Representative Pos. 1",
-    "locator": 10,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 10
   },
   {
     "id": 258,
     "name": "Legislative District 10 - State Representative Pos. 2",
-    "locator": 10,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 10
   },
   {
     "id": 259,
     "name": "Legislative District 11 - State Senator",
-    "locator": 11,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 11
   },
   {
     "id": 260,
     "name": "Legislative District 11 - State Representative Pos. 1",
-    "locator": 11,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 11
   },
   {
     "id": 261,
     "name": "Legislative District 11 - State Representative Pos. 2",
-    "locator": 11,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 11
   },
   {
     "id": 262,
     "name": "Legislative District 12 - State Senator",
-    "locator": 12,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 12
   },
   {
     "id": 263,
     "name": "Legislative District 12 - State Representative Pos. 1",
-    "locator": 12,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 12
   },
   {
     "id": 264,
     "name": "Legislative District 12 - State Representative Pos. 2",
-    "locator": 12,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 12
   },
   {
     "id": 266,
     "name": "Legislative District 13 - State Representative Pos. 1",
-    "locator": 13,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 13
   },
   {
     "id": 267,
     "name": "Legislative District 13 - State Representative Pos. 2",
-    "locator": 13,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 13
   },
   {
     "id": 268,
     "name": "Legislative District 14 - State Senator",
-    "locator": 14,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 14
   },
   {
     "id": 269,
     "name": "Legislative District 14 - State Representative Pos. 1",
-    "locator": 14,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 14
   },
   {
     "id": 270,
     "name": "Legislative District 14 - State Representative Pos. 2",
-    "locator": 14,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 14
   },
   {
     "id": 272,
     "name": "Legislative District 15 - State Representative Pos. 1",
-    "locator": 15,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 15
   },
   {
     "id": 273,
     "name": "Legislative District 15 - State Representative Pos. 2",
-    "locator": 15,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 15
   },
   {
     "id": 274,
     "name": "Legislative District 16 - State Senator",
-    "locator": 16,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 16
   },
   {
     "id": 275,
     "name": "Legislative District 16 - State Representative Pos. 1",
-    "locator": 16,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 16
   },
   {
     "id": 276,
     "name": "Legislative District 16 - State Representative Pos. 2",
-    "locator": 16,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 16
   },
   {
     "id": 277,
     "name": "Legislative District 17 - State Senator",
-    "locator": 17,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 17
   },
   {
     "id": 278,
     "name": "Legislative District 17 - State Representative Pos. 1",
-    "locator": 17,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 17
   },
   {
     "id": 279,
     "name": "Legislative District 17 - State Representative Pos. 2",
-    "locator": 17,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 17
   },
   {
     "id": 280,
     "name": "Legislative District 18 - State Senator",
-    "locator": 18,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 18
   },
   {
     "id": 281,
     "name": "Legislative District 18 - State Representative Pos. 1",
-    "locator": 18,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 18
   },
   {
     "id": 282,
     "name": "Legislative District 18 - State Representative Pos. 2",
-    "locator": 18,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 18
   },
   {
     "id": 283,
     "name": "Legislative District 19 - State Senator",
-    "locator": 19,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 19
   },
   {
     "id": 284,
     "name": "Legislative District 19 - State Representative Pos. 1",
-    "locator": 19,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 19
   },
   {
     "id": 285,
     "name": "Legislative District 19 - State Representative Pos. 2",
-    "locator": 19,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 19
   },
   {
     "id": 286,
     "name": "Legislative District 20 - State Senator",
-    "locator": 20,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 20
   },
   {
     "id": 287,
     "name": "Legislative District 20 - State Representative Pos. 1",
-    "locator": 20,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 20
   },
   {
     "id": 288,
     "name": "Legislative District 20 - State Representative Pos. 2",
-    "locator": 20,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 20
   },
   {
     "id": 290,
     "name": "Legislative District 21 - State Representative Pos. 1",
-    "locator": 21,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 21
   },
   {
     "id": 291,
     "name": "Legislative District 21 - State Representative Pos. 2",
-    "locator": 21,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 21
   },
   {
     "id": 292,
     "name": "Legislative District 22 - State Senator",
-    "locator": 22,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 22
   },
   {
     "id": 293,
     "name": "Legislative District 22 - State Representative Pos. 1",
-    "locator": 22,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 22
   },
   {
     "id": 294,
     "name": "Legislative District 22 - State Representative Pos. 2",
-    "locator": 22,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 22
   },
   {
     "id": 295,
     "name": "Legislative District 23 - State Senator",
-    "locator": 23,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 23
   },
   {
     "id": 296,
     "name": "Legislative District 23 - State Representative Pos. 1",
-    "locator": 23,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 23
   },
   {
     "id": 297,
     "name": "Legislative District 23 - State Representative Pos. 2",
-    "locator": 23,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 23
   },
   {
     "id": 298,
     "name": "Legislative District 24 - State Senator",
-    "locator": 24,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 24
   },
   {
     "id": 299,
     "name": "Legislative District 24 - State Representative Pos. 1",
-    "locator": 24,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 24
   },
   {
     "id": 300,
     "name": "Legislative District 24 - State Representative Pos. 2",
-    "locator": 24,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 24
   },
   {
     "id": 301,
     "name": "Legislative District 25 - State Senator",
-    "locator": 25,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 25
   },
   {
     "id": 302,
     "name": "Legislative District 25 - State Representative Pos. 1",
-    "locator": 25,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 25
   },
   {
     "id": 303,
     "name": "Legislative District 25 - State Representative Pos. 2",
-    "locator": 25,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 25
   },
   {
     "id": 305,
     "name": "Legislative District 26 - State Representative Pos. 1",
-    "locator": 26,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 26
   },
   {
     "id": 306,
     "name": "Legislative District 26 - State Representative Pos. 2",
-    "locator": 26,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 26
   },
   {
     "id": 307,
     "name": "Legislative District 27 - State Senator",
-    "locator": 27,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 27
   },
   {
     "id": 308,
     "name": "Legislative District 27 - State Representative Pos. 1",
-    "locator": 27,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 27
   },
   {
     "id": 309,
     "name": "Legislative District 27 - State Representative Pos. 2",
-    "locator": 27,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 27
   },
   {
     "id": 310,
     "name": "Legislative District 28 - State Senator",
-    "locator": 28,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 28
   },
   {
     "id": 311,
     "name": "Legislative District 28 - State Representative Pos. 1",
-    "locator": 28,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 28
   },
   {
     "id": 312,
     "name": "Legislative District 28 - State Representative Pos. 2",
-    "locator": 28,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 28
   },
   {
     "id": 314,
     "name": "Legislative District 29 - State Representative Pos. 1",
-    "locator": 29,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 29
   },
   {
     "id": 315,
     "name": "Legislative District 29 - State Representative Pos. 2",
-    "locator": 29,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 29
   },
   {
     "id": 317,
     "name": "Legislative District 30 - State Representative Pos. 1",
-    "locator": 30,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 30
   },
   {
     "id": 318,
     "name": "Legislative District 30 - State Representative Pos. 2",
-    "locator": 30,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 30
   },
   {
     "id": 320,
     "name": "Legislative District 31 - State Representative Pos. 1",
-    "locator": 31,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 31
   },
   {
     "id": 321,
     "name": "Legislative District 31 - State Representative Pos. 2",
-    "locator": 31,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 31
   },
   {
     "id": 323,
     "name": "Legislative District 32 - State Representative Pos. 1",
-    "locator": 32,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 32
   },
   {
     "id": 324,
     "name": "Legislative District 32 - State Representative Pos. 2",
-    "locator": 32,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 32
   },
   {
     "id": 326,
     "name": "Legislative District 33 - State Representative Pos. 1",
-    "locator": 33,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 33
   },
   {
     "id": 327,
     "name": "Legislative District 33 - State Representative Pos. 2",
-    "locator": 33,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 33
   },
   {
     "id": 329,
     "name": "Legislative District 34 - State Representative Pos. 1",
-    "locator": 34,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 34
   },
   {
     "id": 330,
     "name": "Legislative District 34 - State Representative Pos. 2",
-    "locator": 34,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 34
   },
   {
     "id": 332,
     "name": "Legislative District 35 - State Representative Pos. 1",
-    "locator": 35,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 35
   },
   {
     "id": 333,
     "name": "Legislative District 35 - State Representative Pos. 2",
-    "locator": 35,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 35
   },
   {
     "id": 334,
     "name": "Legislative District 36 - State Senator",
-    "locator": 36,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 36
   },
   {
     "id": 335,
     "name": "Legislative District 36 - State Representative Pos. 1",
-    "locator": 36,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 36
   },
   {
     "id": 336,
     "name": "Legislative District 36 - State Representative Pos. 2",
-    "locator": 36,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 36
   },
   {
     "id": 338,
     "name": "Legislative District 37 - State Representative Pos. 1",
-    "locator": 37,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 37
   },
   {
     "id": 339,
     "name": "Legislative District 37 - State Representative Pos. 2",
-    "locator": 37,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 37
   },
   {
     "id": 341,
     "name": "Legislative District 38 - State Representative Pos. 1",
-    "locator": 38,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 38
   },
   {
     "id": 342,
     "name": "Legislative District 38 - State Representative Pos. 2",
-    "locator": 38,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 38
   },
   {
     "id": 343,
     "name": "Legislative District 39 - State Senator",
-    "locator": 39,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 39
   },
   {
     "id": 344,
     "name": "Legislative District 39 - State Representative Pos. 1",
-    "locator": 39,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 39
   },
   {
     "id": 345,
     "name": "Legislative District 39 - State Representative Pos. 2",
-    "locator": 39,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 39
   },
   {
     "id": 346,
     "name": "Legislative District 40 - State Senator",
-    "locator": 40,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 40
   },
   {
     "id": 347,
     "name": "Legislative District 40 - State Representative Pos. 1",
-    "locator": 40,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 40
   },
   {
     "id": 348,
     "name": "Legislative District 40 - State Representative Pos. 2",
-    "locator": 40,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 40
   },
   {
     "id": 349,
     "name": "Legislative District 41 - State Senator",
-    "locator": 41,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 41
   },
   {
     "id": 350,
     "name": "Legislative District 41 - State Representative Pos. 1",
-    "locator": 41,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 41
   },
   {
     "id": 351,
     "name": "Legislative District 41 - State Representative Pos. 2",
-    "locator": 41,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 41
   },
   {
     "id": 353,
     "name": "Legislative District 42 - State Representative Pos. 1",
-    "locator": 42,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 42
   },
   {
     "id": 354,
     "name": "Legislative District 42 - State Representative Pos. 2",
-    "locator": 42,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 42
   },
   {
     "id": 356,
     "name": "Legislative District 43 - State Representative Pos. 1",
-    "locator": 43,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 43
   },
   {
     "id": 357,
     "name": "Legislative District 43 - State Representative Pos. 2",
-    "locator": 43,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 43
   },
   {
     "id": 359,
     "name": "Legislative District 44 - State Representative Pos. 1",
-    "locator": 44,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 44
   },
   {
     "id": 360,
     "name": "Legislative District 44 - State Representative Pos. 2",
-    "locator": 44,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 44
   },
   {
     "id": 362,
     "name": "Legislative District 45 - State Representative Pos. 1",
-    "locator": 45,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 45
   },
   {
     "id": 363,
     "name": "Legislative District 45 - State Representative Pos. 2",
-    "locator": 45,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 45
   },
   {
     "id": 365,
     "name": "Legislative District 46 - State Representative Pos. 1",
-    "locator": 46,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 46
   },
   {
     "id": 366,
     "name": "Legislative District 46 - State Representative Pos. 2",
-    "locator": 46,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 46
   },
   {
     "id": 368,
     "name": "Legislative District 47 - State Representative Pos. 1",
-    "locator": 47,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 47
   },
   {
     "id": 369,
     "name": "Legislative District 47 - State Representative Pos. 2",
-    "locator": 47,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 47
   },
   {
     "id": 371,
     "name": "Legislative District 48 - State Representative Pos. 1",
-    "locator": 48,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 48
   },
   {
     "id": 372,
     "name": "Legislative District 48 - State Representative Pos. 2",
-    "locator": 48,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 48
   },
   {
     "id": 373,
     "name": "Legislative District 49 - State Senator",
-    "locator": 49,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 49
   },
   {
     "id": 374,
     "name": "Legislative District 49 - State Representative Pos. 1",
-    "locator": 49,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 49
   },
   {
     "id": 375,
     "name": "Legislative District 49 - State Representative Pos. 2",
-    "locator": 49,
-    "category": "Legislative"
+    "category": "Legislative",
+    "locator": 49
   },
   {
     "id": 9221,

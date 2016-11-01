@@ -1,7 +1,8 @@
 [
   {
     "race": 1,
-    "rename": "President"
+    "rename": "President",
+    "filter": "this race is manually added"
   },
   {
     "race": 13,

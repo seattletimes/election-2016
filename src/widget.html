@@ -12,6 +12,21 @@
     <responsive-child class="election-widget">
 
       <div class="races">
+        <% var r = election.ap.national %>
+
+        <div class="race">
+          <div class="meta">
+            <h2>President</h2>
+          </div>
+          <ul class="results">
+            <% r.forEach(function(result) { %>
+            <li>
+              <span class="name"><%= result.candidate %></span> -
+              <%= t.formatNumber(result.votes) %> (<%= result.percent.toFixed(1) %>%)
+            <% }) %>
+          </ul>
+        </div>
+
         <% election.widget.forEach(function(race) { %>
         <div class="race">
           <div class="meta">
