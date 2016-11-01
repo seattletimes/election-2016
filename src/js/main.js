@@ -108,12 +108,12 @@ $("savage-image.county").forEach(function(map, i) {
 });
 
 $("savage-image.district").forEach(function(map, i) {
-  var districtID = map.getAttribute("data-district").match(/^\d+/)[0] * 1;
+  var districtID = map.getAttribute("data-district") * 1;
 
   var ready = function() {
     var paths = $("path, polygon", map);
     paths.forEach(function(p) {
-      savage(p).addClass(p.id * 1 === districtID ? "highlight" : "null");
+      savage(p).addClass(p.id == districtID ? "highlight" : "null");
     });
   }
 
