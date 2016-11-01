@@ -161,7 +161,7 @@ module.exports = function(grunt) {
       waPresidential.local = waPresidential.results;
 
       //Set up widget races
-      var widget = require("../data/Widget.sheet.json").map(function(row) {
+      var widget = require("../data/Widget.sheet.json").filter(r => !r.filter).map(function(row) {
         var original = races[row.race];
         return {
           results: original.results,
@@ -171,11 +171,7 @@ module.exports = function(grunt) {
           group: row.group,
           called: original.called
         };
-      }).reduce(function(o, row) {
-        if (!o[row.group]) o[row.group] = [];
-        o[row.group].push(row);
-        return o;
-      }, {});
+      });
 
       grunt.data.election = {
         all: races,

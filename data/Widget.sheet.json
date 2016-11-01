@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "race": 1,
+    "rename": "President"
+  },
+  {
+    "race": 13,
+    "rename": "Governor"
+  },
+  {
+    "race": 113429,
+    "rename": "Initiative 732",
+    "filter": "x"
+  },
+  {
+    "race": 113445,
+    "rename": "Initiative 735"
+  },
+  {
+    "race": 113485,
+    "rename": "Initiative 1433"
+  },
+  {
+    "race": 113489,
+    "rename": "Initiative Measure No. 1491"
+  },
+  {
+    "race": 11,
+    "rename": "Congressional District 7 - U.S. Representative"
+  }
+]

@@ -59,59 +59,60 @@
   .description {
 
   }
+}
 
-  .races {
-    .display-flex;
+.races {
+  .display-flex;
+  .flex-wrap(wrap);
+
+  @media @tablet {
+    display: block;
+  }
+
+  .race {
+    padding: 16px 0;
+    border-bottom: 1px dotted @df-light-gray;
+    .flex(0 0 33%);
 
     @media @tablet {
+      .display-flex();
+    }
+
+    @media @mobile {
       display: block;
     }
 
-    .race {
-      padding: 16px 0;
-      border-bottom: 1px dotted @df-light-gray;
-      .flex(0 0 33%);
+    &:last-child {
+      border-bottom: none;
+    }
 
-      @media @tablet {
-        .display-flex();
-      }
+    .meta {
+      .flex(0 0 50%);
+    }
 
-      @media @mobile {
-        display: block;
-      }
+    h2 {
+      font-size: 20px;
+      margin: 0;
+      font-weight: normal;
+    }
 
-      &:last-child {
-        border-bottom: none;
-      }
+    .description {
+      margin: 0;
+      font-style: italic;
+    }
 
-      .meta {
-        .flex(0 0 50%);
-      }
+    .results {
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+    }
 
-      h2 {
-        font-size: 20px;
-        margin: 0;
-        font-weight: normal;
-      }
+    .name {
+      font-weight: bold;
+    }
 
-      .description {
-        margin: 0;
-        font-style: italic;
-      }
-
-      .results {
-        margin: 0;
-        padding: 0;
-        list-style-type: none;
-      }
-
-      .name {
-        font-weight: bold;
-      }
-
-      .checkmark {
-        color: @df-orange;
-      }
+    .checkmark {
+      color: @df-orange;
     }
   }
 }
