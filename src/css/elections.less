@@ -6,6 +6,10 @@
     overflow: hidden;
     padding: 20px 0;
 
+      @media @mobile {
+        text-align: center;
+      }
+
     .tab {
       font-family: @df-sans;
       font-size: 14px;
@@ -15,13 +19,6 @@
       text-transform: uppercase;
       margin-bottom: 3px;
       cursor: pointer;
-
-      @media @mobile {
-        float: left;
-        width: calc(~"50% - 3px");
-        margin-left: 3px;
-        text-align: center;
-      }
 
       &.active {
         font-weight: bold;

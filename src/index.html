@@ -46,8 +46,13 @@
                 <% ["Clinton", "Trump"].forEach(function(candidate) { %>
                 <div class="<%= candidate.toLowerCase() %> half">
                   <% var result = election.ap.byCandidate[candidate].national || {}; %>
-                  <span class="name"><%= candidate %></span>
-                  <span class="electoral vote"><%= result.electoral %></span>
+                  <div class="above">
+                    <span class="name"><%= candidate %></span>
+                    <span class="electoral vote"><%= result.electoral %></span>
+                  </div>
+                  <div class="below">
+                    <span class="popular vote"><%= result.percent.toFixed(1) %>%</span>
+                  </div>
                 </div>
                 <% }) %>
               </header>

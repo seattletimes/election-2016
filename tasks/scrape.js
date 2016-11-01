@@ -131,7 +131,7 @@ module.exports = function(grunt) {
           last: row.last,
           party: parties[row.party] || "I",
           votes: row.votecount * 1,
-          percent: row.votepct * 1,
+          percent: row.votepct * 100,
           source: "AP",
           location: row.statepostal,
           electoral: row.electwon * 1,

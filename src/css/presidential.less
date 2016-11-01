@@ -6,17 +6,28 @@
       .display-flex();
 
       .half {
-        .flex(0 0 50%);
-        .display-flex();
-        .align-items(flex-end);
-        line-height: 1;
-        border-bottom-width: 4px;
-        border-bottom-style: solid;
-        border-bottom-color: @elex-blue;
+        float: left;
+        width: 50%;
+
+        .above {
+          line-height: 1;
+          border-bottom-width: 4px;
+          border-bottom-style: solid;
+          border-bottom-color: @elex-blue;
+          .display-flex();
+          .align-items(flex-end);
+          .flex(0 0 100%);
+        }
 
         &.trump {
-          .flex-direction(row-reverse);
-          border-bottom-color: @elex-red;
+          .above {
+            .flex-direction(row-reverse);
+            border-bottom-color: @elex-red;
+          }
+
+          .below {
+            text-align: right;
+          }
         }
       }
 
@@ -32,81 +43,6 @@
       }
     }
 
-    .reported {
-      .display-flex();
-      .half {
-        .flex(0 0 50%);
-      }
-    }
-
-    .victory {
-      width: 100%;
-      font-size: 15px;
-      color: @df-middle-gray;
-      margin-bottom: 10px;
-      .display-flex();
-
-      .name {
-        .flex(0 0 3em);
-        text-align: center;
-      }
-
-      .block-collection {
-        padding-top: 4px;
-      }
-
-      .electoral.block {
-        background: @elex-blue;
-        float: left;
-        border-radius: 100%;
-      }
-
-      &.trump {
-        .flex-direction(row-reverse);
-
-        .electoral.block {
-          background: @elex-red;
-          float: right;
-        }
-      }
-    }
-
-    .pending {
-      .display-flex();
-      .justify-content(center);
-
-      .block-collection {
-        .flex(0 0 45%);
-        padding-top: 4px;
-      }
-
-      .name {
-        display: block;
-        .flex(0 0 10%);
-        text-align: center;
-        color: @df-middle-gray;
-      }
-
-      .electoral.block {
-        background: @df-light-gray;
-        float: right;
-        border-radius: 100%;
-      }
-
-      .right {
-        .electoral.block {
-          float: left;
-        }
-      }
-    }
-
-    .electoral.block {
-      display: inline-block;
-      width: 8px;
-      height: 8px;
-      margin: 2px;
-      background: @elex-green;
-    }
   }
 
 }
