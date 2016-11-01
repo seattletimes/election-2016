@@ -7,6 +7,29 @@ var yes = ["yes", "approved", "maintained"];
 
 var $ = require("./lib/qsa");
 
+//color the presidential map
+var presidential = document.querySelector("savage-image.presidency");
+var ready = function() {
+  for (var postal in window.apData.electoral) {
+    var paths = $(`#${postal} path`, presidential);
+    var state = window.apData.electoral[postal];
+    state.results.forEach(function(result) {
+      if (!result.electoral) return;
+      for (var i = 0; i < result.electoral; i++) {
+        var dot = paths.shift();
+        // console.log(dot);
+        if (!dot) return console.log("Missing dot", result);
+        savage(dot).addClass(result.party == "D" ? "dem" : "rep");
+      }
+    })
+  }
+};
+if (presidential.readyState == 4) {
+  ready();
+} else {
+  presidential.addEventListener("load", ready);
+}
+
 //enable county maps
 $("savage-image.county").forEach(function(map, i) {
   var tooltip = document.createElement("div");

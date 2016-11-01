@@ -45,56 +45,13 @@
               <header>
                 <% ["Clinton", "Trump"].forEach(function(candidate) { %>
                 <div class="<%= candidate.toLowerCase() %> half">
-                  <% var result = election.ap.byCandidate[candidate].national; %>
+                  <% var result = election.ap.byCandidate[candidate].national || {}; %>
                   <span class="name"><%= candidate %></span>
                   <span class="electoral vote"><%= result.electoral %></span>
                 </div>
                 <% }) %>
               </header>
-              <div class="reported state list">
-                <% ["Clinton", "Trump"].forEach(function(candidate) { %>
-                <div class="<%= candidate.toLowerCase() %> half">
-                  <%
-                  for (var k in election.ap.electoral) {
-                    var state = election.ap.electoral[k];
-                    if (state.winner && state.winner.last == candidate) { %>
-                    <div class="<%= candidate.toLowerCase() %> victory">
-                      <div class="name"><%= k %></div>
-                      <div class="block-collection">
-                        <% for (var i = 0; i < state.winner.electoral; i++) { %>
-                        <span class="electoral block"></span>
-                        <% } %>
-                      </div>
-                    </div>
-                    <%
-                    }
-                  } %>
-                </div>
-                <% }) %>
-              </div>
-              <div class="unreported state list">
-                <%
-                for (var k in election.ap.electoral) {
-                  var state = election.ap.electoral[k];
-                  if (!state.winner) { %>
-                  <div class="pending">
-                    <div class="left block-collection">
-                      <% for (var i = 0; i < (json.Electoral[k].count >> 1); i++) { %>
-                      <span class="electoral block"></span>
-                      <% } %>
-                    </div>
-                    <div class="name"><%= k %></div>
-                    <div class="right block-collection">
-                      <% for (var i = (json.Electoral[k].count >> 1); i < json.Electoral[k].count; i++) { %>
-                      <span class="electoral block"></span>
-                      <% } %>
-                    </div>
-                  </div>
-                  <%
-                  }
-                }
-                %>
-              </div>
+              <savage-image class="presidency" src="./assets/electoral.svg"></savage-image>
               <div class="county-data">
                 <h2>Washington votes</h2>
                 <%= t.include("_resultEntry.html", { race: election.all[1], cat: "President" }) %>
@@ -105,6 +62,9 @@
 
           <% election.categories.forEach(function(cat, i) { var category = election.categorized[cat]; %>
             <section class="category show" id="<%= cat.replace(/\s/g, "") %>">
+
+            <!-- conditionally insert balance of power for legislative -->
+
             <%
             var groups = Object.keys(category.grouped);
             if (groups.length) {

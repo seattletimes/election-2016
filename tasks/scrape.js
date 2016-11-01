@@ -142,10 +142,10 @@ module.exports = function(grunt) {
           national: null,
           electoral: {}
         }
-        if (result.location == "US") {
+        if (row.level == "national") {
           ap.national.push(result);
           ap.byCandidate[row.last].national = result;
-        } else {
+        } else if (row.level == "state") {
           if (!ap.electoral[result.location]) ap.electoral[result.location] = { winner: null, results: [] };
           var election = ap.electoral[result.location];
           election.results.push(result);
