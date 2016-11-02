@@ -16,7 +16,7 @@ module.exports = function(c) {
     turnout[county] = line;
   });
   parser.on("finish", function() {
-    var expected = turnout.Total.NumberOfRegisteredVoters * .53;
+    var expected = turnout.Total.NumberOfRegisteredVoters * .84;
     var counted = turnout.Total.TotalBallotsCast * 1;
     turnout.percentage = Math.round(counted / expected * 1000) / 10;
     c(null, turnout);

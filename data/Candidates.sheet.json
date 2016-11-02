@@ -1,15 +1,93 @@
 [
   {
-    "race": 1,
-    "id": 45719,
-    "name": "Jill Stein",
-    "party": "Green Party"
+    "race": 113485,
+    "id": 113486,
+    "name": "Yes"
   },
   {
-    "race": 1,
-    "id": 45724,
-    "name": "Donald Trump",
-    "party": "R"
+    "race": 113485,
+    "id": 113487,
+    "name": "No"
+  },
+  {
+    "race": 113525,
+    "id": 113526,
+    "name": "Yes"
+  },
+  {
+    "race": 113525,
+    "id": 113527,
+    "name": "No"
+  },
+  {
+    "race": 113489,
+    "id": 113490,
+    "name": "Yes"
+  },
+  {
+    "race": 113489,
+    "id": 113491,
+    "name": "No"
+  },
+  {
+    "race": 113497,
+    "id": 113498,
+    "name": "Yes"
+  },
+  {
+    "race": 113497,
+    "id": 113499,
+    "name": "No"
+  },
+  {
+    "race": 113429,
+    "id": 113430,
+    "name": "Yes"
+  },
+  {
+    "race": 113429,
+    "id": 113431,
+    "name": "No"
+  },
+  {
+    "race": 113445,
+    "id": 113446,
+    "name": "Yes"
+  },
+  {
+    "race": 113445,
+    "id": 113447,
+    "name": "No"
+  },
+  {
+    "race": 113461,
+    "id": 113462,
+    "name": "Repealed"
+  },
+  {
+    "race": 113461,
+    "id": 113463,
+    "name": "Maintained"
+  },
+  {
+    "race": 113457,
+    "id": 113458,
+    "name": "Repealed"
+  },
+  {
+    "race": 113457,
+    "id": 113459,
+    "name": "Maintained"
+  },
+  {
+    "race": 113449,
+    "id": 113450,
+    "name": "Approved"
+  },
+  {
+    "race": 113449,
+    "id": 113451,
+    "name": "Rejected"
   },
   {
     "race": 1,
@@ -19,9 +97,21 @@
   },
   {
     "race": 1,
+    "id": 45724,
+    "name": "Donald J. Trump",
+    "party": "R"
+  },
+  {
+    "race": 1,
+    "id": 45719,
+    "name": "Jill Stein",
+    "party": "Green"
+  },
+  {
+    "race": 1,
     "id": 45728,
     "name": "Gary Johnson",
-    "party": "Libertarian Party"
+    "party": "Libertarian"
   },
   {
     "race": 3,
@@ -33,6 +123,54 @@
     "race": 3,
     "id": 41135,
     "name": "Chris Vance",
+    "party": "R"
+  },
+  {
+    "race": 6,
+    "id": 41292,
+    "name": "Suzan DelBene",
+    "party": "D"
+  },
+  {
+    "race": 6,
+    "id": 42789,
+    "name": "Robert J. Sutherland",
+    "party": "R"
+  },
+  {
+    "race": 8,
+    "id": 42868,
+    "name": "Rick Larsen",
+    "party": "D"
+  },
+  {
+    "race": 8,
+    "id": 41685,
+    "name": "Marc Hennemann",
+    "party": "R"
+  },
+  {
+    "race": 5,
+    "id": 42016,
+    "name": "Jaime Herrera Beutler",
+    "party": "R"
+  },
+  {
+    "race": 5,
+    "id": 45356,
+    "name": "Jim Moeller",
+    "party": "D"
+  },
+  {
+    "race": 7,
+    "id": 41539,
+    "name": "Dan Newhouse",
+    "party": "R"
+  },
+  {
+    "race": 7,
+    "id": 44073,
+    "name": "Clint Didier",
     "party": "R"
   },
   {
@@ -48,54 +186,6 @@
     "party": "D"
   },
   {
-    "race": 5,
-    "id": 42016,
-    "name": "Jaime Herrera Beutler",
-    "party": "R"
-  },
-  {
-    "race": 5,
-    "id": 45356,
-    "name": "Jim Moeller",
-    "party": "D"
-  },
-  {
-    "race": 6,
-    "id": 41292,
-    "name": "Suzan DelBene",
-    "party": "D"
-  },
-  {
-    "race": 6,
-    "id": 42789,
-    "name": "Robert J. Sutherland",
-    "party": "R"
-  },
-  {
-    "race": 7,
-    "id": 41539,
-    "name": "Dan Newhouse",
-    "party": "R"
-  },
-  {
-    "race": 7,
-    "id": 44073,
-    "name": "Clint Didier",
-    "party": "R"
-  },
-  {
-    "race": 8,
-    "id": 41685,
-    "name": "Marc Hennemann",
-    "party": "R"
-  },
-  {
-    "race": 8,
-    "id": 42868,
-    "name": "Rick Larsen",
-    "party": "D"
-  },
-  {
     "race": 9,
     "id": 41887,
     "name": "Derek Kilmer",
@@ -105,18 +195,6 @@
     "race": 9,
     "id": 44837,
     "name": "Todd A. Bloom",
-    "party": "R"
-  },
-  {
-    "race": 10,
-    "id": 41065,
-    "name": "Adam Smith",
-    "party": "D"
-  },
-  {
-    "race": 10,
-    "id": 42859,
-    "name": "Doug Basler",
     "party": "R"
   },
   {
@@ -144,6 +222,30 @@
     "party": "D"
   },
   {
+    "race": 10,
+    "id": 41065,
+    "name": "Adam Smith",
+    "party": "D"
+  },
+  {
+    "race": 10,
+    "id": 42859,
+    "name": "Doug Basler",
+    "party": "R"
+  },
+  {
+    "race": 28824,
+    "id": 44902,
+    "name": "Denny Heck",
+    "party": "D"
+  },
+  {
+    "race": 28824,
+    "id": 41106,
+    "name": "Jim Postma",
+    "party": "R"
+  },
+  {
     "race": 13,
     "id": 41381,
     "name": "Jay Inslee",
@@ -169,14 +271,20 @@
   },
   {
     "race": 15,
+    "id": 42055,
+    "name": "Kim Wyman",
+    "party": "R"
+  },
+  {
+    "race": 15,
     "id": 40993,
     "name": "Tina Podlodowski",
     "party": "D"
   },
   {
-    "race": 15,
-    "id": 42055,
-    "name": "Kim Wyman",
+    "race": 16,
+    "id": 42187,
+    "name": "Duane Davidson",
     "party": "R"
   },
   {
@@ -186,9 +294,9 @@
     "party": "R"
   },
   {
-    "race": 16,
-    "id": 42187,
-    "name": "Duane Davidson",
+    "race": 17,
+    "id": 41866,
+    "name": "Mark Miloscia",
     "party": "R"
   },
   {
@@ -196,12 +304,6 @@
     "id": 40901,
     "name": "Pat (Patrice) McCarthy",
     "party": "D"
-  },
-  {
-    "race": 17,
-    "id": 41866,
-    "name": "Mark Miloscia",
-    "party": "R"
   },
   {
     "race": 18,
@@ -213,13 +315,7 @@
     "race": 18,
     "id": 44927,
     "name": "Joshua B. Trumbull",
-    "party": "Libertarian Party"
-  },
-  {
-    "race": 19,
-    "id": 41691,
-    "name": "Hilary Franz",
-    "party": "D"
+    "party": "(Prefers Libertarian Party)"
   },
   {
     "race": 19,
@@ -228,14 +324,20 @@
     "party": "R"
   },
   {
-    "race": 20,
-    "id": 41080,
-    "name": "Chris Reykdal"
+    "race": 19,
+    "id": 41691,
+    "name": "Hilary Franz",
+    "party": "D"
   },
   {
     "race": 20,
     "id": 41297,
     "name": "Erin Jones"
+  },
+  {
+    "race": 20,
+    "id": 41080,
+    "name": "Chris Reykdal"
   },
   {
     "race": 21,
@@ -248,461 +350,6 @@
     "id": 45343,
     "name": "Richard Schrock",
     "party": "R"
-  },
-  {
-    "race": 22,
-    "id": 40843,
-    "name": "Mary Yu"
-  },
-  {
-    "race": 22,
-    "id": 44223,
-    "name": "David DeWolf"
-  },
-  {
-    "race": 26,
-    "id": 40796,
-    "name": "Barbara Madsen"
-  },
-  {
-    "race": 26,
-    "id": 43647,
-    "name": "Greg Zempel"
-  },
-  {
-    "race": 27,
-    "id": 41551,
-    "name": "Charles (Charlie) Wiggins"
-  },
-  {
-    "race": 27,
-    "id": 42426,
-    "name": "Dave Larson"
-  },
-  {
-    "race": 31,
-    "id": 43570,
-    "name": "Michael J. Trickey"
-  },
-  {
-    "race": 38,
-    "id": 40997,
-    "name": "Steve Dwyer"
-  },
-  {
-    "race": 41,
-    "id": 41630,
-    "name": "Brad Maxa"
-  },
-  {
-    "race": 47,
-    "id": 43168,
-    "name": "Jill M. Johanson"
-  },
-  {
-    "race": 50,
-    "id": 40704,
-    "name": "George Fearing"
-  },
-  {
-    "race": 50,
-    "id": 44508,
-    "name": "Patrick McBurney"
-  },
-  {
-    "race": 51,
-    "id": 41124,
-    "name": "Rebecca Pennell"
-  },
-  {
-    "race": 53,
-    "id": 41669,
-    "name": "Scott D. Gallina"
-  },
-  {
-    "race": 54,
-    "id": 40959,
-    "name": "Bruce A. Spanner"
-  },
-  {
-    "race": 55,
-    "id": 40872,
-    "name": "Joe Burrowes"
-  },
-  {
-    "race": 55,
-    "id": 42077,
-    "name": "Sam Swanberg"
-  },
-  {
-    "race": 56,
-    "id": 40701,
-    "name": "Alexander Carl Ekstrom"
-  },
-  {
-    "race": 56,
-    "id": 44812,
-    "name": "Alicia Marie Berry"
-  },
-  {
-    "race": 57,
-    "id": 40700,
-    "name": "Cameron Mitchell"
-  },
-  {
-    "race": 58,
-    "id": 40699,
-    "name": "Vic L. VanderSchoor"
-  },
-  {
-    "race": 59,
-    "id": 43823,
-    "name": "Patrick A. Monasmith"
-  },
-  {
-    "race": 59,
-    "id": 44066,
-    "name": "C. Olivia Irwin"
-  },
-  {
-    "race": 60,
-    "id": 41344,
-    "name": "Jessica (Taylor) Reeves"
-  },
-  {
-    "race": 60,
-    "id": 43907,
-    "name": "Terry L. Williams"
-  },
-  {
-    "race": 63,
-    "id": 41126,
-    "name": "Randall Krog"
-  },
-  {
-    "race": 64,
-    "id": 42379,
-    "name": "Douglas E. Goelz"
-  },
-  {
-    "race": 64,
-    "id": 42647,
-    "name": "Michael S. Turner"
-  },
-  {
-    "race": 65,
-    "id": 41142,
-    "name": "Steve Dixon"
-  },
-  {
-    "race": 66,
-    "id": 40982,
-    "name": "Lesley A. Allan"
-  },
-  {
-    "race": 67,
-    "id": 40818,
-    "name": "T.W. (Chip) Small"
-  },
-  {
-    "race": 68,
-    "id": 41328,
-    "name": "Erik Rohrer"
-  },
-  {
-    "race": 69,
-    "id": 40786,
-    "name": "Brian Paul Coughenour"
-  },
-  {
-    "race": 69,
-    "id": 43089,
-    "name": "Dave Neupert"
-  },
-  {
-    "race": 78,
-    "id": 42229,
-    "name": "Gary B. Bashor"
-  },
-  {
-    "race": 78,
-    "id": 44445,
-    "name": "Joshua J. Baldwin"
-  },
-  {
-    "race": 82,
-    "id": 41705,
-    "name": "John Hotchkiss"
-  },
-  {
-    "race": 83,
-    "id": 40738,
-    "name": "David Estudillo"
-  },
-  {
-    "race": 83,
-    "id": 41454,
-    "name": "Nick Wallace"
-  },
-  {
-    "race": 84,
-    "id": 40754,
-    "name": "John D. Knodell"
-  },
-  {
-    "race": 85,
-    "id": 40756,
-    "name": "John Antosz"
-  },
-  {
-    "race": 86,
-    "id": 41260,
-    "name": "Stephen E. Brown"
-  },
-  {
-    "race": 87,
-    "id": 40741,
-    "name": "David L. Edwards"
-  },
-  {
-    "race": 88,
-    "id": 40751,
-    "name": "Mark McCauley"
-  },
-  {
-    "race": 89,
-    "id": 41433,
-    "name": "Keith C. Harper"
-  },
-  {
-    "race": 94,
-    "id": 40734,
-    "name": "Jeffrey P. Bassett"
-  },
-  {
-    "race": 94,
-    "id": 41237,
-    "name": "Dale A. Magneson"
-  },
-  {
-    "race": 97,
-    "id": 44963,
-    "name": "Chris Herion"
-  },
-  {
-    "race": 97,
-    "id": 45548,
-    "name": "Candace Hooper"
-  },
-  {
-    "race": 98,
-    "id": 40722,
-    "name": "Andrew Toynbee"
-  },
-  {
-    "race": 99,
-    "id": 43547,
-    "name": "James W. Lawler"
-  },
-  {
-    "race": 100,
-    "id": 40729,
-    "name": "Joely O'Rourke"
-  },
-  {
-    "race": 100,
-    "id": 43669,
-    "name": "Katherine Gulmert"
-  },
-  {
-    "race": 101,
-    "id": 41024,
-    "name": "John F. Strohmaier"
-  },
-  {
-    "race": 102,
-    "id": 40775,
-    "name": "Amber Louise Finlay"
-  },
-  {
-    "race": 103,
-    "id": 40769,
-    "name": "Toni A Sheldon"
-  },
-  {
-    "race": 104,
-    "id": 41239,
-    "name": "Henry (Hank) Rawson"
-  },
-  {
-    "race": 107,
-    "id": 41079,
-    "name": "Laura Riquelme"
-  },
-  {
-    "race": 107,
-    "id": 41157,
-    "name": "David A. Svaren"
-  },
-  {
-    "race": 108,
-    "id": 40948,
-    "name": "John W. Lohrmann"
-  },
-  {
-    "race": 109,
-    "id": 40906,
-    "name": "M. Scott Wolfram"
-  },
-  {
-    "race": 113,
-    "id": 40784,
-    "name": "Gary J. Libey"
-  },
-  {
-    "race": 127,
-    "id": 43600,
-    "name": "Nicole Gaines Phelps"
-  },
-  {
-    "race": 127,
-    "id": 44864,
-    "name": "David Greenspan"
-  },
-  {
-    "race": 139,
-    "id": 43591,
-    "name": "David Keenan"
-  },
-  {
-    "race": 139,
-    "id": 44853,
-    "name": "John H. O'Rourke"
-  },
-  {
-    "race": 142,
-    "id": 41017,
-    "name": "Alicia H. Nakata"
-  },
-  {
-    "race": 145,
-    "id": 42902,
-    "name": "Marc S. Stern"
-  },
-  {
-    "race": 145,
-    "id": 43196,
-    "name": "Helen Halpert"
-  },
-  {
-    "race": 158,
-    "id": 43200,
-    "name": "Cathy Moore"
-  },
-  {
-    "race": 158,
-    "id": 43569,
-    "name": "Eric Newman"
-  },
-  {
-    "race": 167,
-    "id": 40791,
-    "name": "Katherine M. Stolz"
-  },
-  {
-    "race": 167,
-    "id": 41245,
-    "name": "Timothy L. Ashcraft"
-  },
-  {
-    "race": 170,
-    "id": 40925,
-    "name": "Shelly K. Speir"
-  },
-  {
-    "race": 170,
-    "id": 42207,
-    "name": "Dominique L. Jinhong"
-  },
-  {
-    "race": 173,
-    "id": 40829,
-    "name": "Dwayne L. Christopher"
-  },
-  {
-    "race": 173,
-    "id": 42172,
-    "name": "Grant Blinn"
-  },
-  {
-    "race": 182,
-    "id": 40759,
-    "name": "Karena Kirkendoll"
-  },
-  {
-    "race": 182,
-    "id": 41043,
-    "name": "Tom Quinlan"
-  },
-  {
-    "race": 189,
-    "id": 45622,
-    "name": "Cindy Larsen"
-  },
-  {
-    "race": 189,
-    "id": 45688,
-    "name": "Rico Tessandore"
-  },
-  {
-    "race": 210,
-    "id": 40902,
-    "name": "Linda Tompkins"
-  },
-  {
-    "race": 210,
-    "id": 45456,
-    "name": "Ward Andrews"
-  },
-  {
-    "race": 211,
-    "id": 41679,
-    "name": "Greg Sypolt"
-  },
-  {
-    "race": 211,
-    "id": 45366,
-    "name": "Tim Fennessy"
-  },
-  {
-    "race": 213,
-    "id": 40733,
-    "name": "Chris Lanese"
-  },
-  {
-    "race": 213,
-    "id": 44140,
-    "name": "Laura M. Murphy"
-  },
-  {
-    "race": 219,
-    "id": 40752,
-    "name": "John C. Skinder"
-  },
-  {
-    "race": 219,
-    "id": 45526,
-    "name": "Jim Foley"
-  },
-  {
-    "race": 222,
-    "id": 42905,
-    "name": "Douglas L. Federspiel"
-  },
-  {
-    "race": 222,
-    "id": 43665,
-    "name": "Alex Newhouse"
   },
   {
     "race": 228,
@@ -718,27 +365,27 @@
   },
   {
     "race": 229,
-    "id": 40904,
-    "name": "Neil Thannisch",
-    "party": "R"
-  },
-  {
-    "race": 229,
     "id": 41257,
     "name": "Derek Stanford",
     "party": "D"
   },
   {
-    "race": 230,
-    "id": 42339,
-    "name": "Shelley Kloba",
-    "party": "D"
+    "race": 229,
+    "id": 40904,
+    "name": "Neil Thannisch",
+    "party": "R"
   },
   {
     "race": 230,
     "id": 45157,
     "name": "Jim Langston",
     "party": "R"
+  },
+  {
+    "race": 230,
+    "id": 42339,
+    "name": "Shelley Kloba",
+    "party": "D"
   },
   {
     "race": 231,
@@ -754,15 +401,15 @@
   },
   {
     "race": 232,
-    "id": 40859,
-    "name": "Amy Pivetta Hoffman",
-    "party": "(Prefers Independent Dem. Party)"
-  },
-  {
-    "race": 232,
     "id": 42310,
     "name": "Andrew Barkis",
     "party": "R"
+  },
+  {
+    "race": 232,
+    "id": 40859,
+    "name": "Amy Pivetta Hoffman",
+    "party": "(Prefers Independent Dem. Party)"
   },
   {
     "race": 233,
@@ -886,15 +533,15 @@
   },
   {
     "race": 245,
-    "id": 41755,
-    "name": "Shar Lichty",
-    "party": "D"
-  },
-  {
-    "race": 245,
     "id": 43714,
     "name": "Jeff Holy",
     "party": "R"
+  },
+  {
+    "race": 245,
+    "id": 41755,
+    "name": "Shar Lichty",
+    "party": "D"
   },
   {
     "race": 247,
@@ -916,14 +563,14 @@
   },
   {
     "race": 251,
-    "id": 42037,
-    "name": "Rick Jansons",
+    "id": 42975,
+    "name": "Brad Klippert",
     "party": "R"
   },
   {
     "race": 251,
-    "id": 42975,
-    "name": "Brad Klippert",
+    "id": 42037,
+    "name": "Rick Jansons",
     "party": "R"
   },
   {
@@ -963,10 +610,10 @@
     "party": "R"
   },
   {
-    "race": 255,
-    "id": 45761,
-    "name": "Write-In: Aaron G. Eskue",
-    "party": "D"
+    "race": 256,
+    "id": 43486,
+    "name": "Barbara Bailey",
+    "party": "R"
   },
   {
     "race": 256,
@@ -975,9 +622,9 @@
     "party": "D"
   },
   {
-    "race": 256,
-    "id": 43486,
-    "name": "Barbara Bailey",
+    "race": 257,
+    "id": 44184,
+    "name": "Norma Smith",
     "party": "R"
   },
   {
@@ -985,12 +632,6 @@
     "id": 44172,
     "name": "Michael Scott",
     "party": "(Prefers Libertarian Party)"
-  },
-  {
-    "race": 257,
-    "id": 44184,
-    "name": "Norma Smith",
-    "party": "R"
   },
   {
     "race": 258,
@@ -1018,15 +659,15 @@
   },
   {
     "race": 260,
-    "id": 43141,
-    "name": "Erin Smith Aboudara",
-    "party": "R"
-  },
-  {
-    "race": 260,
     "id": 43695,
     "name": "Zack Hudgins",
     "party": "D"
+  },
+  {
+    "race": 260,
+    "id": 43141,
+    "name": "Erin Smith Aboudara",
+    "party": "R"
   },
   {
     "race": 261,
@@ -1114,15 +755,15 @@
   },
   {
     "race": 270,
-    "id": 41276,
-    "name": "John (Eric) Adams",
-    "party": "D"
-  },
-  {
-    "race": 270,
     "id": 41540,
     "name": "Gina McCabe",
     "party": "R"
+  },
+  {
+    "race": 270,
+    "id": 41276,
+    "name": "John (Eric) Adams",
+    "party": "D"
   },
   {
     "race": 272,
@@ -1150,15 +791,15 @@
   },
   {
     "race": 275,
-    "id": 41060,
-    "name": "William 'Bill' Jenkin",
-    "party": "R"
-  },
-  {
-    "race": 275,
     "id": 42178,
     "name": "Rebecca Francik",
     "party": "D"
+  },
+  {
+    "race": 275,
+    "id": 41060,
+    "name": "William 'Bill' Jenkin",
+    "party": "R"
   },
   {
     "race": 276,
@@ -1198,20 +839,14 @@
   },
   {
     "race": 279,
-    "id": 40984,
-    "name": "Martin Hash",
-    "party": "D"
-  },
-  {
-    "race": 279,
     "id": 41895,
     "name": "Paul Harris",
     "party": "R"
   },
   {
-    "race": 280,
-    "id": 40996,
-    "name": "Eric K. Holt",
+    "race": 279,
+    "id": 40984,
+    "name": "Martin Hash",
     "party": "D"
   },
   {
@@ -1219,6 +854,12 @@
     "id": 43571,
     "name": "Ann Rivers",
     "party": "R"
+  },
+  {
+    "race": 280,
+    "id": 40996,
+    "name": "Eric K. Holt",
+    "party": "D"
   },
   {
     "race": 281,
@@ -1234,15 +875,15 @@
   },
   {
     "race": 282,
-    "id": 40958,
-    "name": "Kathy Gillespie",
-    "party": "(Prefers Independent Dem. Party)"
-  },
-  {
-    "race": 282,
     "id": 41517,
     "name": "Liz Pike",
     "party": "R"
+  },
+  {
+    "race": 282,
+    "id": 40958,
+    "name": "Kathy Gillespie",
+    "party": "(Prefers Independent Dem. Party)"
   },
   {
     "race": 283,
@@ -1270,15 +911,15 @@
   },
   {
     "race": 285,
-    "id": 40989,
-    "name": "Jimi O'Hagan",
-    "party": "R"
-  },
-  {
-    "race": 285,
     "id": 41930,
     "name": "Brian E. Blake",
     "party": "D"
+  },
+  {
+    "race": 285,
+    "id": 40989,
+    "name": "Jimi O'Hagan",
+    "party": "R"
   },
   {
     "race": 286,
@@ -1312,15 +953,15 @@
   },
   {
     "race": 291,
-    "id": 42583,
-    "name": "Jeff Scherrer",
-    "party": "R"
-  },
-  {
-    "race": 291,
     "id": 42877,
     "name": "Lillian Ortiz-Self",
     "party": "D"
+  },
+  {
+    "race": 291,
+    "id": 42583,
+    "name": "Jeff Scherrer",
+    "party": "R"
   },
   {
     "race": 292,
@@ -1522,15 +1163,15 @@
   },
   {
     "race": 312,
-    "id": 40807,
-    "name": "Paul Wagemann",
-    "party": "R"
-  },
-  {
-    "race": 312,
     "id": 41038,
     "name": "Christine Kilduff",
     "party": "D"
+  },
+  {
+    "race": 312,
+    "id": 40807,
+    "name": "Paul Wagemann",
+    "party": "R"
   },
   {
     "race": 314,
@@ -1558,15 +1199,15 @@
   },
   {
     "race": 317,
-    "id": 41103,
-    "name": "Linda Kochmar",
-    "party": "R"
-  },
-  {
-    "race": 317,
     "id": 43222,
     "name": "Mike Pellicciotti",
     "party": "D"
+  },
+  {
+    "race": 317,
+    "id": 41103,
+    "name": "Linda Kochmar",
+    "party": "R"
   },
   {
     "race": 318,
@@ -1594,15 +1235,15 @@
   },
   {
     "race": 321,
-    "id": 41070,
-    "name": "Lane Walthers",
-    "party": "(Prefers Independent Dem. Party)"
-  },
-  {
-    "race": 321,
     "id": 41197,
     "name": "Phil Fortunato",
     "party": "R"
+  },
+  {
+    "race": 321,
+    "id": 41070,
+    "name": "Lane Walthers",
+    "party": "(Prefers Independent Dem. Party)"
   },
   {
     "race": 323,
@@ -1768,15 +1409,15 @@
   },
   {
     "race": 344,
-    "id": 43535,
-    "name": "Linda M. Wright",
-    "party": "(Prefers Democrat Party)"
-  },
-  {
-    "race": 344,
     "id": 43865,
     "name": "Dan Kristiansen",
     "party": "R"
+  },
+  {
+    "race": 344,
+    "id": 43535,
+    "name": "Linda M. Wright",
+    "party": "(Prefers Democrat Party)"
   },
   {
     "race": 345,
@@ -1816,15 +1457,15 @@
   },
   {
     "race": 349,
-    "id": 42127,
-    "name": "Steve Litzow",
-    "party": "R"
-  },
-  {
-    "race": 349,
     "id": 43167,
     "name": "Lisa Wellman",
     "party": "D"
+  },
+  {
+    "race": 349,
+    "id": 42127,
+    "name": "Steve Litzow",
+    "party": "R"
   },
   {
     "race": 350,
@@ -1876,14 +1517,14 @@
   },
   {
     "race": 356,
-    "id": 42110,
-    "name": "Dan Shih",
+    "id": 44101,
+    "name": "Nicole Macri",
     "party": "D"
   },
   {
     "race": 356,
-    "id": 44101,
-    "name": "Nicole Macri",
+    "id": 42110,
+    "name": "Dan Shih",
     "party": "D"
   },
   {
@@ -1918,15 +1559,15 @@
   },
   {
     "race": 362,
-    "id": 43182,
-    "name": "Ramiro Valderrama",
-    "party": "(Prefers GOP Party)"
-  },
-  {
-    "race": 362,
     "id": 43517,
     "name": "Roger Goodman",
     "party": "D"
+  },
+  {
+    "race": 362,
+    "id": 43182,
+    "name": "Ramiro Valderrama",
+    "party": "(Prefers GOP Party)"
   },
   {
     "race": 363,
@@ -1954,15 +1595,15 @@
   },
   {
     "race": 368,
-    "id": 44227,
-    "name": "Brooke Valentine",
-    "party": "D"
-  },
-  {
-    "race": 368,
     "id": 44253,
     "name": "Mark Hargrove",
     "party": "R"
+  },
+  {
+    "race": 368,
+    "id": 44227,
+    "name": "Brooke Valentine",
+    "party": "D"
   },
   {
     "race": 369,
@@ -1990,15 +1631,15 @@
   },
   {
     "race": 372,
-    "id": 43198,
-    "name": "Benjamin Judah Phelps",
-    "party": "(Prefers Libertarian Party)"
-  },
-  {
-    "race": 372,
     "id": 43559,
     "name": "Joan McBride",
     "party": "D"
+  },
+  {
+    "race": 372,
+    "id": 43198,
+    "name": "Benjamin Judah Phelps",
+    "party": "(Prefers Libertarian Party)"
   },
   {
     "race": 373,
@@ -2037,158 +1678,154 @@
     "party": "D"
   },
   {
+    "race": 22,
+    "id": 40843,
+    "name": "Mary Yu"
+  },
+  {
+    "race": 22,
+    "id": 44223,
+    "name": "David DeWolf"
+  },
+  {
+    "race": 26,
+    "id": 40796,
+    "name": "Barbara Madsen"
+  },
+  {
+    "race": 26,
+    "id": 43647,
+    "name": "Greg Zempel"
+  },
+  {
+    "race": 27,
+    "id": 41551,
+    "name": "Charles (Charlie) Wiggins"
+  },
+  {
+    "race": 27,
+    "id": 42426,
+    "name": "Dave Larson"
+  },
+  {
+    "race": 31,
+    "id": 43570,
+    "name": "Michael J. Trickey"
+  },
+  {
+    "race": 38,
+    "id": 40997,
+    "name": "Steve Dwyer"
+  },
+  {
+    "race": 41,
+    "id": 41630,
+    "name": "Brad Maxa"
+  },
+  {
+    "race": 47,
+    "id": 43168,
+    "name": "Jill M. Johanson"
+  },
+  {
+    "race": 50,
+    "id": 40704,
+    "name": "George Fearing"
+  },
+  {
+    "race": 50,
+    "id": 44508,
+    "name": "Patrick McBurney"
+  },
+  {
+    "race": 51,
+    "id": 41124,
+    "name": "Rebecca Pennell"
+  },
+  {
+    "race": 65,
+    "id": 41142,
+    "name": "Steve Dixon"
+  },
+  {
+    "race": 53,
+    "id": 41669,
+    "name": "Scott D. Gallina"
+  },
+  {
+    "race": 54,
+    "id": 40959,
+    "name": "Bruce A. Spanner"
+  },
+  {
+    "race": 55,
+    "id": 40872,
+    "name": "Joe Burrowes"
+  },
+  {
+    "race": 55,
+    "id": 42077,
+    "name": "Sam Swanberg"
+  },
+  {
+    "race": 56,
+    "id": 40701,
+    "name": "Alexander Carl Ekstrom"
+  },
+  {
+    "race": 56,
+    "id": 44812,
+    "name": "Alicia Marie Berry"
+  },
+  {
+    "race": 57,
+    "id": 40700,
+    "name": "Cameron Mitchell"
+  },
+  {
+    "race": 58,
+    "id": 40699,
+    "name": "Vic L. VanderSchoor"
+  },
+  {
     "race": 376,
     "id": 40698,
     "name": "Carrie Runge"
   },
   {
-    "race": 377,
-    "id": 41281,
-    "name": "Scott R. Sparks"
+    "race": 39812,
+    "id": 40697,
+    "name": "Jackie Shea Brown"
   },
   {
-    "race": 4221,
-    "id": 40966,
-    "name": "Mark R. Stedman",
-    "party": "R"
+    "race": 66,
+    "id": 40982,
+    "name": "Lesley A. Allan"
   },
   {
-    "race": 4229,
-    "id": 40942,
-    "name": "Scott Hutsell",
-    "party": "R"
+    "race": 67,
+    "id": 40818,
+    "name": "T.W. (Chip) Small"
   },
   {
-    "race": 4230,
-    "id": 41066,
-    "name": "Dan B. Johnson"
+    "race": 142,
+    "id": 41017,
+    "name": "Alicia H. Nakata"
   },
   {
-    "race": 4249,
-    "id": 45716,
-    "name": "Jerald Sheffels"
+    "race": 68,
+    "id": 41328,
+    "name": "Erik Rohrer"
   },
   {
-    "race": 5366,
-    "id": 42139,
-    "name": "Josh Kerns",
-    "party": "R"
+    "race": 69,
+    "id": 40786,
+    "name": "Brian Paul Coughenour"
   },
   {
-    "race": 5366,
-    "id": 42847,
-    "name": "Candace Mumm",
-    "party": "D"
-  },
-  {
-    "race": 5367,
-    "id": 41117,
-    "name": "Shelly O'Quinn",
-    "party": "R"
-  },
-  {
-    "race": 5367,
-    "id": 42554,
-    "name": "Andrew Biviano",
-    "party": "D"
-  },
-  {
-    "race": 5461,
-    "id": 43709,
-    "name": "Lorna R Johnson",
-    "party": "R"
-  },
-  {
-    "race": 5461,
-    "id": 45123,
-    "name": "Johnna Exner",
-    "party": "R"
-  },
-  {
-    "race": 5463,
-    "id": 41437,
-    "name": "Dave Hedrick",
-    "party": "(Prefers INDEPENDENT Party)"
-  },
-  {
-    "race": 5463,
-    "id": 41487,
-    "name": "Mike Blankenship",
-    "party": "R"
-  },
-  {
-    "race": 5464,
-    "id": 44289,
-    "name": "Kathryn I. Burke",
-    "party": "R"
-  },
-  {
-    "race": 5478,
-    "id": 41777,
-    "name": "Chris Kroupa"
-  },
-  {
-    "race": 5478,
-    "id": 44068,
-    "name": "Gordon Strandberg"
-  },
-  {
-    "race": 5689,
-    "id": 40991,
-    "name": "Bob Eugene",
-    "party": "D"
-  },
-  {
-    "race": 5689,
-    "id": 42928,
-    "name": "Karen Skoog",
-    "party": "R"
-  },
-  {
-    "race": 5691,
-    "id": 42645,
-    "name": "Steve Kiss",
-    "party": "R"
-  },
-  {
-    "race": 5691,
-    "id": 44332,
-    "name": "RJ Hampton",
-    "party": "R"
-  },
-  {
-    "race": 5730,
-    "id": 41856,
-    "name": "Rick Larson"
-  },
-  {
-    "race": 6071,
-    "id": 41009,
-    "name": "Pat Haley",
-    "party": "R"
-  },
-  {
-    "race": 6071,
-    "id": 41698,
-    "name": "Dan Sutton",
-    "party": "R"
-  },
-  {
-    "race": 6072,
-    "id": 41643,
-    "name": "Dale L. Snyder",
-    "party": "R"
-  },
-  {
-    "race": 6072,
-    "id": 41655,
-    "name": "Kyle Steinburg",
-    "party": "R"
-  },
-  {
-    "race": 6166,
-    "id": 41590,
-    "name": "Aaron Viebrock"
+    "race": 69,
+    "id": 43089,
+    "name": "Dave Neupert"
   },
   {
     "race": 6195,
@@ -2196,283 +1833,129 @@
     "name": "Christopher Melly"
   },
   {
-    "race": 6284,
-    "id": 41051,
-    "name": "Brian Shinn",
-    "party": "(States No Party Preference)"
+    "race": 78,
+    "id": 44445,
+    "name": "Joshua J. Baldwin"
   },
   {
-    "race": 6285,
-    "id": 40731,
-    "name": "Jim Fuller",
-    "party": "(States No Party Preference)"
+    "race": 78,
+    "id": 42229,
+    "name": "Gary B. Bashor"
   },
   {
-    "race": 6285,
-    "id": 45292,
-    "name": "Chris Seubert",
-    "party": "R"
+    "race": 82,
+    "id": 41705,
+    "name": "John Hotchkiss"
   },
   {
-    "race": 6290,
-    "id": 40957,
-    "name": "Tina L. Kernan"
+    "race": 59,
+    "id": 43823,
+    "name": "Patrick A. Monasmith"
   },
   {
-    "race": 6534,
-    "id": 42345,
-    "name": "Kevin Overbay",
-    "party": "R"
+    "race": 59,
+    "id": 44066,
+    "name": "C. Olivia Irwin"
   },
   {
-    "race": 6534,
-    "id": 43796,
-    "name": "Randy Harrison",
-    "party": "R"
+    "race": 60,
+    "id": 41344,
+    "name": "Jessica (Taylor) Reeves"
   },
   {
-    "race": 6536,
-    "id": 42854,
-    "name": "Doug England",
-    "party": "R"
+    "race": 60,
+    "id": 43907,
+    "name": "Terry L. Williams"
   },
   {
-    "race": 6661,
-    "id": 41044,
-    "name": "Ann Congdon"
+    "race": 83,
+    "id": 40738,
+    "name": "David Estudillo"
   },
   {
-    "race": 6661,
-    "id": 45609,
-    "name": "(Skip) Cameron Morehouse"
+    "race": 83,
+    "id": 41454,
+    "name": "Nick Wallace"
   },
   {
-    "race": 6662,
-    "id": 40932,
-    "name": "Steve McKenna"
+    "race": 84,
+    "id": 40754,
+    "name": "John D. Knodell"
   },
   {
-    "race": 6662,
-    "id": 42023,
-    "name": "Carnan Bergren"
+    "race": 85,
+    "id": 40756,
+    "name": "John Antosz"
   },
   {
-    "race": 6761,
-    "id": 43151,
-    "name": "Norm Passmore",
-    "party": "R"
+    "race": 86,
+    "id": 41260,
+    "name": "Stephen E. Brown"
   },
   {
-    "race": 6762,
-    "id": 43147,
-    "name": "Mike Talbott",
-    "party": "R"
+    "race": 87,
+    "id": 40741,
+    "name": "David L. Edwards"
   },
   {
-    "race": 6823,
-    "id": 43071,
-    "name": "Bob Johnson",
-    "party": "R"
+    "race": 88,
+    "id": 40751,
+    "name": "Mark McCauley"
   },
   {
-    "race": 6823,
-    "id": 43082,
-    "name": "P. Ernest Kimble",
-    "party": "(States No Party Preference)"
+    "race": 9219,
+    "id": 41376,
+    "name": "Alan R. Hancock"
   },
   {
-    "race": 6824,
-    "id": 43097,
-    "name": "Wynne McCabe",
-    "party": "(States No Party Preference)"
+    "race": 9220,
+    "id": 41368,
+    "name": "Vickie I. Churchill"
   },
   {
-    "race": 6824,
-    "id": 44490,
-    "name": "R. Clay Barr",
-    "party": "R"
+    "race": 89,
+    "id": 41433,
+    "name": "Keith C. Harper"
   },
   {
-    "race": 6956,
-    "id": 40746,
-    "name": "Richard Stevens",
-    "party": "R"
+    "race": 127,
+    "id": 43600,
+    "name": "Nicole Gaines Phelps"
   },
   {
-    "race": 6956,
-    "id": 41683,
-    "name": "Robert J Dove",
-    "party": "R"
+    "race": 127,
+    "id": 44864,
+    "name": "David Greenspan"
   },
   {
-    "race": 6957,
-    "id": 41202,
-    "name": "Tom Taylor",
-    "party": "R"
+    "race": 139,
+    "id": 43591,
+    "name": "David Keenan"
   },
   {
-    "race": 6957,
-    "id": 43759,
-    "name": "Nathan Pack",
-    "party": "R"
+    "race": 139,
+    "id": 44853,
+    "name": "John H. O'Rourke"
   },
   {
-    "race": 7025,
-    "id": 44240,
-    "name": "Dale Walker"
+    "race": 145,
+    "id": 42902,
+    "name": "Marc S. Stern"
   },
   {
-    "race": 7027,
-    "id": 40952,
-    "name": "Tom Flint"
+    "race": 145,
+    "id": 43196,
+    "name": "Helen Halpert"
   },
   {
-    "race": 7189,
-    "id": 40747,
-    "name": "Steve Rogers",
-    "party": "D"
+    "race": 158,
+    "id": 43200,
+    "name": "Cathy Moore"
   },
   {
-    "race": 7189,
-    "id": 45489,
-    "name": "Lisa Olsen",
-    "party": "R"
-  },
-  {
-    "race": 7190,
-    "id": 41733,
-    "name": "Frank Wolfe",
-    "party": "(Prefers Democrat Party)"
-  },
-  {
-    "race": 7190,
-    "id": 45016,
-    "name": "Fred H. Hill",
-    "party": "(Prefers Democrat Party)"
-  },
-  {
-    "race": 7233,
-    "id": 41109,
-    "name": "Michael (Mike) Lignoski"
-  },
-  {
-    "race": 7233,
-    "id": 41699,
-    "name": "Dick Anderson"
-  },
-  {
-    "race": 7284,
-    "id": 41377,
-    "name": "Kelley McIntosh",
-    "party": "(Prefers Independent Party)"
-  },
-  {
-    "race": 7284,
-    "id": 44054,
-    "name": "Randy Neatherlin",
-    "party": "(Prefers None Party)"
-  },
-  {
-    "race": 7285,
-    "id": 41654,
-    "name": "Kevin Shutty",
-    "party": "R"
-  },
-  {
-    "race": 7285,
-    "id": 44375,
-    "name": "Roslynne Reed",
-    "party": "D"
-  },
-  {
-    "race": 7407,
-    "id": 42480,
-    "name": "Karl Denison"
-  },
-  {
-    "race": 7407,
-    "id": 44825,
-    "name": "Mike Sheetz"
-  },
-  {
-    "race": 7410,
-    "id": 40970,
-    "name": "Linda R. Gott"
-  },
-  {
-    "race": 7442,
-    "id": 42742,
-    "name": "Dan L. Cothren",
-    "party": "(Prefers Independent Party)"
-  },
-  {
-    "race": 7442,
-    "id": 45055,
-    "name": "Robert L. Jungers",
-    "party": "(States No Party Preference)"
-  },
-  {
-    "race": 7444,
-    "id": 42838,
-    "name": "Mike Backman",
-    "party": "(Prefers Independent Party)"
-  },
-  {
-    "race": 7444,
-    "id": 44890,
-    "name": "Greg Prestegard",
-    "party": "(Prefers DEM Party)"
-  },
-  {
-    "race": 7507,
-    "id": 42709,
-    "name": "Dennis R. Reid"
-  },
-  {
-    "race": 7527,
-    "id": 41462,
-    "name": "Kate Dean",
-    "party": "D"
-  },
-  {
-    "race": 7527,
-    "id": 41509,
-    "name": "Tim N. Thomas",
-    "party": "D"
-  },
-  {
-    "race": 7528,
-    "id": 41743,
-    "name": "David W. Sullivan",
-    "party": "D"
-  },
-  {
-    "race": 7621,
-    "id": 41326,
-    "name": "Barney Burke"
-  },
-  {
-    "race": 7621,
-    "id": 41448,
-    "name": "Jeff Randall"
-  },
-  {
-    "race": 7641,
-    "id": 42044,
-    "name": "Art Swannack",
-    "party": "R"
-  },
-  {
-    "race": 7650,
-    "id": 41238,
-    "name": "Wes Cormier",
-    "party": "R"
-  },
-  {
-    "race": 7650,
-    "id": 45602,
-    "name": "Jamie Nichols",
-    "party": "(Prefers Democrat Party)"
+    "race": 158,
+    "id": 43569,
+    "name": "Eric Newman"
   },
   {
     "race": 7738,
@@ -2485,254 +1968,144 @@
     "name": "Kristin Richardson"
   },
   {
-    "race": 7739,
-    "id": 40785,
-    "name": "Matt Beaton",
-    "party": "R"
+    "race": 10104,
+    "id": 42897,
+    "name": "Mariane Spearman"
   },
   {
-    "race": 7739,
-    "id": 43054,
-    "name": "Brad Peck",
-    "party": "R"
+    "race": 10104,
+    "id": 45703,
+    "name": "Thomas Cline"
   },
   {
-    "race": 7740,
-    "id": 41230,
-    "name": "Rodney (Rocky) Mullen",
-    "party": "R"
+    "race": 94,
+    "id": 41237,
+    "name": "Dale A. Magneson"
   },
   {
-    "race": 7740,
-    "id": 41266,
-    "name": "Bob Koch",
-    "party": "R"
+    "race": 94,
+    "id": 40734,
+    "name": "Jeffrey P. Bassett"
   },
   {
-    "race": 7810,
-    "id": 40790,
-    "name": "Roger G. Wright"
+    "race": 97,
+    "id": 45548,
+    "name": "Candace Hooper"
   },
   {
-    "race": 7828,
-    "id": 40758,
-    "name": "Frank H Gordon",
-    "party": "(Prefers Democrat Party)"
+    "race": 97,
+    "id": 44963,
+    "name": "Chris Herion"
   },
   {
-    "race": 7828,
-    "id": 41267,
-    "name": "Randy Ross",
-    "party": "(States No Party Preference)"
+    "race": 377,
+    "id": 41281,
+    "name": "Scott R. Sparks"
   },
   {
-    "race": 7830,
-    "id": 42659,
-    "name": "David Mistachkin"
+    "race": 63,
+    "id": 41126,
+    "name": "Randall Krog"
   },
   {
-    "race": 7830,
-    "id": 42672,
-    "name": "Kyle Imler"
+    "race": 98,
+    "id": 40722,
+    "name": "Andrew Toynbee"
   },
   {
-    "race": 8029,
-    "id": 41591,
-    "name": "Will Purser"
+    "race": 99,
+    "id": 43547,
+    "name": "James W. Lawler"
   },
   {
-    "race": 8048,
-    "id": 41169,
-    "name": "Jim Cooper",
-    "party": "D"
+    "race": 100,
+    "id": 40729,
+    "name": "Joely O'Rourke"
   },
   {
-    "race": 8048,
-    "id": 44358,
-    "name": "John (Hutch) Hutchings",
-    "party": "(Prefers Independent Party)"
+    "race": 100,
+    "id": 43669,
+    "name": "Katherine Gulmert"
   },
   {
-    "race": 8174,
-    "id": 42092,
-    "name": "Jerome Delvin",
-    "party": "R"
+    "race": 101,
+    "id": 41024,
+    "name": "John F. Strohmaier"
   },
   {
-    "race": 8177,
-    "id": 42080,
-    "name": "James R. Beaver",
-    "party": "R"
+    "race": 102,
+    "id": 40775,
+    "name": "Amber Louise Finlay"
   },
   {
-    "race": 8181,
-    "id": 41793,
-    "name": "Steve Osborne"
+    "race": 103,
+    "id": 40769,
+    "name": "Toni A Sheldon"
   },
   {
-    "race": 8190,
-    "id": 41499,
-    "name": "Lori Sanders"
+    "race": 39665,
+    "id": 41622,
+    "name": "Daniel L. Goodell"
   },
   {
-    "race": 8372,
-    "id": 40739,
-    "name": "Grace D. Cross",
-    "party": "D"
+    "race": 104,
+    "id": 41239,
+    "name": "Henry (Hank) Rawson"
   },
   {
-    "race": 8373,
-    "id": 42749,
-    "name": "Richard Mahar",
-    "party": "R"
+    "race": 28820,
+    "id": 40779,
+    "name": "Chris Culp"
   },
   {
-    "race": 8373,
-    "id": 42942,
-    "name": "Marie Perez-Gluesenkamp",
-    "party": "D"
+    "race": 64,
+    "id": 42379,
+    "name": "Douglas E. Goelz"
   },
   {
-    "race": 8374,
-    "id": 40709,
-    "name": "Tom Lannen",
-    "party": "R"
+    "race": 64,
+    "id": 42647,
+    "name": "Michael S. Turner"
   },
   {
-    "race": 8374,
-    "id": 41334,
-    "name": "Michael Johnson",
-    "party": "D"
+    "race": 167,
+    "id": 41245,
+    "name": "Timothy L. Ashcraft"
   },
   {
-    "race": 8382,
-    "id": 40748,
-    "name": "Dave McKenzie"
+    "race": 167,
+    "id": 40791,
+    "name": "Katherine M. Stolz"
   },
   {
-    "race": 8382,
-    "id": 45298,
-    "name": "Ted Salka"
+    "race": 170,
+    "id": 42207,
+    "name": "Dominique L. Jinhong"
   },
   {
-    "race": 8508,
-    "id": 41072,
-    "name": "Arne Mortensen",
-    "party": "R"
+    "race": 170,
+    "id": 40925,
+    "name": "Shelly K. Speir"
   },
   {
-    "race": 8508,
-    "id": 41711,
-    "name": "Michael A. Karnofski",
-    "party": "D"
+    "race": 173,
+    "id": 42172,
+    "name": "Grant Blinn"
   },
   {
-    "race": 8511,
-    "id": 41451,
-    "name": "Dennis Weber",
-    "party": "R"
+    "race": 173,
+    "id": 40829,
+    "name": "Dwayne L. Christopher"
   },
   {
-    "race": 8511,
-    "id": 44891,
-    "name": "Shawn Nyman",
-    "party": "D"
+    "race": 182,
+    "id": 40759,
+    "name": "Karena Kirkendoll"
   },
   {
-    "race": 8565,
-    "id": 42599,
-    "name": "Wes McCart",
-    "party": "R"
-  },
-  {
-    "race": 8567,
-    "id": 41876,
-    "name": "Matt Wolohan",
-    "party": "(Prefers Democrat Party)"
-  },
-  {
-    "race": 8567,
-    "id": 42885,
-    "name": "Steve Parker",
-    "party": "R"
-  },
-  {
-    "race": 8570,
-    "id": 41848,
-    "name": "Leslie Valz",
-    "party": "R"
-  },
-  {
-    "race": 8618,
-    "id": 41864,
-    "name": "Wade A. Carpenter"
-  },
-  {
-    "race": 8633,
-    "id": 41720,
-    "name": "Gary Edwards",
-    "party": "(States No Party Preference)"
-  },
-  {
-    "race": 8633,
-    "id": 41874,
-    "name": "Kelsey Hulse",
-    "party": "D"
-  },
-  {
-    "race": 8798,
-    "id": 40768,
-    "name": "Ron Richards",
-    "party": "D"
-  },
-  {
-    "race": 8798,
-    "id": 45509,
-    "name": "Randy Johnson",
-    "party": "(States No Party Preference)"
-  },
-  {
-    "race": 8901,
-    "id": 42879,
-    "name": "Lonnie Knowles"
-  },
-  {
-    "race": 8901,
-    "id": 44635,
-    "name": "Dave Quinn"
-  },
-  {
-    "race": 8936,
-    "id": 41099,
-    "name": "Russ Olsen"
-  },
-  {
-    "race": 8989,
-    "id": 43367,
-    "name": "Hayley L. Thompson",
-    "party": "D"
-  },
-  {
-    "race": 8993,
-    "id": 41631,
-    "name": "Ron Wesen",
-    "party": "(Prefers GOP Party)"
-  },
-  {
-    "race": 8994,
-    "id": 43619,
-    "name": "Ken Dahlstedt",
-    "party": "(Prefers Democrat Party)"
-  },
-  {
-    "race": 9156,
-    "id": 41144,
-    "name": "Eron Berg"
-  },
-  {
-    "race": 9156,
-    "id": 45573,
-    "name": "Kevin Loy"
+    "race": 182,
+    "id": 41043,
+    "name": "Tom Quinlan"
   },
   {
     "race": 9204,
@@ -2740,24 +2113,95 @@
     "name": "Donald E. Eaton"
   },
   {
-    "race": 9213,
-    "id": 41458,
-    "name": "David F. Timmons"
+    "race": 107,
+    "id": 41079,
+    "name": "Laura Riquelme"
   },
   {
-    "race": 9213,
-    "id": 44851,
-    "name": "David Jennings"
+    "race": 107,
+    "id": 41157,
+    "name": "David A. Svaren"
   },
   {
-    "race": 9219,
-    "id": 41376,
-    "name": "Alan R. Hancock"
+    "race": 189,
+    "id": 45622,
+    "name": "Cindy Larsen"
   },
   {
-    "race": 9220,
-    "id": 41368,
-    "name": "Vickie I. Churchill"
+    "race": 189,
+    "id": 45688,
+    "name": "Rico Tessandore"
+  },
+  {
+    "race": 210,
+    "id": 40902,
+    "name": "Linda Tompkins"
+  },
+  {
+    "race": 210,
+    "id": 45456,
+    "name": "Ward Andrews"
+  },
+  {
+    "race": 211,
+    "id": 41679,
+    "name": "Greg Sypolt"
+  },
+  {
+    "race": 211,
+    "id": 45366,
+    "name": "Tim Fennessy"
+  },
+  {
+    "race": 213,
+    "id": 40733,
+    "name": "Chris Lanese"
+  },
+  {
+    "race": 213,
+    "id": 44140,
+    "name": "Laura M. Murphy"
+  },
+  {
+    "race": 219,
+    "id": 40752,
+    "name": "John C. Skinder"
+  },
+  {
+    "race": 219,
+    "id": 45526,
+    "name": "Jim Foley"
+  },
+  {
+    "race": 108,
+    "id": 40948,
+    "name": "John W. Lohrmann"
+  },
+  {
+    "race": 109,
+    "id": 40906,
+    "name": "M. Scott Wolfram"
+  },
+  {
+    "race": 113,
+    "id": 40784,
+    "name": "Gary J. Libey"
+  },
+  {
+    "race": 222,
+    "id": 42905,
+    "name": "Douglas L. Federspiel"
+  },
+  {
+    "race": 222,
+    "id": 43665,
+    "name": "Alex Newhouse"
+  },
+  {
+    "race": 255,
+    "id": 45761,
+    "name": "Write-In: Aaron G. Eskue",
+    "party": "D"
   },
   {
     "race": 9221,
@@ -2790,683 +2234,67 @@
     "party": "R"
   },
   {
-    "race": 9263,
-    "id": 40726,
-    "name": "Edna J. Fund",
-    "party": "R"
+    "race": 113985,
+    "id": 113986,
+    "name": "Levy, Yes"
   },
   {
-    "race": 9263,
-    "id": 43984,
-    "name": "Dan Keahey",
-    "party": "R"
+    "race": 113985,
+    "id": 113987,
+    "name": "Levy, No"
   },
   {
-    "race": 9264,
-    "id": 40909,
-    "name": "Bobby Jackson",
-    "party": "R"
-  },
-  {
-    "race": 9264,
-    "id": 41389,
-    "name": "Bob Bozarth",
-    "party": "(States No Party Preference)"
-  },
-  {
-    "race": 9277,
-    "id": 45364,
-    "name": "Tim Cournyer"
-  },
-  {
-    "race": 9788,
-    "id": 42712,
-    "name": "Rex F. Johnston",
-    "party": "R"
-  },
-  {
-    "race": 9788,
-    "id": 45751,
-    "name": "Patricia (Pat) Arnold",
-    "party": "(States No Party Preference)"
-  },
-  {
-    "race": 9901,
-    "id": 41385,
-    "name": "Jill Johnson",
-    "party": "R"
-  },
-  {
-    "race": 9901,
-    "id": 44354,
-    "name": "John Fowkes",
-    "party": "D"
-  },
-  {
-    "race": 9902,
-    "id": 41813,
-    "name": "Helen Price Johnson",
-    "party": "D"
-  },
-  {
-    "race": 9902,
-    "id": 45267,
-    "name": "Gary Wray",
-    "party": "R"
-  },
-  {
-    "race": 10104,
-    "id": 42897,
-    "name": "Mariane Spearman"
-  },
-  {
-    "race": 10104,
-    "id": 45703,
-    "name": "Thomas Cline"
-  },
-  {
-    "race": 10135,
-    "id": 42018,
-    "name": "Dean Kinzer",
-    "party": "R"
-  },
-  {
-    "race": 10137,
-    "id": 42747,
-    "name": "Jim Sizemore",
-    "party": "R"
-  },
-  {
-    "race": 10138,
-    "id": 41909,
-    "name": "Ray A. Mosbrucker"
-  },
-  {
-    "race": 10138,
-    "id": 42001,
-    "name": "Doug Miller"
-  },
-  {
-    "race": 10454,
-    "id": 41598,
-    "name": "Sheilah Kennedy",
-    "party": "R"
-  },
-  {
-    "race": 10454,
-    "id": 42289,
-    "name": "Chris Branch",
-    "party": "(Prefers Independent Party)"
-  },
-  {
-    "race": 10455,
-    "id": 41964,
-    "name": "Andy Hover",
-    "party": "R"
-  },
-  {
-    "race": 10455,
-    "id": 43949,
-    "name": "Ashley W. Thrasher",
-    "party": "(States No Party Preference)"
-  },
-  {
-    "race": 10463,
-    "id": 40899,
-    "name": "Robert W. Grim"
-  },
-  {
-    "race": 10703,
-    "id": 41145,
-    "name": "Jerry D. Asmussen"
-  },
-  {
-    "race": 10703,
-    "id": 43822,
-    "name": "Aaron Kester"
-  },
-  {
-    "race": 11032,
-    "id": 42702,
-    "name": "Gordon Sibley"
-  },
-  {
-    "race": 11032,
-    "id": 43251,
-    "name": "Tanya (Toni) Olson"
-  },
-  {
-    "race": 11037,
-    "id": 41479,
-    "name": "Sam Low",
-    "party": "R"
-  },
-  {
-    "race": 11037,
-    "id": 42660,
-    "name": "Hans Dunshee",
-    "party": "D"
-  },
-  {
-    "race": 11309,
-    "id": 41268,
-    "name": "Paul Jewell",
-    "party": "R"
-  },
-  {
-    "race": 11309,
-    "id": 42982,
-    "name": "Rob Fraser",
-    "party": "D"
-  },
-  {
-    "race": 11310,
-    "id": 42232,
-    "name": "Laura Osiadacz",
-    "party": "R"
-  },
-  {
-    "race": 11310,
-    "id": 45119,
-    "name": "Carl B. Nelson",
-    "party": "(States No Party Preference)"
-  },
-  {
-    "race": 11319,
-    "id": 41048,
-    "name": "Joe O'Leary"
-  },
-  {
-    "race": 11319,
-    "id": 41612,
-    "name": "Mike Lowe"
-  },
-  {
-    "race": 11458,
-    "id": 43707,
-    "name": "Jim Johnson",
-    "party": "R"
-  },
-  {
-    "race": 11458,
-    "id": 43840,
-    "name": "Jared Frerichs",
-    "party": "D"
-  },
-  {
-    "race": 11459,
-    "id": 41836,
-    "name": "Todd Kimball",
-    "party": "R"
-  },
-  {
-    "race": 11459,
-    "id": 42852,
-    "name": "Randal Son",
-    "party": "D"
-  },
-  {
-    "race": 11523,
-    "id": 40941,
-    "name": "Rick Talbert",
-    "party": "D"
-  },
-  {
-    "race": 11523,
-    "id": 41177,
-    "name": "Bruce Dammeier",
-    "party": "R"
-  },
-  {
-    "race": 11525,
-    "id": 40870,
-    "name": "Mike Lonergan"
-  },
-  {
-    "race": 11528,
-    "id": 40873,
-    "name": "Paul A. Pastor"
-  },
-  {
-    "race": 11568,
-    "id": 41221,
-    "name": "Carolyn Edmonds",
-    "party": "D"
-  },
-  {
-    "race": 11568,
-    "id": 42050,
-    "name": "Pam Roach",
-    "party": "R"
-  },
-  {
-    "race": 11569,
-    "id": 41492,
-    "name": "Dennis Townsend",
-    "party": "D"
-  },
-  {
-    "race": 11569,
-    "id": 41978,
-    "name": "Jim McCune",
-    "party": "R"
-  },
-  {
-    "race": 11572,
-    "id": 44940,
-    "name": "Connie Ladenburg",
-    "party": "D"
-  },
-  {
-    "race": 11572,
-    "id": 45722,
-    "name": "Kit Burns",
-    "party": "(Prefers Independent Party)"
-  },
-  {
-    "race": 11573,
-    "id": 41298,
-    "name": "Linda Farmer",
-    "party": "D"
-  },
-  {
-    "race": 11573,
-    "id": 42066,
-    "name": "Doug Richardson",
-    "party": "R"
-  },
-  {
-    "race": 12198,
-    "id": 41946,
-    "name": "Mike Murphy"
-  },
-  {
-    "race": 12803,
-    "id": 41877,
-    "name": "Mike Lyons"
-  },
-  {
-    "race": 12803,
-    "id": 41984,
-    "name": "Nancy Barnes"
-  },
-  {
-    "race": 28820,
-    "id": 40779,
-    "name": "Chris Culp"
-  },
-  {
-    "race": 28824,
-    "id": 41106,
-    "name": "Jim Postma",
-    "party": "R"
-  },
-  {
-    "race": 28824,
-    "id": 44902,
-    "name": "Denny Heck",
-    "party": "D"
-  },
-  {
-    "race": 38766,
-    "id": 45747,
-    "name": "Mike Leita",
-    "party": "R"
-  },
-  {
-    "race": 38766,
-    "id": 45748,
-    "name": "Eric Geary",
-    "party": "R"
-  },
-  {
-    "race": 38767,
-    "id": 45749,
-    "name": "Ron Anderson",
-    "party": "R"
-  },
-  {
-    "race": 38767,
-    "id": 45750,
-    "name": "Debra Manjarrez",
-    "party": "R"
-  },
-  {
-    "race": 38782,
-    "id": 41423,
-    "name": "Bill Watson"
-  },
-  {
-    "race": 38782,
-    "id": 42860,
-    "name": "Bob Jarman"
-  },
-  {
-    "race": 38783,
-    "id": 40813,
-    "name": "Rick Hughes"
-  },
-  {
-    "race": 38783,
-    "id": 45259,
-    "name": "Michael Durland"
-  },
-  {
-    "race": 38808,
-    "id": 40935,
-    "name": "Robert (Rob) Gelder",
-    "party": "D"
-  },
-  {
-    "race": 38817,
-    "id": 40823,
-    "name": "Christopher J. Tibbs",
-    "party": "R"
-  },
-  {
-    "race": 38817,
-    "id": 41027,
-    "name": "Charlotte Garrido",
-    "party": "D"
-  },
-  {
-    "race": 38975,
-    "id": 40705,
-    "name": "John Armstrong"
-  },
-  {
-    "race": 38975,
-    "id": 45101,
-    "name": "Debra Lester"
-  },
-  {
-    "race": 39665,
-    "id": 41622,
-    "name": "Daniel L. Goodell"
-  },
-  {
-    "race": 39805,
-    "id": 40916,
-    "name": "Tanisha L. Harris",
-    "party": "D"
-  },
-  {
-    "race": 39805,
-    "id": 41366,
-    "name": "John Blom",
-    "party": "R"
-  },
-  {
-    "race": 39806,
-    "id": 40840,
-    "name": "Roman Battan",
-    "party": "D"
-  },
-  {
-    "race": 39806,
-    "id": 41919,
-    "name": "Eileen Quiring",
-    "party": "R"
-  },
-  {
-    "race": 39812,
-    "id": 40697,
-    "name": "Jackie Shea Brown"
-  },
-  {
-    "race": 39813,
-    "id": 41337,
-    "name": "Thomas L. Verge"
-  },
-  {
-    "race": 39917,
-    "id": 45739,
-    "name": "Kris Klusman"
-  },
-  {
-    "race": 39917,
-    "id": 45745,
-    "name": "Arvilla Ohlde"
-  },
-  {
-    "race": 39918,
-    "id": 45740,
-    "name": "Steve Van Denover"
-  },
-  {
-    "race": 39918,
-    "id": 45743,
-    "name": "Jesse Sims"
-  },
-  {
-    "race": 39919,
-    "id": 45737,
-    "name": "Andrew Kinney"
-  },
-  {
-    "race": 39919,
-    "id": 45741,
-    "name": "Phil Wolff"
-  },
-  {
-    "race": 39919,
-    "id": 45744,
-    "name": "Ken VanBuskirk"
-  },
-  {
-    "race": 39920,
-    "id": 45736,
-    "name": "Doug Sayan"
-  },
-  {
-    "race": 39920,
-    "id": 45738,
-    "name": "Richard Hoss"
-  },
-  {
-    "race": 39920,
-    "id": 45746,
-    "name": "Monte Warren Ritter"
-  },
-  {
-    "race": 39921,
-    "id": 45735,
-    "name": "John Piety"
-  },
-  {
-    "race": 39921,
-    "id": 45742,
-    "name": "John Johnson"
-  },
-  {
-    "race": 39922,
-    "id": 45729,
-    "name": "Vern Yadon"
-  },
-  {
-    "race": 39923,
-    "id": 45730,
-    "name": "Rebecca Boonstra"
-  },
-  {
-    "race": 39924,
-    "id": 45733,
-    "name": "Richard Whitson"
-  },
-  {
-    "race": 39925,
-    "id": 45731,
-    "name": "Kelly Vogel"
-  },
-  {
-    "race": 39926,
-    "id": 45732,
-    "name": "Jessica Bee"
-  },
-  {
-    "race": 39928,
-    "id": 45752,
-    "name": "MARC ROBINS"
-  },
-  {
-    "race": 39929,
-    "id": 45753,
-    "name": "BLAYNEY MYERS"
-  },
-  {
-    "race": 39930,
-    "id": 45754,
-    "name": "ED LA MOTTE"
-  },
-  {
-    "race": 39931,
-    "id": 45755,
-    "name": "ALICIA BEYER"
-  },
-  {
-    "race": 39932,
-    "id": 45756,
-    "name": "BOB WITTENBERG"
-  },
-  {
-    "race": 39933,
-    "id": 45757,
-    "name": "Laurel Gibson"
-  },
-  {
-    "race": 39933,
-    "id": 45758,
-    "name": "Brian J. Todd"
-  },
-  {
-    "race": 39934,
-    "id": 45759,
-    "name": "Lisa Paglisotti"
-  },
-  {
-    "race": 39935,
-    "id": 45760,
-    "name": "Gregg Hirakawa"
-  },
-  {
-    "race": 113237,
-    "id": 113238,
-    "name": "Yes"
-  },
-  {
-    "race": 113237,
-    "id": 113239,
-    "name": "No"
-  },
-  {
-    "race": 113245,
-    "id": 113246,
-    "name": "Yes"
-  },
-  {
-    "race": 113245,
-    "id": 113247,
-    "name": "No"
-  },
-  {
-    "race": 113425,
-    "id": 113426,
-    "name": "YES"
-  },
-  {
-    "race": 113425,
-    "id": 113427,
-    "name": "NO"
-  },
-  {
-    "race": 113429,
-    "id": 113430,
-    "name": "Yes"
-  },
-  {
-    "race": 113429,
-    "id": 113431,
-    "name": "No"
-  },
-  {
-    "race": 113433,
-    "id": 113434,
-    "name": "Yes"
-  },
-  {
-    "race": 113433,
-    "id": 113435,
-    "name": "No"
-  },
-  {
-    "race": 113437,
-    "id": 113438,
+    "race": 113981,
+    "id": 113982,
     "name": "Approved"
   },
   {
-    "race": 113437,
-    "id": 113439,
+    "race": 113981,
+    "id": 113983,
     "name": "Rejected"
   },
   {
-    "race": 113445,
-    "id": 113446,
-    "name": "Yes"
-  },
-  {
-    "race": 113445,
-    "id": 113447,
-    "name": "No"
-  },
-  {
-    "race": 113449,
-    "id": 113450,
+    "race": 113973,
+    "id": 113974,
     "name": "Approved"
   },
   {
-    "race": 113449,
-    "id": 113451,
+    "race": 113973,
+    "id": 113975,
     "name": "Rejected"
   },
   {
-    "race": 113453,
-    "id": 113454,
-    "name": "APPROVED"
+    "race": 113977,
+    "id": 113978,
+    "name": "Approved"
   },
   {
-    "race": 113453,
-    "id": 113455,
-    "name": "REJECTED"
+    "race": 113977,
+    "id": 113979,
+    "name": "Rejected"
   },
   {
-    "race": 113457,
-    "id": 113458,
-    "name": "Repealed"
+    "race": 6284,
+    "id": 41051,
+    "name": "Brian Shinn",
+    "party": "(States No Party Preference)"
   },
   {
-    "race": 113457,
-    "id": 113459,
-    "name": "Maintained"
+    "race": 6285,
+    "id": 45292,
+    "name": "Chris Seubert",
+    "party": "R"
   },
   {
-    "race": 113461,
-    "id": 113462,
-    "name": "Repealed"
+    "race": 6285,
+    "id": 40731,
+    "name": "Jim Fuller",
+    "party": "(States No Party Preference)"
   },
   {
-    "race": 113461,
-    "id": 113463,
-    "name": "Maintained"
-  },
-  {
-    "race": 113465,
-    "id": 113466,
-    "name": "Yes"
-  },
-  {
-    "race": 113465,
-    "id": 113467,
-    "name": "No"
+    "race": 6290,
+    "id": 40957,
+    "name": "Tina L. Kernan"
   },
   {
     "race": 113473,
@@ -3489,124 +2317,291 @@
     "name": "No, Levy"
   },
   {
-    "race": 113481,
-    "id": 113482,
-    "name": "Yes"
+    "race": 8174,
+    "id": 42092,
+    "name": "Jerome Delvin",
+    "party": "R"
   },
   {
-    "race": 113481,
-    "id": 113483,
-    "name": "No"
+    "race": 8177,
+    "id": 42080,
+    "name": "James R. Beaver",
+    "party": "R"
   },
   {
-    "race": 113485,
-    "id": 113486,
-    "name": "Yes"
+    "race": 8181,
+    "id": 41793,
+    "name": "Steve Osborne"
   },
   {
-    "race": 113485,
-    "id": 113487,
-    "name": "No"
+    "race": 8190,
+    "id": 41499,
+    "name": "Lori Sanders"
   },
   {
-    "race": 113489,
-    "id": 113490,
-    "name": "Yes"
+    "race": 113857,
+    "id": 113858,
+    "name": "Allow"
   },
   {
-    "race": 113489,
-    "id": 113491,
-    "name": "No"
+    "race": 113857,
+    "id": 113859,
+    "name": "Prohibit"
   },
   {
-    "race": 113493,
-    "id": 113494,
+    "race": 113865,
+    "id": 113866,
     "name": "Approved"
   },
   {
-    "race": 113493,
-    "id": 113495,
+    "race": 113865,
+    "id": 113867,
     "name": "Rejected"
   },
   {
-    "race": 113497,
-    "id": 113498,
-    "name": "Yes"
+    "race": 6534,
+    "id": 42345,
+    "name": "Kevin Overbay",
+    "party": "R"
   },
   {
-    "race": 113497,
-    "id": 113499,
-    "name": "No"
+    "race": 6534,
+    "id": 43796,
+    "name": "Randy Harrison",
+    "party": "R"
   },
   {
-    "race": 113501,
-    "id": 113502,
-    "name": "Yes"
+    "race": 6536,
+    "id": 42854,
+    "name": "Doug England",
+    "party": "R"
   },
   {
-    "race": 113501,
-    "id": 113503,
-    "name": "No"
+    "race": 6661,
+    "id": 45609,
+    "name": "(Skip) Cameron Morehouse"
   },
   {
-    "race": 113505,
-    "id": 113506,
+    "race": 6661,
+    "id": 41044,
+    "name": "Ann Congdon"
+  },
+  {
+    "race": 6662,
+    "id": 42023,
+    "name": "Carnan Bergren"
+  },
+  {
+    "race": 6662,
+    "id": 40932,
+    "name": "Steve McKenna"
+  },
+  {
+    "race": 113737,
+    "id": 113738,
     "name": "Approved"
   },
   {
-    "race": 113505,
-    "id": 113507,
+    "race": 113737,
+    "id": 113739,
     "name": "Rejected"
   },
   {
-    "race": 113509,
-    "id": 113510,
+    "race": 113741,
+    "id": 113742,
     "name": "Approved"
   },
   {
-    "race": 113509,
-    "id": 113511,
+    "race": 113741,
+    "id": 113743,
     "name": "Rejected"
   },
   {
-    "race": 113513,
-    "id": 113514,
+    "race": 8798,
+    "id": 40768,
+    "name": "Ron Richards",
+    "party": "D"
+  },
+  {
+    "race": 8798,
+    "id": 45509,
+    "name": "Randy Johnson",
+    "party": "(States No Party Preference)"
+  },
+  {
+    "race": 8029,
+    "id": 41591,
+    "name": "Will Purser"
+  },
+  {
+    "race": 113745,
+    "id": 113746,
+    "name": "Yes"
+  },
+  {
+    "race": 113745,
+    "id": 113747,
+    "name": "No"
+  },
+  {
+    "race": 113749,
+    "id": 113750,
+    "name": "Yes"
+  },
+  {
+    "race": 113749,
+    "id": 113751,
+    "name": "No"
+  },
+  {
+    "race": 39805,
+    "id": 40916,
+    "name": "Tanisha L. Harris",
+    "party": "D"
+  },
+  {
+    "race": 39805,
+    "id": 41366,
+    "name": "John Blom",
+    "party": "R"
+  },
+  {
+    "race": 39806,
+    "id": 41919,
+    "name": "Eileen Quiring",
+    "party": "R"
+  },
+  {
+    "race": 39806,
+    "id": 40840,
+    "name": "Roman Battan",
+    "party": "D"
+  },
+  {
+    "race": 113549,
+    "id": 113550,
+    "name": "Yes"
+  },
+  {
+    "race": 113549,
+    "id": 113551,
+    "name": "No"
+  },
+  {
+    "race": 113969,
+    "id": 113970,
+    "name": "Yes"
+  },
+  {
+    "race": 113969,
+    "id": 113971,
+    "name": "No"
+  },
+  {
+    "race": 113965,
+    "id": 113966,
     "name": "Approved"
   },
   {
-    "race": 113513,
-    "id": 113515,
+    "race": 113965,
+    "id": 113967,
     "name": "Rejected"
   },
   {
-    "race": 113517,
-    "id": 113518,
+    "race": 12803,
+    "id": 41984,
+    "name": "Nancy Barnes"
+  },
+  {
+    "race": 12803,
+    "id": 41877,
+    "name": "Mike Lyons"
+  },
+  {
+    "race": 6761,
+    "id": 43151,
+    "name": "Norm Passmore",
+    "party": "R"
+  },
+  {
+    "race": 6762,
+    "id": 43147,
+    "name": "Mike Talbott",
+    "party": "R"
+  },
+  {
+    "race": 113933,
+    "id": 113934,
+    "name": "Approved"
+  },
+  {
+    "race": 113933,
+    "id": 113935,
+    "name": "Rejected"
+  },
+  {
+    "race": 113937,
+    "id": 113938,
+    "name": "Levy Yes"
+  },
+  {
+    "race": 113937,
+    "id": 113939,
+    "name": "Levy No"
+  },
+  {
+    "race": 113557,
+    "id": 113558,
     "name": "Yes"
   },
   {
-    "race": 113517,
-    "id": 113519,
+    "race": 113557,
+    "id": 113559,
     "name": "No"
   },
   {
-    "race": 113521,
-    "id": 113522,
-    "name": "Yes"
+    "race": 8508,
+    "id": 41072,
+    "name": "Arne Mortensen",
+    "party": "R"
   },
   {
-    "race": 113521,
-    "id": 113523,
-    "name": "No"
+    "race": 8508,
+    "id": 41711,
+    "name": "Michael A. Karnofski",
+    "party": "D"
   },
   {
-    "race": 113525,
-    "id": 113526,
-    "name": "Yes"
+    "race": 8511,
+    "id": 44891,
+    "name": "Shawn Nyman",
+    "party": "D"
   },
   {
-    "race": 113525,
-    "id": 113527,
-    "name": "No"
+    "race": 8511,
+    "id": 41451,
+    "name": "Dennis Weber",
+    "party": "R"
+  },
+  {
+    "race": 8901,
+    "id": 44635,
+    "name": "Dave Quinn"
+  },
+  {
+    "race": 8901,
+    "id": 42879,
+    "name": "Lonnie Knowles"
+  },
+  {
+    "race": 113545,
+    "id": 113546,
+    "name": "Approved"
+  },
+  {
+    "race": 113545,
+    "id": 113547,
+    "name": "Rejected"
   },
   {
     "race": 113529,
@@ -3649,26 +2644,6 @@
     "name": "Rejected"
   },
   {
-    "race": 113545,
-    "id": 113546,
-    "name": "Approved"
-  },
-  {
-    "race": 113545,
-    "id": 113547,
-    "name": "Rejected"
-  },
-  {
-    "race": 113549,
-    "id": 113550,
-    "name": "Yes"
-  },
-  {
-    "race": 113549,
-    "id": 113551,
-    "name": "No"
-  },
-  {
     "race": 113553,
     "id": 113554,
     "name": "Approved"
@@ -3677,16 +2652,6 @@
     "race": 113553,
     "id": 113555,
     "name": "Rejected"
-  },
-  {
-    "race": 113557,
-    "id": 113558,
-    "name": "Yes"
-  },
-  {
-    "race": 113557,
-    "id": 113559,
-    "name": "No"
   },
   {
     "race": 113561,
@@ -3699,664 +2664,48 @@
     "name": "No"
   },
   {
-    "race": 113565,
-    "id": 113566,
+    "race": 6071,
+    "id": 41009,
+    "name": "Pat Haley",
+    "party": "R"
+  },
+  {
+    "race": 6071,
+    "id": 41698,
+    "name": "Dan Sutton",
+    "party": "R"
+  },
+  {
+    "race": 6072,
+    "id": 41655,
+    "name": "Kyle Steinburg",
+    "party": "R"
+  },
+  {
+    "race": 6072,
+    "id": 41643,
+    "name": "Dale L. Snyder",
+    "party": "R"
+  },
+  {
+    "race": 113453,
+    "id": 113454,
+    "name": "APPROVED"
+  },
+  {
+    "race": 113453,
+    "id": 113455,
+    "name": "REJECTED"
+  },
+  {
+    "race": 113841,
+    "id": 113842,
     "name": "YES"
   },
   {
-    "race": 113565,
-    "id": 113567,
+    "race": 113841,
+    "id": 113843,
     "name": "NO"
-  },
-  {
-    "race": 113569,
-    "id": 113570,
-    "name": "YES"
-  },
-  {
-    "race": 113569,
-    "id": 113571,
-    "name": "NO"
-  },
-  {
-    "race": 113573,
-    "id": 113574,
-    "name": "YES"
-  },
-  {
-    "race": 113573,
-    "id": 113575,
-    "name": "NO"
-  },
-  {
-    "race": 113577,
-    "id": 113578,
-    "name": "YES"
-  },
-  {
-    "race": 113577,
-    "id": 113579,
-    "name": "NO"
-  },
-  {
-    "race": 113581,
-    "id": 113582,
-    "name": "YES"
-  },
-  {
-    "race": 113581,
-    "id": 113583,
-    "name": "NO"
-  },
-  {
-    "race": 113585,
-    "id": 113586,
-    "name": "YES"
-  },
-  {
-    "race": 113585,
-    "id": 113587,
-    "name": "NO"
-  },
-  {
-    "race": 113589,
-    "id": 113590,
-    "name": "YES"
-  },
-  {
-    "race": 113589,
-    "id": 113591,
-    "name": "NO"
-  },
-  {
-    "race": 113593,
-    "id": 113594,
-    "name": "YES"
-  },
-  {
-    "race": 113593,
-    "id": 113595,
-    "name": "NO"
-  },
-  {
-    "race": 113597,
-    "id": 113598,
-    "name": "YES"
-  },
-  {
-    "race": 113597,
-    "id": 113599,
-    "name": "NO"
-  },
-  {
-    "race": 113601,
-    "id": 113602,
-    "name": "YES"
-  },
-  {
-    "race": 113601,
-    "id": 113603,
-    "name": "NO"
-  },
-  {
-    "race": 113605,
-    "id": 113606,
-    "name": "YES"
-  },
-  {
-    "race": 113605,
-    "id": 113607,
-    "name": "NO"
-  },
-  {
-    "race": 113609,
-    "id": 113610,
-    "name": "YES"
-  },
-  {
-    "race": 113609,
-    "id": 113611,
-    "name": "NO"
-  },
-  {
-    "race": 113613,
-    "id": 113614,
-    "name": "YES"
-  },
-  {
-    "race": 113613,
-    "id": 113615,
-    "name": "NO"
-  },
-  {
-    "race": 113617,
-    "id": 113618,
-    "name": "YES"
-  },
-  {
-    "race": 113617,
-    "id": 113619,
-    "name": "NO"
-  },
-  {
-    "race": 113621,
-    "id": 113622,
-    "name": "YES"
-  },
-  {
-    "race": 113621,
-    "id": 113623,
-    "name": "NO"
-  },
-  {
-    "race": 113625,
-    "id": 113626,
-    "name": "Yes"
-  },
-  {
-    "race": 113625,
-    "id": 113627,
-    "name": "No"
-  },
-  {
-    "race": 113629,
-    "id": 113630,
-    "name": "YES"
-  },
-  {
-    "race": 113629,
-    "id": 113631,
-    "name": "NO"
-  },
-  {
-    "race": 113633,
-    "id": 113634,
-    "name": "YES"
-  },
-  {
-    "race": 113633,
-    "id": 113635,
-    "name": "NO"
-  },
-  {
-    "race": 113637,
-    "id": 113638,
-    "name": "YES for the Formation"
-  },
-  {
-    "race": 113637,
-    "id": 113639,
-    "name": "NO Against the Formation"
-  },
-  {
-    "race": 113641,
-    "id": 113642,
-    "name": "Approved"
-  },
-  {
-    "race": 113641,
-    "id": 113643,
-    "name": "Rejected"
-  },
-  {
-    "race": 113645,
-    "id": 113646,
-    "name": "Yes"
-  },
-  {
-    "race": 113645,
-    "id": 113647,
-    "name": "No"
-  },
-  {
-    "race": 113649,
-    "id": 113650,
-    "name": "Yes"
-  },
-  {
-    "race": 113649,
-    "id": 113651,
-    "name": "No"
-  },
-  {
-    "race": 113653,
-    "id": 113654,
-    "name": "Yes"
-  },
-  {
-    "race": 113653,
-    "id": 113655,
-    "name": "No"
-  },
-  {
-    "race": 113657,
-    "id": 113658,
-    "name": "Yes"
-  },
-  {
-    "race": 113657,
-    "id": 113659,
-    "name": "No"
-  },
-  {
-    "race": 113661,
-    "id": 113662,
-    "name": "Yes"
-  },
-  {
-    "race": 113661,
-    "id": 113663,
-    "name": "No"
-  },
-  {
-    "race": 113665,
-    "id": 113666,
-    "name": "Yes"
-  },
-  {
-    "race": 113665,
-    "id": 113667,
-    "name": "No"
-  },
-  {
-    "race": 113669,
-    "id": 113670,
-    "name": "Yes"
-  },
-  {
-    "race": 113669,
-    "id": 113671,
-    "name": "No"
-  },
-  {
-    "race": 113673,
-    "id": 113674,
-    "name": "Levy Yes"
-  },
-  {
-    "race": 113673,
-    "id": 113675,
-    "name": "Levy No"
-  },
-  {
-    "race": 113681,
-    "id": 113682,
-    "name": "Yes"
-  },
-  {
-    "race": 113681,
-    "id": 113683,
-    "name": "No"
-  },
-  {
-    "race": 113685,
-    "id": 113686,
-    "name": "Levy Yes"
-  },
-  {
-    "race": 113685,
-    "id": 113687,
-    "name": "Levy No"
-  },
-  {
-    "race": 113689,
-    "id": 113690,
-    "name": "Approved"
-  },
-  {
-    "race": 113689,
-    "id": 113691,
-    "name": "Rejected"
-  },
-  {
-    "race": 113693,
-    "id": 113694,
-    "name": "Approved"
-  },
-  {
-    "race": 113693,
-    "id": 113695,
-    "name": "Rejected"
-  },
-  {
-    "race": 113697,
-    "id": 113698,
-    "name": "Approved"
-  },
-  {
-    "race": 113697,
-    "id": 113699,
-    "name": "Rejected"
-  },
-  {
-    "race": 113701,
-    "id": 113702,
-    "name": "Approved"
-  },
-  {
-    "race": 113701,
-    "id": 113703,
-    "name": "Rejected"
-  },
-  {
-    "race": 113705,
-    "id": 113706,
-    "name": "Approved"
-  },
-  {
-    "race": 113705,
-    "id": 113707,
-    "name": "Rejected"
-  },
-  {
-    "race": 113709,
-    "id": 113710,
-    "name": "Approved"
-  },
-  {
-    "race": 113709,
-    "id": 113711,
-    "name": "Rejected"
-  },
-  {
-    "race": 113713,
-    "id": 113714,
-    "name": "Approved"
-  },
-  {
-    "race": 113713,
-    "id": 113715,
-    "name": "Rejected"
-  },
-  {
-    "race": 113717,
-    "id": 113718,
-    "name": "Approved"
-  },
-  {
-    "race": 113717,
-    "id": 113719,
-    "name": "Rejected"
-  },
-  {
-    "race": 113721,
-    "id": 113722,
-    "name": "Approved"
-  },
-  {
-    "race": 113721,
-    "id": 113723,
-    "name": "Rejected"
-  },
-  {
-    "race": 113725,
-    "id": 113726,
-    "name": "Yes"
-  },
-  {
-    "race": 113725,
-    "id": 113727,
-    "name": "No"
-  },
-  {
-    "race": 113729,
-    "id": 113730,
-    "name": "Yes"
-  },
-  {
-    "race": 113729,
-    "id": 113731,
-    "name": "No"
-  },
-  {
-    "race": 113733,
-    "id": 113734,
-    "name": "Yes"
-  },
-  {
-    "race": 113733,
-    "id": 113735,
-    "name": "No"
-  },
-  {
-    "race": 113737,
-    "id": 113738,
-    "name": "Approved"
-  },
-  {
-    "race": 113737,
-    "id": 113739,
-    "name": "Rejected"
-  },
-  {
-    "race": 113741,
-    "id": 113742,
-    "name": "Approved"
-  },
-  {
-    "race": 113741,
-    "id": 113743,
-    "name": "Rejected"
-  },
-  {
-    "race": 113745,
-    "id": 113746,
-    "name": "Yes"
-  },
-  {
-    "race": 113745,
-    "id": 113747,
-    "name": "No"
-  },
-  {
-    "race": 113749,
-    "id": 113750,
-    "name": "Yes"
-  },
-  {
-    "race": 113749,
-    "id": 113751,
-    "name": "No"
-  },
-  {
-    "race": 113753,
-    "id": 113754,
-    "name": "Yes"
-  },
-  {
-    "race": 113753,
-    "id": 113755,
-    "name": "No"
-  },
-  {
-    "race": 113757,
-    "id": 113758,
-    "name": "Approved"
-  },
-  {
-    "race": 113757,
-    "id": 113759,
-    "name": "Rejected"
-  },
-  {
-    "race": 113761,
-    "id": 113762,
-    "name": "Yes"
-  },
-  {
-    "race": 113761,
-    "id": 113763,
-    "name": "No"
-  },
-  {
-    "race": 113765,
-    "id": 113766,
-    "name": "Yes"
-  },
-  {
-    "race": 113765,
-    "id": 113767,
-    "name": "No"
-  },
-  {
-    "race": 113769,
-    "id": 113770,
-    "name": "Yes"
-  },
-  {
-    "race": 113769,
-    "id": 113771,
-    "name": "No"
-  },
-  {
-    "race": 113773,
-    "id": 113774,
-    "name": "Yes"
-  },
-  {
-    "race": 113773,
-    "id": 113775,
-    "name": "No"
-  },
-  {
-    "race": 113777,
-    "id": 113778,
-    "name": "Approved"
-  },
-  {
-    "race": 113777,
-    "id": 113779,
-    "name": "Rejected"
-  },
-  {
-    "race": 113781,
-    "id": 113782,
-    "name": "Levy Yes"
-  },
-  {
-    "race": 113781,
-    "id": 113783,
-    "name": "Levy No"
-  },
-  {
-    "race": 113785,
-    "id": 113786,
-    "name": "Yes"
-  },
-  {
-    "race": 113785,
-    "id": 113787,
-    "name": "No"
-  },
-  {
-    "race": 113789,
-    "id": 113790,
-    "name": "Yes"
-  },
-  {
-    "race": 113789,
-    "id": 113791,
-    "name": "No"
-  },
-  {
-    "race": 113793,
-    "id": 113794,
-    "name": "Yes"
-  },
-  {
-    "race": 113793,
-    "id": 113795,
-    "name": "No"
-  },
-  {
-    "race": 113797,
-    "id": 113798,
-    "name": "Yes"
-  },
-  {
-    "race": 113797,
-    "id": 113799,
-    "name": "No"
-  },
-  {
-    "race": 113801,
-    "id": 113802,
-    "name": "Approved"
-  },
-  {
-    "race": 113801,
-    "id": 113803,
-    "name": "Rejected"
-  },
-  {
-    "race": 113805,
-    "id": 113806,
-    "name": "Yes"
-  },
-  {
-    "race": 113805,
-    "id": 113807,
-    "name": "No"
-  },
-  {
-    "race": 113809,
-    "id": 113810,
-    "name": "Yes"
-  },
-  {
-    "race": 113809,
-    "id": 113811,
-    "name": "No"
-  },
-  {
-    "race": 113813,
-    "id": 113814,
-    "name": "Levy - Yes"
-  },
-  {
-    "race": 113813,
-    "id": 113815,
-    "name": "Levy - No"
-  },
-  {
-    "race": 113817,
-    "id": 113818,
-    "name": "Approved"
-  },
-  {
-    "race": 113817,
-    "id": 113819,
-    "name": "Rejected"
-  },
-  {
-    "race": 113821,
-    "id": 113822,
-    "name": "Approved"
-  },
-  {
-    "race": 113821,
-    "id": 113823,
-    "name": "Rejected"
-  },
-  {
-    "race": 113825,
-    "id": 113826,
-    "name": "Approved"
-  },
-  {
-    "race": 113825,
-    "id": 113827,
-    "name": "Rejected"
-  },
-  {
-    "race": 113829,
-    "id": 113830,
-    "name": "Yes"
-  },
-  {
-    "race": 113829,
-    "id": 113831,
-    "name": "No"
   },
   {
     "race": 113833,
@@ -4379,134 +2728,156 @@
     "name": "NO"
   },
   {
-    "race": 113841,
-    "id": 113842,
+    "race": 113425,
+    "id": 113426,
     "name": "YES"
   },
   {
-    "race": 113841,
-    "id": 113843,
+    "race": 113425,
+    "id": 113427,
     "name": "NO"
   },
   {
-    "race": 113845,
-    "id": 113846,
+    "race": 6166,
+    "id": 41590,
+    "name": "Aaron Viebrock"
+  },
+  {
+    "race": 5461,
+    "id": 45123,
+    "name": "Johnna Exner",
+    "party": "R"
+  },
+  {
+    "race": 5461,
+    "id": 43709,
+    "name": "Lorna R Johnson",
+    "party": "R"
+  },
+  {
+    "race": 5463,
+    "id": 41437,
+    "name": "Dave Hedrick",
+    "party": "(Prefers INDEPENDENT Party)"
+  },
+  {
+    "race": 5463,
+    "id": 41487,
+    "name": "Mike Blankenship",
+    "party": "R"
+  },
+  {
+    "race": 5464,
+    "id": 44289,
+    "name": "Kathryn I. Burke",
+    "party": "R"
+  },
+  {
+    "race": 5478,
+    "id": 44068,
+    "name": "Gordon Strandberg"
+  },
+  {
+    "race": 5478,
+    "id": 41777,
+    "name": "Chris Kroupa"
+  },
+  {
+    "race": 7739,
+    "id": 43054,
+    "name": "Brad Peck",
+    "party": "R"
+  },
+  {
+    "race": 7739,
+    "id": 40785,
+    "name": "Matt Beaton",
+    "party": "R"
+  },
+  {
+    "race": 7740,
+    "id": 41266,
+    "name": "Bob Koch",
+    "party": "R"
+  },
+  {
+    "race": 7740,
+    "id": 41230,
+    "name": "Rodney (Rocky) Mullen",
+    "party": "R"
+  },
+  {
+    "race": 113961,
+    "id": 113962,
     "name": "Yes"
   },
   {
-    "race": 113845,
-    "id": 113847,
+    "race": 113961,
+    "id": 113963,
     "name": "No"
   },
   {
-    "race": 113849,
-    "id": 113850,
-    "name": "Enlargement of the Port of Poulsbo, Yes"
+    "race": 7810,
+    "id": 40790,
+    "name": "Roger G. Wright"
   },
   {
-    "race": 113849,
-    "id": 113851,
-    "name": "Enlargement of the Port of Poulsbo, No"
+    "race": 6823,
+    "id": 43071,
+    "name": "Bob Johnson",
+    "party": "R"
   },
   {
-    "race": 113853,
-    "id": 113854,
-    "name": "Approved"
+    "race": 6823,
+    "id": 43082,
+    "name": "P. Ernest Kimble",
+    "party": "(States No Party Preference)"
   },
   {
-    "race": 113853,
-    "id": 113855,
-    "name": "Rejected"
+    "race": 6824,
+    "id": 44490,
+    "name": "R. Clay Barr",
+    "party": "R"
   },
   {
-    "race": 113857,
-    "id": 113858,
-    "name": "Allow"
+    "race": 6824,
+    "id": 43097,
+    "name": "Wynne McCabe",
+    "party": "(States No Party Preference)"
   },
   {
-    "race": 113857,
-    "id": 113859,
-    "name": "Prohibit"
+    "race": 6956,
+    "id": 40746,
+    "name": "Richard Stevens",
+    "party": "R"
   },
   {
-    "race": 113861,
-    "id": 113862,
-    "name": "Yes"
+    "race": 6956,
+    "id": 41683,
+    "name": "Robert J Dove",
+    "party": "R"
   },
   {
-    "race": 113861,
-    "id": 113863,
-    "name": "No"
+    "race": 6957,
+    "id": 41202,
+    "name": "Tom Taylor",
+    "party": "R"
   },
   {
-    "race": 113865,
-    "id": 113866,
-    "name": "Approved"
+    "race": 6957,
+    "id": 43759,
+    "name": "Nathan Pack",
+    "party": "R"
   },
   {
-    "race": 113865,
-    "id": 113867,
-    "name": "Rejected"
+    "race": 7025,
+    "id": 44240,
+    "name": "Dale Walker"
   },
   {
-    "race": 113869,
-    "id": 113870,
-    "name": "APPROVED"
-  },
-  {
-    "race": 113869,
-    "id": 113871,
-    "name": "REJECTED"
-  },
-  {
-    "race": 113873,
-    "id": 113874,
-    "name": "LEVY YES"
-  },
-  {
-    "race": 113873,
-    "id": 113875,
-    "name": "LEVY NO"
-  },
-  {
-    "race": 113877,
-    "id": 113878,
-    "name": "LEVY YES"
-  },
-  {
-    "race": 113877,
-    "id": 113879,
-    "name": "LEVY NO"
-  },
-  {
-    "race": 113881,
-    "id": 113882,
-    "name": "LEVY YES"
-  },
-  {
-    "race": 113881,
-    "id": 113883,
-    "name": "LEVY NO"
-  },
-  {
-    "race": 113885,
-    "id": 113886,
-    "name": "Yes"
-  },
-  {
-    "race": 113885,
-    "id": 113887,
-    "name": "No"
-  },
-  {
-    "race": 113889,
-    "id": 113890,
-    "name": "Yes"
-  },
-  {
-    "race": 113889,
-    "id": 113891,
-    "name": "No"
+    "race": 7027,
+    "id": 40952,
+    "name": "Tom Flint"
   },
   {
     "race": 113893,
@@ -4549,6 +2920,50 @@
     "name": "Special Levy No"
   },
   {
+    "race": 7650,
+    "id": 41238,
+    "name": "Wes Cormier",
+    "party": "R"
+  },
+  {
+    "race": 7650,
+    "id": 45602,
+    "name": "Jamie Nichols",
+    "party": "(Prefers Democrat Party)"
+  },
+  {
+    "race": 7828,
+    "id": 41267,
+    "name": "Randy Ross",
+    "party": "(States No Party Preference)"
+  },
+  {
+    "race": 7828,
+    "id": 40758,
+    "name": "Frank H Gordon",
+    "party": "(Prefers Democrat Party)"
+  },
+  {
+    "race": 7830,
+    "id": 42672,
+    "name": "Kyle Imler"
+  },
+  {
+    "race": 7830,
+    "id": 42659,
+    "name": "David Mistachkin"
+  },
+  {
+    "race": 9213,
+    "id": 44851,
+    "name": "David Jennings"
+  },
+  {
+    "race": 9213,
+    "id": 41458,
+    "name": "David F. Timmons"
+  },
+  {
     "race": 113909,
     "id": 113910,
     "name": "Approved"
@@ -4589,223 +3004,75 @@
     "name": "No"
   },
   {
-    "race": 113925,
-    "id": 113926,
-    "name": "Approved"
+    "race": 9902,
+    "id": 41813,
+    "name": "Helen Price Johnson",
+    "party": "D"
   },
   {
-    "race": 113925,
-    "id": 113927,
-    "name": "Rejected"
+    "race": 9902,
+    "id": 45267,
+    "name": "Gary Wray",
+    "party": "R"
   },
   {
-    "race": 113929,
-    "id": 113930,
+    "race": 9901,
+    "id": 41385,
+    "name": "Jill Johnson",
+    "party": "R"
+  },
+  {
+    "race": 9901,
+    "id": 44354,
+    "name": "John Fowkes",
+    "party": "D"
+  },
+  {
+    "race": 11032,
+    "id": 43251,
+    "name": "Tanya (Toni) Olson"
+  },
+  {
+    "race": 11032,
+    "id": 42702,
+    "name": "Gordon Sibley"
+  },
+  {
+    "race": 7527,
+    "id": 41462,
+    "name": "Kate Dean",
+    "party": "D"
+  },
+  {
+    "race": 7527,
+    "id": 41509,
+    "name": "Tim N. Thomas",
+    "party": "D"
+  },
+  {
+    "race": 7528,
+    "id": 41743,
+    "name": "David W. Sullivan",
+    "party": "D"
+  },
+  {
+    "race": 7621,
+    "id": 41326,
+    "name": "Barney Burke"
+  },
+  {
+    "race": 7621,
+    "id": 41448,
+    "name": "Jeff Randall"
+  },
+  {
+    "race": 113809,
+    "id": 113810,
     "name": "Yes"
   },
   {
-    "race": 113929,
-    "id": 113931,
-    "name": "No"
-  },
-  {
-    "race": 113933,
-    "id": 113934,
-    "name": "Approved"
-  },
-  {
-    "race": 113933,
-    "id": 113935,
-    "name": "Rejected"
-  },
-  {
-    "race": 113937,
-    "id": 113938,
-    "name": "Levy Yes"
-  },
-  {
-    "race": 113937,
-    "id": 113939,
-    "name": "Levy No"
-  },
-  {
-    "race": 113941,
-    "id": 113942,
-    "name": "For the formation of a metropolitan park district to be governed by five at large commissioners"
-  },
-  {
-    "race": 113941,
-    "id": 113943,
-    "name": "Against the formation of a metropolitan park district"
-  },
-  {
-    "race": 113945,
-    "id": 113946,
-    "name": "Levy...Yes"
-  },
-  {
-    "race": 113945,
-    "id": 113947,
-    "name": "Levy...No"
-  },
-  {
-    "race": 113949,
-    "id": 113950,
-    "name": "Yes"
-  },
-  {
-    "race": 113949,
-    "id": 113951,
-    "name": "No"
-  },
-  {
-    "race": 113953,
-    "id": 113954,
-    "name": "Approved"
-  },
-  {
-    "race": 113953,
-    "id": 113955,
-    "name": "Rejected"
-  },
-  {
-    "race": 113957,
-    "id": 113958,
-    "name": "Yes"
-  },
-  {
-    "race": 113957,
-    "id": 113959,
-    "name": "No"
-  },
-  {
-    "race": 113961,
-    "id": 113962,
-    "name": "Yes"
-  },
-  {
-    "race": 113961,
-    "id": 113963,
-    "name": "No"
-  },
-  {
-    "race": 113965,
-    "id": 113966,
-    "name": "Approved"
-  },
-  {
-    "race": 113965,
-    "id": 113967,
-    "name": "Rejected"
-  },
-  {
-    "race": 113969,
-    "id": 113970,
-    "name": "Yes"
-  },
-  {
-    "race": 113969,
-    "id": 113971,
-    "name": "No"
-  },
-  {
-    "race": 113973,
-    "id": 113974,
-    "name": "Approved"
-  },
-  {
-    "race": 113973,
-    "id": 113975,
-    "name": "Rejected"
-  },
-  {
-    "race": 113977,
-    "id": 113978,
-    "name": "Approved"
-  },
-  {
-    "race": 113977,
-    "id": 113979,
-    "name": "Rejected"
-  },
-  {
-    "race": 113981,
-    "id": 113982,
-    "name": "Approved"
-  },
-  {
-    "race": 113981,
-    "id": 113983,
-    "name": "Rejected"
-  },
-  {
-    "race": 113985,
-    "id": 113986,
-    "name": "Levy, Yes"
-  },
-  {
-    "race": 113985,
-    "id": 113987,
-    "name": "Levy, No"
-  },
-  {
-    "race": 114009,
-    "id": 114010,
-    "name": "Yes"
-  },
-  {
-    "race": 114009,
-    "id": 114011,
-    "name": "No"
-  },
-  {
-    "race": 114013,
-    "id": 114014,
-    "name": "Yes"
-  },
-  {
-    "race": 114013,
-    "id": 114015,
-    "name": "No"
-  },
-  {
-    "race": 114017,
-    "id": 114018,
-    "name": "Yes"
-  },
-  {
-    "race": 114017,
-    "id": 114019,
-    "name": "No"
-  },
-  {
-    "race": 114021,
-    "id": 114022,
-    "name": "Yes"
-  },
-  {
-    "race": 114021,
-    "id": 114023,
-    "name": "No"
-  },
-  {
-    "race": 114025,
-    "id": 114026,
-    "name": "Yes"
-  },
-  {
-    "race": 114025,
-    "id": 114027,
-    "name": "No"
-  },
-  {
-    "race": 114029,
-    "id": 114030,
-    "name": "Yes"
-  },
-  {
-    "race": 114029,
-    "id": 114031,
+    "race": 113809,
+    "id": 113811,
     "name": "No"
   },
   {
@@ -4829,6 +3096,26 @@
     "name": "No"
   },
   {
+    "race": 39933,
+    "id": 45757,
+    "name": "Laurel Gibson"
+  },
+  {
+    "race": 39933,
+    "id": 45758,
+    "name": "Brian J. Todd"
+  },
+  {
+    "race": 39934,
+    "id": 45759,
+    "name": "Lisa Paglisotti"
+  },
+  {
+    "race": 39935,
+    "id": 45760,
+    "name": "Gregg Hirakawa"
+  },
+  {
     "race": 114041,
     "id": 114042,
     "name": "Approved"
@@ -4846,6 +3133,26 @@
   {
     "race": 114045,
     "id": 114047,
+    "name": "Rejected"
+  },
+  {
+    "race": 113949,
+    "id": 113950,
+    "name": "Yes"
+  },
+  {
+    "race": 113949,
+    "id": 113951,
+    "name": "No"
+  },
+  {
+    "race": 113953,
+    "id": 113954,
+    "name": "Approved"
+  },
+  {
+    "race": 113953,
+    "id": 113955,
     "name": "Rejected"
   },
   {
@@ -4929,6 +3236,16 @@
     "name": "No"
   },
   {
+    "race": 113817,
+    "id": 113818,
+    "name": "Approved"
+  },
+  {
+    "race": 113817,
+    "id": 113819,
+    "name": "Rejected"
+  },
+  {
     "race": 114089,
     "id": 114090,
     "name": "Approved"
@@ -4936,6 +3253,16 @@
   {
     "race": 114089,
     "id": 114091,
+    "name": "Rejected"
+  },
+  {
+    "race": 113821,
+    "id": 113822,
+    "name": "Approved"
+  },
+  {
+    "race": 113821,
+    "id": 113823,
     "name": "Rejected"
   },
   {
@@ -4977,5 +3304,1678 @@
     "race": 114105,
     "id": 114107,
     "name": "No"
+  },
+  {
+    "race": 113845,
+    "id": 113846,
+    "name": "Yes"
+  },
+  {
+    "race": 113845,
+    "id": 113847,
+    "name": "No"
+  },
+  {
+    "race": 38808,
+    "id": 40935,
+    "name": "Robert (Rob) Gelder",
+    "party": "D"
+  },
+  {
+    "race": 38817,
+    "id": 40823,
+    "name": "Christopher J. Tibbs",
+    "party": "R"
+  },
+  {
+    "race": 38817,
+    "id": 41027,
+    "name": "Charlotte Garrido",
+    "party": "D"
+  },
+  {
+    "race": 38975,
+    "id": 45101,
+    "name": "Debra Lester"
+  },
+  {
+    "race": 38975,
+    "id": 40705,
+    "name": "John Armstrong"
+  },
+  {
+    "race": 113849,
+    "id": 113850,
+    "name": "Enlargement of the Port of Poulsbo, Yes"
+  },
+  {
+    "race": 113849,
+    "id": 113851,
+    "name": "Enlargement of the Port of Poulsbo, No"
+  },
+  {
+    "race": 11309,
+    "id": 41268,
+    "name": "Paul Jewell",
+    "party": "R"
+  },
+  {
+    "race": 11309,
+    "id": 42982,
+    "name": "Rob Fraser",
+    "party": "D"
+  },
+  {
+    "race": 11310,
+    "id": 42232,
+    "name": "Laura Osiadacz",
+    "party": "R"
+  },
+  {
+    "race": 11310,
+    "id": 45119,
+    "name": "Carl B. Nelson",
+    "party": "(States No Party Preference)"
+  },
+  {
+    "race": 11319,
+    "id": 41612,
+    "name": "Mike Lowe"
+  },
+  {
+    "race": 11319,
+    "id": 41048,
+    "name": "Joe O'Leary"
+  },
+  {
+    "race": 113641,
+    "id": 113642,
+    "name": "Approved"
+  },
+  {
+    "race": 113641,
+    "id": 113643,
+    "name": "Rejected"
+  },
+  {
+    "race": 113729,
+    "id": 113730,
+    "name": "Yes"
+  },
+  {
+    "race": 113729,
+    "id": 113731,
+    "name": "No"
+  },
+  {
+    "race": 9788,
+    "id": 42712,
+    "name": "Rex F. Johnston",
+    "party": "R"
+  },
+  {
+    "race": 9788,
+    "id": 45751,
+    "name": "Patricia (Pat) Arnold",
+    "party": "(States No Party Preference)"
+  },
+  {
+    "race": 10137,
+    "id": 42747,
+    "name": "Jim Sizemore",
+    "party": "R"
+  },
+  {
+    "race": 10138,
+    "id": 41909,
+    "name": "Ray A. Mosbrucker"
+  },
+  {
+    "race": 10138,
+    "id": 42001,
+    "name": "Doug Miller"
+  },
+  {
+    "race": 113625,
+    "id": 113626,
+    "name": "Yes"
+  },
+  {
+    "race": 113625,
+    "id": 113627,
+    "name": "No"
+  },
+  {
+    "race": 9263,
+    "id": 40726,
+    "name": "Edna J. Fund",
+    "party": "R"
+  },
+  {
+    "race": 9263,
+    "id": 43984,
+    "name": "Dan Keahey",
+    "party": "R"
+  },
+  {
+    "race": 9264,
+    "id": 40909,
+    "name": "Bobby Jackson",
+    "party": "R"
+  },
+  {
+    "race": 9264,
+    "id": 41389,
+    "name": "Bob Bozarth",
+    "party": "(States No Party Preference)"
+  },
+  {
+    "race": 9277,
+    "id": 45364,
+    "name": "Tim Cournyer"
+  },
+  {
+    "race": 113925,
+    "id": 113926,
+    "name": "Approved"
+  },
+  {
+    "race": 113925,
+    "id": 113927,
+    "name": "Rejected"
+  },
+  {
+    "race": 113929,
+    "id": 113930,
+    "name": "Yes"
+  },
+  {
+    "race": 113929,
+    "id": 113931,
+    "name": "No"
+  },
+  {
+    "race": 113869,
+    "id": 113870,
+    "name": "APPROVED"
+  },
+  {
+    "race": 113869,
+    "id": 113871,
+    "name": "REJECTED"
+  },
+  {
+    "race": 4221,
+    "id": 40966,
+    "name": "Mark R. Stedman",
+    "party": "R"
+  },
+  {
+    "race": 4229,
+    "id": 40942,
+    "name": "Scott Hutsell",
+    "party": "R"
+  },
+  {
+    "race": 4230,
+    "id": 41066,
+    "name": "Dan B. Johnson"
+  },
+  {
+    "race": 113873,
+    "id": 113874,
+    "name": "LEVY YES"
+  },
+  {
+    "race": 113873,
+    "id": 113875,
+    "name": "LEVY NO"
+  },
+  {
+    "race": 4249,
+    "id": 45716,
+    "name": "Jerald Sheffels"
+  },
+  {
+    "race": 113877,
+    "id": 113878,
+    "name": "LEVY YES"
+  },
+  {
+    "race": 113877,
+    "id": 113879,
+    "name": "LEVY NO"
+  },
+  {
+    "race": 113881,
+    "id": 113882,
+    "name": "LEVY YES"
+  },
+  {
+    "race": 113881,
+    "id": 113883,
+    "name": "LEVY NO"
+  },
+  {
+    "race": 7284,
+    "id": 44054,
+    "name": "Randy Neatherlin",
+    "party": "(Prefers None Party)"
+  },
+  {
+    "race": 7284,
+    "id": 41377,
+    "name": "Kelley McIntosh",
+    "party": "(Prefers Independent Party)"
+  },
+  {
+    "race": 7285,
+    "id": 41654,
+    "name": "Kevin Shutty",
+    "party": "R"
+  },
+  {
+    "race": 7285,
+    "id": 44375,
+    "name": "Roslynne Reed",
+    "party": "D"
+  },
+  {
+    "race": 113941,
+    "id": 113942,
+    "name": "For the formation of a metropolitan park district to be governed by five at large commissioners"
+  },
+  {
+    "race": 113941,
+    "id": 113943,
+    "name": "Against the formation of a metropolitan park district"
+  },
+  {
+    "race": 39917,
+    "id": 45739,
+    "name": "Kris Klusman"
+  },
+  {
+    "race": 39917,
+    "id": 45745,
+    "name": "Arvilla Ohlde"
+  },
+  {
+    "race": 39918,
+    "id": 45740,
+    "name": "Steve Van Denover"
+  },
+  {
+    "race": 39918,
+    "id": 45743,
+    "name": "Jesse Sims"
+  },
+  {
+    "race": 39919,
+    "id": 45744,
+    "name": "Ken VanBuskirk"
+  },
+  {
+    "race": 39919,
+    "id": 45737,
+    "name": "Andrew Kinney"
+  },
+  {
+    "race": 39919,
+    "id": 45741,
+    "name": "Phil Wolff"
+  },
+  {
+    "race": 39920,
+    "id": 45746,
+    "name": "Monte Warren Ritter"
+  },
+  {
+    "race": 39920,
+    "id": 45736,
+    "name": "Doug Sayan"
+  },
+  {
+    "race": 39920,
+    "id": 45738,
+    "name": "Richard Hoss"
+  },
+  {
+    "race": 39921,
+    "id": 45735,
+    "name": "John Piety"
+  },
+  {
+    "race": 39921,
+    "id": 45742,
+    "name": "John Johnson"
+  },
+  {
+    "race": 113945,
+    "id": 113946,
+    "name": "Levy...Yes"
+  },
+  {
+    "race": 113945,
+    "id": 113947,
+    "name": "Levy...No"
+  },
+  {
+    "race": 7407,
+    "id": 44825,
+    "name": "Mike Sheetz"
+  },
+  {
+    "race": 7407,
+    "id": 42480,
+    "name": "Karl Denison"
+  },
+  {
+    "race": 7410,
+    "id": 40970,
+    "name": "Linda R. Gott"
+  },
+  {
+    "race": 10454,
+    "id": 41598,
+    "name": "Sheilah Kennedy",
+    "party": "R"
+  },
+  {
+    "race": 10454,
+    "id": 42289,
+    "name": "Chris Branch",
+    "party": "(Prefers Independent Party)"
+  },
+  {
+    "race": 10455,
+    "id": 41964,
+    "name": "Andy Hover",
+    "party": "R"
+  },
+  {
+    "race": 10455,
+    "id": 43949,
+    "name": "Ashley W. Thrasher",
+    "party": "(States No Party Preference)"
+  },
+  {
+    "race": 10463,
+    "id": 40899,
+    "name": "Robert W. Grim"
+  },
+  {
+    "race": 10703,
+    "id": 41145,
+    "name": "Jerry D. Asmussen"
+  },
+  {
+    "race": 10703,
+    "id": 43822,
+    "name": "Aaron Kester"
+  },
+  {
+    "race": 113861,
+    "id": 113862,
+    "name": "Yes"
+  },
+  {
+    "race": 113861,
+    "id": 113863,
+    "name": "No"
+  },
+  {
+    "race": 7189,
+    "id": 45489,
+    "name": "Lisa Olsen",
+    "party": "R"
+  },
+  {
+    "race": 7189,
+    "id": 40747,
+    "name": "Steve Rogers",
+    "party": "D"
+  },
+  {
+    "race": 7190,
+    "id": 41733,
+    "name": "Frank Wolfe",
+    "party": "(Prefers Democrat Party)"
+  },
+  {
+    "race": 7190,
+    "id": 45016,
+    "name": "Fred H. Hill",
+    "party": "(Prefers Democrat Party)"
+  },
+  {
+    "race": 7233,
+    "id": 41699,
+    "name": "Dick Anderson"
+  },
+  {
+    "race": 7233,
+    "id": 41109,
+    "name": "Michael (Mike) Lignoski"
+  },
+  {
+    "race": 113885,
+    "id": 113886,
+    "name": "Yes"
+  },
+  {
+    "race": 113885,
+    "id": 113887,
+    "name": "No"
+  },
+  {
+    "race": 5689,
+    "id": 40991,
+    "name": "Bob Eugene",
+    "party": "D"
+  },
+  {
+    "race": 5689,
+    "id": 42928,
+    "name": "Karen Skoog",
+    "party": "R"
+  },
+  {
+    "race": 5691,
+    "id": 44332,
+    "name": "RJ Hampton",
+    "party": "R"
+  },
+  {
+    "race": 5691,
+    "id": 42645,
+    "name": "Steve Kiss",
+    "party": "R"
+  },
+  {
+    "race": 113505,
+    "id": 113506,
+    "name": "Approved"
+  },
+  {
+    "race": 113505,
+    "id": 113507,
+    "name": "Rejected"
+  },
+  {
+    "race": 113509,
+    "id": 113510,
+    "name": "Approved"
+  },
+  {
+    "race": 113509,
+    "id": 113511,
+    "name": "Rejected"
+  },
+  {
+    "race": 113433,
+    "id": 113434,
+    "name": "Yes"
+  },
+  {
+    "race": 113433,
+    "id": 113435,
+    "name": "No"
+  },
+  {
+    "race": 113437,
+    "id": 113438,
+    "name": "Approved"
+  },
+  {
+    "race": 113437,
+    "id": 113439,
+    "name": "Rejected"
+  },
+  {
+    "race": 113517,
+    "id": 113518,
+    "name": "Yes"
+  },
+  {
+    "race": 113517,
+    "id": 113519,
+    "name": "No"
+  },
+  {
+    "race": 113521,
+    "id": 113522,
+    "name": "Yes"
+  },
+  {
+    "race": 113521,
+    "id": 113523,
+    "name": "No"
+  },
+  {
+    "race": 113513,
+    "id": 113514,
+    "name": "Approved"
+  },
+  {
+    "race": 113513,
+    "id": 113515,
+    "name": "Rejected"
+  },
+  {
+    "race": 113501,
+    "id": 113502,
+    "name": "Yes"
+  },
+  {
+    "race": 113501,
+    "id": 113503,
+    "name": "No"
+  },
+  {
+    "race": 5730,
+    "id": 41856,
+    "name": "Rick Larson"
+  },
+  {
+    "race": 113753,
+    "id": 113754,
+    "name": "Yes"
+  },
+  {
+    "race": 113753,
+    "id": 113755,
+    "name": "No"
+  },
+  {
+    "race": 113785,
+    "id": 113786,
+    "name": "Yes"
+  },
+  {
+    "race": 113785,
+    "id": 113787,
+    "name": "No"
+  },
+  {
+    "race": 113789,
+    "id": 113790,
+    "name": "Yes"
+  },
+  {
+    "race": 113789,
+    "id": 113791,
+    "name": "No"
+  },
+  {
+    "race": 113793,
+    "id": 113794,
+    "name": "Yes"
+  },
+  {
+    "race": 113793,
+    "id": 113795,
+    "name": "No"
+  },
+  {
+    "race": 113797,
+    "id": 113798,
+    "name": "Yes"
+  },
+  {
+    "race": 113797,
+    "id": 113799,
+    "name": "No"
+  },
+  {
+    "race": 11523,
+    "id": 40941,
+    "name": "Rick Talbert",
+    "party": "D"
+  },
+  {
+    "race": 11523,
+    "id": 41177,
+    "name": "Bruce Dammeier",
+    "party": "R"
+  },
+  {
+    "race": 11525,
+    "id": 40870,
+    "name": "Mike Lonergan"
+  },
+  {
+    "race": 11528,
+    "id": 40873,
+    "name": "Paul A. Pastor"
+  },
+  {
+    "race": 11568,
+    "id": 42050,
+    "name": "Pam Roach",
+    "party": "R"
+  },
+  {
+    "race": 11568,
+    "id": 41221,
+    "name": "Carolyn Edmonds",
+    "party": "D"
+  },
+  {
+    "race": 11569,
+    "id": 41978,
+    "name": "Jim McCune",
+    "party": "R"
+  },
+  {
+    "race": 11569,
+    "id": 41492,
+    "name": "Dennis Townsend",
+    "party": "D"
+  },
+  {
+    "race": 11572,
+    "id": 44940,
+    "name": "Connie Ladenburg",
+    "party": "D"
+  },
+  {
+    "race": 11572,
+    "id": 45722,
+    "name": "Kit Burns",
+    "party": "(Prefers Independent Party)"
+  },
+  {
+    "race": 11573,
+    "id": 42066,
+    "name": "Doug Richardson",
+    "party": "R"
+  },
+  {
+    "race": 11573,
+    "id": 41298,
+    "name": "Linda Farmer",
+    "party": "D"
+  },
+  {
+    "race": 113801,
+    "id": 113802,
+    "name": "Approved"
+  },
+  {
+    "race": 113801,
+    "id": 113803,
+    "name": "Rejected"
+  },
+  {
+    "race": 113825,
+    "id": 113826,
+    "name": "Approved"
+  },
+  {
+    "race": 113825,
+    "id": 113827,
+    "name": "Rejected"
+  },
+  {
+    "race": 113829,
+    "id": 113830,
+    "name": "Yes"
+  },
+  {
+    "race": 113829,
+    "id": 113831,
+    "name": "No"
+  },
+  {
+    "race": 38782,
+    "id": 41423,
+    "name": "Bill Watson"
+  },
+  {
+    "race": 38782,
+    "id": 42860,
+    "name": "Bob Jarman"
+  },
+  {
+    "race": 38783,
+    "id": 40813,
+    "name": "Rick Hughes"
+  },
+  {
+    "race": 38783,
+    "id": 45259,
+    "name": "Michael Durland"
+  },
+  {
+    "race": 113481,
+    "id": 113482,
+    "name": "Yes"
+  },
+  {
+    "race": 113481,
+    "id": 113483,
+    "name": "No"
+  },
+  {
+    "race": 113493,
+    "id": 113494,
+    "name": "Approved"
+  },
+  {
+    "race": 113493,
+    "id": 113495,
+    "name": "Rejected"
+  },
+  {
+    "race": 8993,
+    "id": 41631,
+    "name": "Ron Wesen",
+    "party": "(Prefers GOP Party)"
+  },
+  {
+    "race": 8994,
+    "id": 43619,
+    "name": "Ken Dahlstedt",
+    "party": "(Prefers Democrat Party)"
+  },
+  {
+    "race": 8989,
+    "id": 43367,
+    "name": "Hayley L. Thompson",
+    "party": "D"
+  },
+  {
+    "race": 39813,
+    "id": 41337,
+    "name": "Thomas L. Verge"
+  },
+  {
+    "race": 9156,
+    "id": 41144,
+    "name": "Eron Berg"
+  },
+  {
+    "race": 9156,
+    "id": 45573,
+    "name": "Kevin Loy"
+  },
+  {
+    "race": 113805,
+    "id": 113806,
+    "name": "Yes"
+  },
+  {
+    "race": 113805,
+    "id": 113807,
+    "name": "No"
+  },
+  {
+    "race": 113853,
+    "id": 113854,
+    "name": "Approved"
+  },
+  {
+    "race": 113853,
+    "id": 113855,
+    "name": "Rejected"
+  },
+  {
+    "race": 114009,
+    "id": 114010,
+    "name": "Yes"
+  },
+  {
+    "race": 114009,
+    "id": 114011,
+    "name": "No"
+  },
+  {
+    "race": 8372,
+    "id": 40739,
+    "name": "Grace D. Cross",
+    "party": "D"
+  },
+  {
+    "race": 8373,
+    "id": 42749,
+    "name": "Richard Mahar",
+    "party": "R"
+  },
+  {
+    "race": 8373,
+    "id": 42942,
+    "name": "Marie Perez-Gluesenkamp",
+    "party": "D"
+  },
+  {
+    "race": 8374,
+    "id": 40709,
+    "name": "Tom Lannen",
+    "party": "R"
+  },
+  {
+    "race": 8374,
+    "id": 41334,
+    "name": "Michael Johnson",
+    "party": "D"
+  },
+  {
+    "race": 8382,
+    "id": 40748,
+    "name": "Dave McKenzie"
+  },
+  {
+    "race": 8382,
+    "id": 45298,
+    "name": "Ted Salka"
+  },
+  {
+    "race": 39928,
+    "id": 45752,
+    "name": "MARC ROBINS"
+  },
+  {
+    "race": 39929,
+    "id": 45753,
+    "name": "BLAYNEY MYERS"
+  },
+  {
+    "race": 39930,
+    "id": 45754,
+    "name": "ED LA MOTTE"
+  },
+  {
+    "race": 39931,
+    "id": 45755,
+    "name": "ALICIA BEYER"
+  },
+  {
+    "race": 39932,
+    "id": 45756,
+    "name": "BOB WITTENBERG"
+  },
+  {
+    "race": 114013,
+    "id": 114014,
+    "name": "Yes"
+  },
+  {
+    "race": 114013,
+    "id": 114015,
+    "name": "No"
+  },
+  {
+    "race": 114017,
+    "id": 114018,
+    "name": "Yes"
+  },
+  {
+    "race": 114017,
+    "id": 114019,
+    "name": "No"
+  },
+  {
+    "race": 114021,
+    "id": 114022,
+    "name": "Yes"
+  },
+  {
+    "race": 114021,
+    "id": 114023,
+    "name": "No"
+  },
+  {
+    "race": 114025,
+    "id": 114026,
+    "name": "Yes"
+  },
+  {
+    "race": 114025,
+    "id": 114027,
+    "name": "No"
+  },
+  {
+    "race": 114029,
+    "id": 114030,
+    "name": "Yes"
+  },
+  {
+    "race": 114029,
+    "id": 114031,
+    "name": "No"
+  },
+  {
+    "race": 113693,
+    "id": 113694,
+    "name": "Approved"
+  },
+  {
+    "race": 113693,
+    "id": 113695,
+    "name": "Rejected"
+  },
+  {
+    "race": 113697,
+    "id": 113698,
+    "name": "Approved"
+  },
+  {
+    "race": 113697,
+    "id": 113699,
+    "name": "Rejected"
+  },
+  {
+    "race": 113701,
+    "id": 113702,
+    "name": "Approved"
+  },
+  {
+    "race": 113701,
+    "id": 113703,
+    "name": "Rejected"
+  },
+  {
+    "race": 113705,
+    "id": 113706,
+    "name": "Approved"
+  },
+  {
+    "race": 113705,
+    "id": 113707,
+    "name": "Rejected"
+  },
+  {
+    "race": 113709,
+    "id": 113710,
+    "name": "Approved"
+  },
+  {
+    "race": 113709,
+    "id": 113711,
+    "name": "Rejected"
+  },
+  {
+    "race": 113713,
+    "id": 113714,
+    "name": "Approved"
+  },
+  {
+    "race": 113713,
+    "id": 113715,
+    "name": "Rejected"
+  },
+  {
+    "race": 113717,
+    "id": 113718,
+    "name": "Approved"
+  },
+  {
+    "race": 113717,
+    "id": 113719,
+    "name": "Rejected"
+  },
+  {
+    "race": 11037,
+    "id": 41479,
+    "name": "Sam Low",
+    "party": "R"
+  },
+  {
+    "race": 11037,
+    "id": 42660,
+    "name": "Hans Dunshee",
+    "party": "D"
+  },
+  {
+    "race": 113661,
+    "id": 113662,
+    "name": "Yes"
+  },
+  {
+    "race": 113661,
+    "id": 113663,
+    "name": "No"
+  },
+  {
+    "race": 113665,
+    "id": 113666,
+    "name": "Yes"
+  },
+  {
+    "race": 113665,
+    "id": 113667,
+    "name": "No"
+  },
+  {
+    "race": 113669,
+    "id": 113670,
+    "name": "Yes"
+  },
+  {
+    "race": 113669,
+    "id": 113671,
+    "name": "No"
+  },
+  {
+    "race": 113673,
+    "id": 113674,
+    "name": "Levy Yes"
+  },
+  {
+    "race": 113673,
+    "id": 113675,
+    "name": "Levy No"
+  },
+  {
+    "race": 113465,
+    "id": 113466,
+    "name": "Yes"
+  },
+  {
+    "race": 113465,
+    "id": 113467,
+    "name": "No"
+  },
+  {
+    "race": 113681,
+    "id": 113682,
+    "name": "Yes"
+  },
+  {
+    "race": 113681,
+    "id": 113683,
+    "name": "No"
+  },
+  {
+    "race": 113721,
+    "id": 113722,
+    "name": "Approved"
+  },
+  {
+    "race": 113721,
+    "id": 113723,
+    "name": "Rejected"
+  },
+  {
+    "race": 113685,
+    "id": 113686,
+    "name": "Levy Yes"
+  },
+  {
+    "race": 113685,
+    "id": 113687,
+    "name": "Levy No"
+  },
+  {
+    "race": 113689,
+    "id": 113690,
+    "name": "Approved"
+  },
+  {
+    "race": 113689,
+    "id": 113691,
+    "name": "Rejected"
+  },
+  {
+    "race": 5366,
+    "id": 42847,
+    "name": "Candace Mumm",
+    "party": "D"
+  },
+  {
+    "race": 5366,
+    "id": 42139,
+    "name": "Josh Kerns",
+    "party": "R"
+  },
+  {
+    "race": 5367,
+    "id": 41117,
+    "name": "Shelly O'Quinn",
+    "party": "R"
+  },
+  {
+    "race": 5367,
+    "id": 42554,
+    "name": "Andrew Biviano",
+    "party": "D"
+  },
+  {
+    "race": 113761,
+    "id": 113762,
+    "name": "Yes"
+  },
+  {
+    "race": 113761,
+    "id": 113763,
+    "name": "No"
+  },
+  {
+    "race": 113765,
+    "id": 113766,
+    "name": "Yes"
+  },
+  {
+    "race": 113765,
+    "id": 113767,
+    "name": "No"
+  },
+  {
+    "race": 113769,
+    "id": 113770,
+    "name": "Yes"
+  },
+  {
+    "race": 113769,
+    "id": 113771,
+    "name": "No"
+  },
+  {
+    "race": 113773,
+    "id": 113774,
+    "name": "Yes"
+  },
+  {
+    "race": 113773,
+    "id": 113775,
+    "name": "No"
+  },
+  {
+    "race": 113777,
+    "id": 113778,
+    "name": "Approved"
+  },
+  {
+    "race": 113777,
+    "id": 113779,
+    "name": "Rejected"
+  },
+  {
+    "race": 113781,
+    "id": 113782,
+    "name": "Levy Yes"
+  },
+  {
+    "race": 113781,
+    "id": 113783,
+    "name": "Levy No"
+  },
+  {
+    "race": 113629,
+    "id": 113630,
+    "name": "YES"
+  },
+  {
+    "race": 113629,
+    "id": 113631,
+    "name": "NO"
+  },
+  {
+    "race": 8618,
+    "id": 41864,
+    "name": "Wade A. Carpenter"
+  },
+  {
+    "race": 113757,
+    "id": 113758,
+    "name": "Approved"
+  },
+  {
+    "race": 113757,
+    "id": 113759,
+    "name": "Rejected"
+  },
+  {
+    "race": 8565,
+    "id": 42599,
+    "name": "Wes McCart",
+    "party": "R"
+  },
+  {
+    "race": 8567,
+    "id": 42885,
+    "name": "Steve Parker",
+    "party": "R"
+  },
+  {
+    "race": 8567,
+    "id": 41876,
+    "name": "Matt Wolohan",
+    "party": "(Prefers Democrat Party)"
+  },
+  {
+    "race": 8570,
+    "id": 41848,
+    "name": "Leslie Valz",
+    "party": "R"
+  },
+  {
+    "race": 113725,
+    "id": 113726,
+    "name": "Yes"
+  },
+  {
+    "race": 113725,
+    "id": 113727,
+    "name": "No"
+  },
+  {
+    "race": 8048,
+    "id": 41169,
+    "name": "Jim Cooper",
+    "party": "D"
+  },
+  {
+    "race": 8048,
+    "id": 44358,
+    "name": "John (Hutch) Hutchings",
+    "party": "(Prefers Independent Party)"
+  },
+  {
+    "race": 8633,
+    "id": 41720,
+    "name": "Gary Edwards",
+    "party": "(States No Party Preference)"
+  },
+  {
+    "race": 8633,
+    "id": 41874,
+    "name": "Kelsey Hulse",
+    "party": "D"
+  },
+  {
+    "race": 8936,
+    "id": 41099,
+    "name": "Russ Olsen"
+  },
+  {
+    "race": 113889,
+    "id": 113890,
+    "name": "Yes"
+  },
+  {
+    "race": 113889,
+    "id": 113891,
+    "name": "No"
+  },
+  {
+    "race": 113957,
+    "id": 113958,
+    "name": "Yes"
+  },
+  {
+    "race": 113957,
+    "id": 113959,
+    "name": "No"
+  },
+  {
+    "race": 7444,
+    "id": 44890,
+    "name": "Greg Prestegard",
+    "party": "(Prefers DEM Party)"
+  },
+  {
+    "race": 7444,
+    "id": 42838,
+    "name": "Mike Backman",
+    "party": "(Prefers Independent Party)"
+  },
+  {
+    "race": 7442,
+    "id": 42742,
+    "name": "Dan L. Cothren",
+    "party": "(Prefers Independent Party)"
+  },
+  {
+    "race": 7442,
+    "id": 45055,
+    "name": "Robert L. Jungers",
+    "party": "(States No Party Preference)"
+  },
+  {
+    "race": 7507,
+    "id": 42709,
+    "name": "Dennis R. Reid"
+  },
+  {
+    "race": 11458,
+    "id": 43707,
+    "name": "Jim Johnson",
+    "party": "R"
+  },
+  {
+    "race": 11458,
+    "id": 43840,
+    "name": "Jared Frerichs",
+    "party": "D"
+  },
+  {
+    "race": 11459,
+    "id": 42852,
+    "name": "Randal Son",
+    "party": "D"
+  },
+  {
+    "race": 11459,
+    "id": 41836,
+    "name": "Todd Kimball",
+    "party": "R"
+  },
+  {
+    "race": 113645,
+    "id": 113646,
+    "name": "Yes"
+  },
+  {
+    "race": 113645,
+    "id": 113647,
+    "name": "No"
+  },
+  {
+    "race": 113653,
+    "id": 113654,
+    "name": "Yes"
+  },
+  {
+    "race": 113653,
+    "id": 113655,
+    "name": "No"
+  },
+  {
+    "race": 12198,
+    "id": 41946,
+    "name": "Mike Murphy"
+  },
+  {
+    "race": 113649,
+    "id": 113650,
+    "name": "Yes"
+  },
+  {
+    "race": 113649,
+    "id": 113651,
+    "name": "No"
+  },
+  {
+    "race": 113657,
+    "id": 113658,
+    "name": "Yes"
+  },
+  {
+    "race": 113657,
+    "id": 113659,
+    "name": "No"
+  },
+  {
+    "race": 113733,
+    "id": 113734,
+    "name": "Yes"
+  },
+  {
+    "race": 113733,
+    "id": 113735,
+    "name": "No"
+  },
+  {
+    "race": 39922,
+    "id": 45729,
+    "name": "Vern Yadon"
+  },
+  {
+    "race": 39924,
+    "id": 45733,
+    "name": "Richard Whitson"
+  },
+  {
+    "race": 39923,
+    "id": 45730,
+    "name": "Rebecca Boonstra"
+  },
+  {
+    "race": 39925,
+    "id": 45731,
+    "name": "Kelly Vogel"
+  },
+  {
+    "race": 39926,
+    "id": 45732,
+    "name": "Jessica Bee"
+  },
+  {
+    "race": 7641,
+    "id": 42044,
+    "name": "Art Swannack",
+    "party": "R"
+  },
+  {
+    "race": 10135,
+    "id": 42018,
+    "name": "Dean Kinzer",
+    "party": "R"
+  },
+  {
+    "race": 113637,
+    "id": 113638,
+    "name": "YES for the Formation"
+  },
+  {
+    "race": 113637,
+    "id": 113639,
+    "name": "NO Against the Formation"
+  },
+  {
+    "race": 113577,
+    "id": 113578,
+    "name": "YES"
+  },
+  {
+    "race": 113577,
+    "id": 113579,
+    "name": "NO"
+  },
+  {
+    "race": 113237,
+    "id": 113238,
+    "name": "Yes"
+  },
+  {
+    "race": 113237,
+    "id": 113239,
+    "name": "No"
+  },
+  {
+    "race": 113245,
+    "id": 113246,
+    "name": "Yes"
+  },
+  {
+    "race": 113245,
+    "id": 113247,
+    "name": "No"
+  },
+  {
+    "race": 113581,
+    "id": 113582,
+    "name": "YES"
+  },
+  {
+    "race": 113581,
+    "id": 113583,
+    "name": "NO"
+  },
+  {
+    "race": 113585,
+    "id": 113586,
+    "name": "YES"
+  },
+  {
+    "race": 113585,
+    "id": 113587,
+    "name": "NO"
+  },
+  {
+    "race": 113569,
+    "id": 113570,
+    "name": "YES"
+  },
+  {
+    "race": 113569,
+    "id": 113571,
+    "name": "NO"
+  },
+  {
+    "race": 113565,
+    "id": 113566,
+    "name": "YES"
+  },
+  {
+    "race": 113565,
+    "id": 113567,
+    "name": "NO"
+  },
+  {
+    "race": 113617,
+    "id": 113618,
+    "name": "YES"
+  },
+  {
+    "race": 113617,
+    "id": 113619,
+    "name": "NO"
+  },
+  {
+    "race": 113621,
+    "id": 113622,
+    "name": "YES"
+  },
+  {
+    "race": 113621,
+    "id": 113623,
+    "name": "NO"
+  },
+  {
+    "race": 113573,
+    "id": 113574,
+    "name": "YES"
+  },
+  {
+    "race": 113573,
+    "id": 113575,
+    "name": "NO"
+  },
+  {
+    "race": 113589,
+    "id": 113590,
+    "name": "YES"
+  },
+  {
+    "race": 113589,
+    "id": 113591,
+    "name": "NO"
+  },
+  {
+    "race": 113597,
+    "id": 113598,
+    "name": "YES"
+  },
+  {
+    "race": 113597,
+    "id": 113599,
+    "name": "NO"
+  },
+  {
+    "race": 113593,
+    "id": 113594,
+    "name": "YES"
+  },
+  {
+    "race": 113593,
+    "id": 113595,
+    "name": "NO"
+  },
+  {
+    "race": 113633,
+    "id": 113634,
+    "name": "YES"
+  },
+  {
+    "race": 113633,
+    "id": 113635,
+    "name": "NO"
+  },
+  {
+    "race": 113613,
+    "id": 113614,
+    "name": "YES"
+  },
+  {
+    "race": 113613,
+    "id": 113615,
+    "name": "NO"
+  },
+  {
+    "race": 113601,
+    "id": 113602,
+    "name": "YES"
+  },
+  {
+    "race": 113601,
+    "id": 113603,
+    "name": "NO"
+  },
+  {
+    "race": 113605,
+    "id": 113606,
+    "name": "YES"
+  },
+  {
+    "race": 113605,
+    "id": 113607,
+    "name": "NO"
+  },
+  {
+    "race": 113609,
+    "id": 113610,
+    "name": "YES"
+  },
+  {
+    "race": 113609,
+    "id": 113611,
+    "name": "NO"
+  },
+  {
+    "race": 38766,
+    "id": 45747,
+    "name": "Mike Leita",
+    "party": "R"
+  },
+  {
+    "race": 38766,
+    "id": 45748,
+    "name": "Eric Geary",
+    "party": "R"
+  },
+  {
+    "race": 38767,
+    "id": 45750,
+    "name": "Debra Manjarrez",
+    "party": "R"
+  },
+  {
+    "race": 38767,
+    "id": 45749,
+    "name": "Ron Anderson",
+    "party": "R"
+  },
+  {
+    "race": 113813,
+    "id": 113814,
+    "name": "Levy - Yes"
+  },
+  {
+    "race": 113813,
+    "id": 113815,
+    "name": "Levy - No"
   }
 ]
