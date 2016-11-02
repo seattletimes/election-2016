@@ -9,17 +9,11 @@
 	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#465560;stroke-linecap:round;stroke-linejoin:round;}
 	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#465560;stroke-linejoin:round;}
 	.st4{fill:none;stroke:#465560;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x32_5_x25__k);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#CCC;}
 	.st6{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
 	.st7{font-family:'SunST-Medium';}
 	.st8{font-size:16px;}
 </style>
-<pattern  x="196.5" y="484.7" width="24.7" height="24.7" patternUnits="userSpaceOnUse" id="_x32_5_x25__k" viewBox="0 -24.7 24.7 24.7" style="overflow:visible;">
-	<g>
-		<rect x="0" y="-24.7" class="st0" width="24.7" height="24.7"/>
-		<rect x="0" y="-24.7" class="st1" width="24.7" height="24.7"/>
-	</g>
-</pattern>
 <g id="Map_base_copy_2">
 	<polyline class="st2" points="476.6,623.2 470.8,624 470.8,624 464.3,625 462.5,625.2 460.1,625.6 456.3,626 455.4,626.1
 		450.8,626.6 445.6,627.3 445.8,627.9 445.5,629.1 445.7,629.5 446.7,630.2 446.9,630.7 447.8,631.2 448.3,631.4 448.6,631.7

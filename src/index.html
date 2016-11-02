@@ -56,7 +56,9 @@
                 </div>
                 <% }) %>
               </header>
-              <savage-image class="presidency" src="./assets/electoral.svg"></savage-image>
+              <div class="map-container presidency">
+                <savage-image class="presidency" data-src="./assets/electoral.svg"></savage-image>
+              </div>
               <div class="county-data">
                 <h2>Washington votes</h2>
                 <%= t.include("_resultEntry.html", { race: election.all[1], cat: "President" }) %>

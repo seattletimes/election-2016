@@ -17,7 +17,7 @@ var zoomDistricts = [1,11,21,23,25,26,27,28,29,30,32,33,34,36,37,38,41,43,44,45,
     <span class="map-icon">Map
       <savage-image
         class="us district"
-        src="assets/congress.svg"
+        data-src="assets/congress.svg"
         data-district="<%= race.locator %>"></savage-image>
     </span>
   <% } else if (cat == "Legislative") { %>
@@ -26,9 +26,9 @@ var zoomDistricts = [1,11,21,23,25,26,27,28,29,30,32,33,34,36,37,38,41,43,44,45,
         class="state district" <%
         var district = race.locator;
         if (zoomDistricts.indexOf(district) > -1) { %>
-        src="assets/zoomed.svg"
+        data-src="assets/zoomed.svg"
         <% } else { %>
-        src="assets/legislativedists.svg"
+        data-src="assets/legislativedists.svg"
         <% } %>
         data-district="<%= district %>"></savage-image>
     </span>
@@ -70,7 +70,7 @@ var zoomDistricts = [1,11,21,23,25,26,27,28,29,30,32,33,34,36,37,38,41,43,44,45,
 
   <% if (race.map) { %>
   <div class="map-container">
-    <savage-image class="county" src="assets/countyMap.svg" data-race="<%= race.id %>"></savage-image>
+    <savage-image class="county" data-src="assets/countyMap.svg" data-race="<%= race.id %>"></savage-image>
   </div>
   <% } %>
 </div>

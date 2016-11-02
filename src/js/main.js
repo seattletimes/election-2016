@@ -21,14 +21,12 @@ var ready = function() {
         if (!dot) return console.log("Missing dot", result);
         savage(dot).addClass(result.party == "D" ? "dem" : "rep");
       }
-    })
+    });
   }
 };
-if (presidential.readyState == 4) {
-  ready();
-} else {
-  presidential.addEventListener("load", ready);
-}
+
+presidential.setAttribute("src", presidential.getAttribute("data-src"));
+presidential.addEventListener("load", ready);
 
 //enable county maps
 $("savage-image.county").forEach(function(map, i) {
@@ -99,11 +97,8 @@ $("savage-image.county").forEach(function(map, i) {
     });
   }
 
-  if (map.readyState == 4) {
-    ready();
-  } else {
-    map.addEventListener("load", ready);
-  }
+  map.setAttribute("src", map.getAttribute("data-src"));
+  map.addEventListener("load", ready);
 
 });
 
@@ -117,11 +112,9 @@ $("savage-image.district").forEach(function(map, i) {
     });
   }
 
-  if (map.readyState == 4) {
-    ready();
-  } else {
-    map.addEventListener("load", ready);
-  }
+  map.setAttribute("src", map.getAttribute("data-src"));
+  map.addEventListener("load", ready);
+
 });
 
 var onTabClick = function(e) {
