@@ -64,9 +64,14 @@ $("savage-image.county").forEach(function(map, i) {
     if (x > bounds.width >> 1) {
       x -= tooltip.offsetWidth;
     }
+    if (y > bounds.height >> 1) {
+      y -= tooltip.offsetHeight + 10;
+    } else {
+      y += 20;
+    }
 
     tooltip.style.left = `${x}px`;
-    tooltip.style.top = `${y + 20}px`;
+    tooltip.style.top = `${y}px`;
 
 
   };
@@ -93,7 +98,7 @@ $("savage-image.county").forEach(function(map, i) {
       }
 
       path.addEventListener("mousemove", hover);
-      path.addEventListener("mouseexit", exit);
+      path.addEventListener("mouseleave", exit);
     });
   }
 
