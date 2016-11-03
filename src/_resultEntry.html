@@ -18,7 +18,9 @@ var zoomDistricts = [1,11,21,23,25,26,27,28,29,30,32,33,34,36,37,38,41,43,44,45,
       <savage-image
         class="us district"
         data-src="assets/congress.svg"
-        data-district="<%= race.locator %>"></savage-image>
+        data-district="<%= race.locator %>"
+        role="img"
+        aria-label="Locator map for this district"></savage-image>
     </span>
   <% } %>
 
@@ -58,7 +60,7 @@ var zoomDistricts = [1,11,21,23,25,26,27,28,29,30,32,33,34,36,37,38,41,43,44,45,
 
   <% if (race.map) { %>
   <div class="map-container county">
-    <savage-image class="county" data-src="assets/countyMap.svg" data-race="<%= race.id %>"></savage-image>
+    <savage-image class="county" data-src="assets/countyMap.svg" data-race="<%= race.id %>" role="img" aria-label="Map of results by county"></savage-image>
   </div>
   <% } %>
 </div>

@@ -36,7 +36,7 @@
             <div class="vs-container">
               <%= t.include("_presidentHeader.html") %>
               <div class="map-container presidency">
-                <savage-image class="presidency" data-src="./assets/electoral.svg"></savage-image>
+                <savage-image class="presidency" data-src="./assets/electoral.svg" role="img" aria-label="Map of electoral college results"></savage-image>
               </div>
               <div class="county-data">
                 <h2>Washington votes</h2>
@@ -76,7 +76,9 @@
                       <% } else { %>
                       data-src="assets/legislativedists.svg"
                       <% } %>
-                      data-district="<%= district %>"></savage-image>
+                      data-district="<%= district %>"
+                      role="img"
+                      aria-label="Locator map for this district"></savage-image>
                   </span>
                   <% } %>
                 </h2><%

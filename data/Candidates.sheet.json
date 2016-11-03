@@ -847,7 +847,7 @@
     "race": 257,
     "id": 44172,
     "name": "Michael Scott",
-    "party": "(Prefers Libertarian Party)",
+    "party": "L",
     "incumbent": "",
     "filter": ""
   },
@@ -879,7 +879,7 @@
     "race": 259,
     "id": 44236,
     "name": "Dennis Price",
-    "party": "(Prefers Libertarian Party)",
+    "party": "L",
     "incumbent": "",
     "filter": ""
   },
@@ -991,7 +991,7 @@
     "race": 268,
     "id": 45400,
     "name": "Amanda Richards",
-    "party": "(Prefers Independent GOP Party)",
+    "party": "Independent Republican",
     "incumbent": "",
     "filter": ""
   },
