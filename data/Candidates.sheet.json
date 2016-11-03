@@ -1103,7 +1103,7 @@
     "race": 277,
     "id": 42382,
     "name": "Tim Probst",
-    "party": "(Prefers Independent Dem. Party)",
+    "party": "Independent Democrat",
     "incumbent": "",
     "filter": ""
   },
@@ -1119,7 +1119,7 @@
     "race": 278,
     "id": 43293,
     "name": "Sam Kim",
-    "party": "(Prefers Independent Dem Party)",
+    "party": "Independent Democrat",
     "incumbent": "",
     "filter": ""
   },
@@ -1183,7 +1183,7 @@
     "race": 282,
     "id": 40958,
     "name": "Kathy Gillespie",
-    "party": "(Prefers Independent Dem. Party)",
+    "party": "Independent Democrat",
     "incumbent": "",
     "filter": ""
   },
@@ -1199,7 +1199,7 @@
     "race": 283,
     "id": 44477,
     "name": "Sue Kuehl Pederson",
-    "party": "(Prefers Independent GOP Party)",
+    "party": "Independent Republican",
     "incumbent": "",
     "filter": ""
   },
@@ -1247,7 +1247,7 @@
     "race": 287,
     "id": 42676,
     "name": "Richard DeBolt",
-    "party": "(Prefers GOP Party)",
+    "party": "R",
     "incumbent": "x",
     "filter": ""
   },
@@ -1271,7 +1271,7 @@
     "race": 290,
     "id": 41974,
     "name": "Alex Hels",
-    "party": "(Prefers Libertarian Party)",
+    "party": "L",
     "incumbent": "",
     "filter": ""
   },
@@ -1303,7 +1303,7 @@
     "race": 292,
     "id": 43024,
     "name": "Steve Owens",
-    "party": "(States No Party Preference)",
+    "party": "(none)",
     "incumbent": "",
     "filter": ""
   },
@@ -1375,7 +1375,7 @@
     "race": 298,
     "id": 42774,
     "name": "Danille Turissini",
-    "party": "(Prefers Independent GOP Party)",
+    "party": "Independent Republican",
     "incumbent": "",
     "filter": ""
   },
@@ -1407,7 +1407,7 @@
     "race": 300,
     "id": 45477,
     "name": "John D. Alger",
-    "party": "(Prefers GOP/Independent Party)",
+    "party": "R/Independent",
     "incumbent": "",
     "filter": ""
   },
@@ -1471,7 +1471,7 @@
     "race": 305,
     "id": 43051,
     "name": "Larry Seaquist",
-    "party": "(Prefers Indep&#39;t Democrat Party)",
+    "party": "Independent Democrat",
     "incumbent": "",
     "filter": ""
   },
