@@ -145,7 +145,7 @@
     "race": 1,
     "id": 45719,
     "name": "Jill Stein",
-    "party": "Green",
+    "party": "G",
     "incumbent": "",
     "filter": ""
   },
@@ -153,7 +153,7 @@
     "race": 1,
     "id": 45728,
     "name": "Gary Johnson",
-    "party": "Libertarian",
+    "party": "L",
     "incumbent": "",
     "filter": ""
   },
@@ -408,7 +408,7 @@
   {
     "race": 17,
     "id": 40901,
-    "name": "Pat (Patrice) McCarthy",
+    "name": "Pat McCarthy",
     "party": "D",
     "incumbent": "",
     "filter": ""
@@ -425,7 +425,7 @@
     "race": 18,
     "id": 44927,
     "name": "Joshua B. Trumbull",
-    "party": "(Prefers Libertarian Party)",
+    "party": "L",
     "incumbent": "",
     "filter": ""
   },
@@ -551,7 +551,7 @@
     "race": 232,
     "id": 40859,
     "name": "Amy Pivetta Hoffman",
-    "party": "(Prefers Independent Dem. Party)",
+    "party": "Independent Democrat",
     "incumbent": "",
     "filter": ""
   },

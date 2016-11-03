@@ -122,8 +122,8 @@
   },
   {
     "id": 113817,
-    "name": "Proposition 1",
-    "description": "Sound Transit 3",
+    "name": "Sound Transit 3",
+    "description": "Proposition 1 authorizes $54 billiom in light rail and other transit expansion.",
     "category": "Local",
     "subcategory": "King",
     "featured": "x"
@@ -131,7 +131,7 @@
   {
     "id": 113485,
     "name": "Initiative 1433 ",
-    "description": "Raises minimum wage, adds paid sick leave",
+    "description": "Raises state minimum wage, requires paid sick leave.",
     "category": "Statewide",
     "featured": "x",
     "map": "x"
@@ -139,24 +139,27 @@
   {
     "id": 113525,
     "name": "Initiative 1464 ",
-    "description": "concerns campaign finance laws and lobbyists.",
+    "description": "Publicly funded campaign financing, lobbying restrictions",
     "category": "Statewide"
   },
   {
     "id": 113489,
-    "name": "Initiative Measure No. 1491 concerns court-issued extreme risk protection orders temporarily preventing access to firearms.",
+    "name": "Initiative 1491 ",
+    "description": "Allows court-issued extreme risk protection orders temporarily preventing access to firearms.",
     "category": "Statewide",
     "featured": "x",
     "map": "x"
   },
   {
     "id": 113497,
-    "name": "Initiative Measure No. 1501 concerns seniors and vulnerable individuals.",
+    "name": "Initiative 1501 ",
+    "description": "Exempts certain information about in-home caregivers and clients from disclosure.",
     "category": "Statewide"
   },
   {
     "id": 113429,
-    "name": "Initiative Measure No. 732 concerns taxes.",
+    "name": "Initiative 732 ",
+    "description": "Places a tax on carbon, reduces sales and some business taxes",
     "category": "Statewide",
     "featured": "x",
     "map": "x"

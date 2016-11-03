@@ -160,6 +160,17 @@ module.exports = function(grunt) {
       // console.log(waPresidential);
       waPresidential.local = waPresidential.results;
 
+      //sort all results in order of descending vote count
+      var voteSort = (a, b) => b.votes - a.votes;
+      for (var k in races) {
+        races[k].results.sort(voteSort);
+      }
+
+      ap.national.sort(voteSort);
+      for (var k in ap.electoral) {
+        ap.electoral[k].results.sort(voteSort);
+      }
+
       //Set up widget races
       var widget = require("../data/Widget.sheet.json").filter(r => !r.filter).map(function(row) {
         var original = races[row.race];

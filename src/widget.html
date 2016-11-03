@@ -11,21 +11,11 @@
 
     <responsive-child class="election-widget">
 
-      <div class="races">
-        <% var r = election.ap.national %>
+      <img class="banner" src="./assets/star-banner.svg">
 
-        <div class="race">
-          <div class="meta">
-            <h2>President</h2>
-          </div>
-          <ul class="results">
-            <% r.forEach(function(result) { %>
-            <li>
-              <span class="name"><%= result.candidate %></span> -
-              <%= t.formatNumber(result.votes) %> (<%= result.percent.toFixed(1) %>%)
-            <% }) %>
-          </ul>
-        </div>
+      <%= t.include("_presidentHeader.html") %>
+
+      <div class="races">
 
         <% election.widget.forEach(function(race) { %>
         <div class="race">
@@ -41,8 +31,9 @@
               <% if (race.called && race.called == result.candidate) { %>
               <span class="checkmark">&#10004;</span>
               <% } %>
-              <span class="name"><%= result.candidate %></span> -
-              <%= t.formatNumber(result.votes) %> (<%= result.percent %>%)
+              <span class="name"><%= result.candidate %></span>
+              <span class="spacer"></span>
+              <span class="percent"><%= result.percent %>%</span>
           <% }) %>
           </ul>
         </div>

@@ -16,11 +16,11 @@ savage-image {
     }
 
     .rep {
-      fill: @r-red;
+      fill: @republican;
     }
 
     .dem {
-      fill: @d-blue;
+      fill: @democrat;
     }
 
     .yes {
@@ -77,6 +77,7 @@ savage-image {
   display: none;
   &.show { display: block }
   z-index: 999;
+  width: 50%;
 
   .county {
     text-transform: uppercase;
@@ -87,5 +88,28 @@ savage-image {
     margin: 0;
     padding: 0 8px;
     list-style-type: none;
+
+    li {
+      .display-flex();
+      .justify-content(space-between);
+      .align-items(flex-end);
+
+      @media @mobile {
+        display: block;
+      }
+    }
+
+    .candidate {
+      font-weight: bold;
+
+      @media @mobile {
+        display: block;
+      }
+    }
+
+    .spacer {
+      .flex(1 0 10px);
+      border-bottom: 1px dotted @df-light-gray;
+    }
   }
 }

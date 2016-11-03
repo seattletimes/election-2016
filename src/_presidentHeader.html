@@ -1,4 +1,4 @@
-<header>
+<header class="vs">
   <% ["Clinton", "Trump"].forEach(function(candidate) { %>
   <div class="<%= candidate.toLowerCase() %> half">
     <% var result = election.ap.byCandidate[candidate].national || { percent: 0 }; %>

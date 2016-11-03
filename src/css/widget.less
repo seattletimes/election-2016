@@ -17,6 +17,25 @@
   margin: auto;
 }
 
+.header {
+  overflow: hidden;
+}
+
+.banner {
+  width: 320px;
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  margin: 0;
+  border-bottom: 1px solid black;
+  padding: 0 20px 4px 0;
+  font-size: 20px;
+  font-weight: normal;
+  float: left;
+}
+
 .group {
   display: none;
 
@@ -71,9 +90,8 @@
   }
 
   .race {
-    padding: 16px 0;
-    border-bottom: 1px dotted @df-light-gray;
-    .flex(0 0 33%);
+    padding: 16px 16px 16px 0;
+    .flex(0 0 25%);
 
     @media @tablet {
       .display-flex();
@@ -92,7 +110,7 @@
     }
 
     h2 {
-      font-size: 20px;
+      font-size: 16px;
       margin: 0;
       font-weight: normal;
     }
@@ -106,6 +124,15 @@
       margin: 0;
       padding: 0;
       list-style-type: none;
+
+      li {
+        .display-flex();
+      }
+    }
+
+    .spacer {
+      border-bottom: 1px dotted @df-light-gray;
+      .flex(1 1 0%);
     }
 
     .name {
@@ -114,6 +141,10 @@
 
     .checkmark {
       color: @df-orange;
+    }
+
+    .votes {
+      padding-right: 8px;
     }
   }
 }

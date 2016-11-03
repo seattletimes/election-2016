@@ -5,8 +5,9 @@
     "filter": "this race is manually added"
   },
   {
-    "race": 13,
-    "rename": "Governor"
+    "race": 113817,
+    "rename": "Sound Transit 3",
+    "description": "Authorizes $54 billion in funding for transit improvements"
   },
   {
     "race": 113429,
@@ -15,7 +16,8 @@
   },
   {
     "race": 113445,
-    "rename": "Initiative 735"
+    "rename": "Initiative 735",
+    "filter": "x"
   },
   {
     "race": 113485,
@@ -23,16 +25,15 @@
   },
   {
     "race": 113489,
-    "rename": "Initiative Measure No. 1491"
-  },
-  {
-    "race": 11,
-    "rename": "Congressional District 7 - U.S. Representative",
+    "rename": "Initiative 1491",
     "filter": "x"
   },
   {
-    "race": 113817,
-    "rename": "Sound Transit 3",
-    "description": "Authorizes $54 billion in funding for transit improvements"
+    "race": 13,
+    "rename": "Governor"
+  },
+  {
+    "race": 11,
+    "rename": "District 7 - U.S. Representative"
   }
 ]

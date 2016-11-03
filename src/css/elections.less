@@ -160,7 +160,7 @@
 
     .bar {
       height: 20px;
-      background: @np-yellow;
+      background: @i-gray;
       transition: width 1s ease-in-out .5s;
       position: relative;
 
@@ -183,15 +183,23 @@
       }
 
       &.R {
-        background: @r-red;
+        background: @republican;
       }
 
       &.D {
-        background: @d-blue;
+        background: @democrat;
       }
 
-      &.I, &.NA, &.L, &.Centralist, &.Socialist, &.Non-partisan {
-        background: @i-gray;
+      &.L {
+        background: @libertarian;
+      }
+
+      &.G {
+        background: @g-green;
+      }
+
+      &.I, &.NA, &.Centralist, &.Socialist, &.Non-partisan {
+        background: @np-yellow;
       }
     }
   }
