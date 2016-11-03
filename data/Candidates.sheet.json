@@ -2,4980 +2,6812 @@
   {
     "race": 113485,
     "id": 113486,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113485,
     "id": 113487,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113525,
     "id": 113526,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113525,
     "id": 113527,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113489,
     "id": 113490,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113489,
     "id": 113491,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113497,
     "id": 113498,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113497,
     "id": 113499,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113429,
     "id": 113430,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113429,
     "id": 113431,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113445,
     "id": 113446,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113445,
     "id": 113447,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113461,
     "id": 113462,
-    "name": "Repealed"
+    "name": "Repealed",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113461,
     "id": 113463,
-    "name": "Maintained"
+    "name": "Maintained",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113457,
     "id": 113458,
-    "name": "Repealed"
+    "name": "Repealed",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113457,
     "id": 113459,
-    "name": "Maintained"
+    "name": "Maintained",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113449,
     "id": 113450,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113449,
     "id": 113451,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 1,
     "id": 45726,
     "name": "Hillary Clinton",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 1,
     "id": 45724,
     "name": "Donald J. Trump",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 1,
     "id": 45719,
     "name": "Jill Stein",
-    "party": "Green"
+    "party": "Green",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 1,
     "id": 45728,
     "name": "Gary Johnson",
-    "party": "Libertarian"
+    "party": "Libertarian",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 3,
     "id": 40725,
     "name": "Patty Murray",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 3,
     "id": 41135,
     "name": "Chris Vance",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 6,
     "id": 41292,
     "name": "Suzan DelBene",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 6,
     "id": 42789,
     "name": "Robert J. Sutherland",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 8,
     "id": 42868,
     "name": "Rick Larsen",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 8,
     "id": 41685,
     "name": "Marc Hennemann",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 5,
     "id": 42016,
     "name": "Jaime Herrera Beutler",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 5,
     "id": 45356,
     "name": "Jim Moeller",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 7,
     "id": 41539,
     "name": "Dan Newhouse",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 7,
     "id": 44073,
     "name": "Clint Didier",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 4,
     "id": 41382,
     "name": "Cathy McMorris Rodgers",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 4,
     "id": 41920,
     "name": "Joe Pakootas",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 9,
     "id": 41887,
     "name": "Derek Kilmer",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 9,
     "id": 44837,
     "name": "Todd A. Bloom",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 11,
     "id": 44111,
     "name": "Pramila Jayapal",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 11,
     "id": 44973,
     "name": "Brady Pinero Walkinshaw",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 12,
     "id": 41756,
     "name": "Dave Reichert",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 12,
     "id": 44098,
     "name": "Tony Ventrella",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 10,
     "id": 41065,
     "name": "Adam Smith",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 10,
     "id": 42859,
     "name": "Doug Basler",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 28824,
     "id": 44902,
     "name": "Denny Heck",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 28824,
     "id": 41106,
     "name": "Jim Postma",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 13,
     "id": 41381,
     "name": "Jay Inslee",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 13,
     "id": 44077,
     "name": "Bill Bryant",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 14,
     "id": 41345,
     "name": "Cyrus Habib",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 14,
     "id": 43058,
     "name": "Marty McClendon",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 15,
     "id": 42055,
     "name": "Kim Wyman",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 15,
     "id": 40993,
     "name": "Tina Podlodowski",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 16,
     "id": 42187,
     "name": "Duane Davidson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 16,
     "id": 41243,
     "name": "Michael Waite",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 17,
     "id": 41866,
     "name": "Mark Miloscia",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 17,
     "id": 40901,
     "name": "Pat (Patrice) McCarthy",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 18,
     "id": 42553,
     "name": "Bob Ferguson",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 18,
     "id": 44927,
     "name": "Joshua B. Trumbull",
-    "party": "(Prefers Libertarian Party)"
+    "party": "(Prefers Libertarian Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 19,
     "id": 43001,
     "name": "Steve McLaughlin",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 19,
     "id": 41691,
     "name": "Hilary Franz",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 20,
     "id": 41297,
-    "name": "Erin Jones"
+    "name": "Erin Jones",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 20,
     "id": 41080,
-    "name": "Chris Reykdal"
+    "name": "Chris Reykdal",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 21,
     "id": 40767,
     "name": "Mike Kreidler",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 21,
     "id": 45343,
     "name": "Richard Schrock",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 228,
     "id": 41224,
     "name": "Mindie Wirth",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 228,
     "id": 41648,
     "name": "Guy Palumbo",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 229,
     "id": 41257,
     "name": "Derek Stanford",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 229,
     "id": 40904,
     "name": "Neil Thannisch",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 230,
     "id": 45157,
     "name": "Jim Langston",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 230,
     "id": 42339,
     "name": "Shelley Kloba",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 231,
     "id": 42705,
     "name": "Randi Becker",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 231,
     "id": 45687,
     "name": "Marilyn Rasmussen",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 232,
     "id": 42310,
     "name": "Andrew Barkis",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 232,
     "id": 40859,
     "name": "Amy Pivetta Hoffman",
-    "party": "(Prefers Independent Dem. Party)"
+    "party": "(Prefers Independent Dem. Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 233,
     "id": 42667,
     "name": "JT Wilcox",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 233,
     "id": 43505,
     "name": "Derek Maynes",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 234,
     "id": 41249,
     "name": "Andy Billig",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 234,
     "id": 44499,
     "name": "James R. Apker",
-    "party": "(Prefers Libertarian Party)"
+    "party": "(Prefers Libertarian Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 235,
     "id": 40940,
     "name": "Marcus Riccelli",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 235,
     "id": 42937,
     "name": "Randy McGlenn II",
-    "party": "(Prefers Libertarian Party)"
+    "party": "(Prefers Libertarian Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 236,
     "id": 40944,
     "name": "Timm Ormsby",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 236,
     "id": 44991,
     "name": "Laura Carder",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 237,
     "id": 41535,
     "name": "Mike Padden",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 238,
     "id": 44202,
     "name": "Matt Shea",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 238,
     "id": 45572,
     "name": "Scott V. Stucker",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 239,
     "id": 44201,
     "name": "Bob McCaslin",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 240,
     "id": 42145,
     "name": "Mark Mullet",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 240,
     "id": 43137,
     "name": "Chad Magendanz",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 241,
     "id": 44242,
     "name": "Jay Rodne",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 241,
     "id": 44860,
     "name": "Jason Ritchie",
-    "party": "(Prefers Dem/Working Fmly Party)"
+    "party": "(Prefers Dem/Working Fmly Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 242,
     "id": 42133,
     "name": "Paul Graves",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 242,
     "id": 44235,
     "name": "Darcy Burner",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 244,
     "id": 40757,
     "name": "Lynnette Vehrs",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 244,
     "id": 42654,
     "name": "Mike Volz",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 245,
     "id": 43714,
     "name": "Jeff Holy",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 245,
     "id": 41755,
     "name": "Shar Lichty",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 247,
     "id": 42946,
     "name": "Shelly Short",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 248,
     "id": 42770,
     "name": "Joel Kretz",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 248,
     "id": 43133,
     "name": "Mike Foster",
-    "party": "(Prefers Libertarian Party)"
+    "party": "(Prefers Libertarian Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 251,
     "id": 42975,
     "name": "Brad Klippert",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 251,
     "id": 42037,
     "name": "Rick Jansons",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 252,
     "id": 42613,
     "name": "Larry Haler",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 252,
     "id": 43430,
     "name": "Steve Simmons",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 253,
     "id": 42675,
     "name": "Mark G. Schoesler",
-    "party": "(Prefers G.O.P Party)"
+    "party": "(Prefers G.O.P Party)",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 254,
     "id": 41047,
     "name": "Mary Dye",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 254,
     "id": 41548,
     "name": "Jennifer Goulet",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 255,
     "id": 40896,
     "name": "Joe Schmick",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 256,
     "id": 43486,
     "name": "Barbara Bailey",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 256,
     "id": 41258,
     "name": "Angie Homola",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 257,
     "id": 44184,
     "name": "Norma Smith",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 257,
     "id": 44172,
     "name": "Michael Scott",
-    "party": "(Prefers Libertarian Party)"
+    "party": "(Prefers Libertarian Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 258,
     "id": 43932,
     "name": "Dave Hayes",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 258,
     "id": 43948,
     "name": "Doris Brevoort",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 259,
     "id": 43516,
     "name": "Bob Hasegawa",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 259,
     "id": 44236,
     "name": "Dennis Price",
-    "party": "(Prefers Libertarian Party)"
+    "party": "(Prefers Libertarian Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 260,
     "id": 43695,
     "name": "Zack Hudgins",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 260,
     "id": 43141,
     "name": "Erin Smith Aboudara",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 261,
     "id": 43575,
     "name": "Steve Bergquist",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 262,
     "id": 40696,
     "name": "Brad Hawkins",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 262,
     "id": 42150,
     "name": "Jon Wyss",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 263,
     "id": 40892,
     "name": "Cary Condotta",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 263,
     "id": 44479,
     "name": "Dan Maher",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 264,
     "id": 40963,
     "name": "Mike Steele",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 264,
     "id": 45321,
     "name": "Jerry Paine",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 266,
     "id": 41470,
     "name": "Tom Dent",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 267,
     "id": 41339,
     "name": "Matt Manweller",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 267,
     "id": 43963,
     "name": "Jordan Webb",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 268,
     "id": 42851,
     "name": "Curtis King",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 268,
     "id": 45400,
     "name": "Amanda Richards",
-    "party": "(Prefers Independent GOP Party)"
+    "party": "(Prefers Independent GOP Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 269,
     "id": 41501,
     "name": "Norm Johnson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 269,
     "id": 45522,
     "name": "Susan Soto Palmer",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 270,
     "id": 41540,
     "name": "Gina McCabe",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 270,
     "id": 41276,
     "name": "John (Eric) Adams",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 272,
     "id": 42896,
     "name": "Bruce Chandler",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 273,
     "id": 42775,
     "name": "David V. Taylor",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 273,
     "id": 45320,
     "name": "AJ Cooper",
-    "party": "(Prefers Democrat Party)"
+    "party": "(Prefers Democrat Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 274,
     "id": 41825,
     "name": "Maureen Walsh",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 275,
     "id": 42178,
     "name": "Rebecca Francik",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 275,
     "id": 41060,
     "name": "William 'Bill' Jenkin",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 276,
     "id": 43088,
     "name": "Terry R. Nealey",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 276,
     "id": 43396,
     "name": "Gary Downing",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 277,
     "id": 40736,
     "name": "Lynda Wilson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 277,
     "id": 42382,
     "name": "Tim Probst",
-    "party": "(Prefers Independent Dem. Party)"
+    "party": "(Prefers Independent Dem. Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 278,
     "id": 41336,
     "name": "Vicki Kraft",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 278,
     "id": 43293,
     "name": "Sam Kim",
-    "party": "(Prefers Independent Dem Party)"
+    "party": "(Prefers Independent Dem Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 279,
     "id": 41895,
     "name": "Paul Harris",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 279,
     "id": 40984,
     "name": "Martin Hash",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 280,
     "id": 43571,
     "name": "Ann Rivers",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 280,
     "id": 40996,
     "name": "Eric K. Holt",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 281,
     "id": 41983,
     "name": "Brandon Vick",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 281,
     "id": 45438,
     "name": "Justin Oberg",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 282,
     "id": 41517,
     "name": "Liz Pike",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 282,
     "id": 40958,
     "name": "Kathy Gillespie",
-    "party": "(Prefers Independent Dem. Party)"
+    "party": "(Prefers Independent Dem. Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 283,
     "id": 41402,
     "name": "Dean Takko",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 283,
     "id": 44477,
     "name": "Sue Kuehl Pederson",
-    "party": "(Prefers Independent GOP Party)"
+    "party": "(Prefers Independent GOP Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 284,
     "id": 42206,
     "name": "Jim Walsh",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 284,
     "id": 44957,
     "name": "Teresa Purcell",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 285,
     "id": 41930,
     "name": "Brian E. Blake",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 285,
     "id": 40989,
     "name": "Jimi O'Hagan",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 286,
     "id": 41265,
     "name": "John Braun",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 287,
     "id": 42676,
     "name": "Richard DeBolt",
-    "party": "(Prefers GOP Party)"
+    "party": "(Prefers GOP Party)",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 288,
     "id": 40898,
     "name": "Ed Orcutt",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 290,
     "id": 40930,
     "name": "Strom Peterson",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 290,
     "id": 41974,
     "name": "Alex Hels",
-    "party": "(Prefers Libertarian Party)"
+    "party": "(Prefers Libertarian Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 291,
     "id": 42877,
     "name": "Lillian Ortiz-Self",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 291,
     "id": 42583,
     "name": "Jeff Scherrer",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 292,
     "id": 41767,
     "name": "Sam Hunt",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 292,
     "id": 43024,
     "name": "Steve Owens",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 293,
     "id": 42452,
     "name": "Laurie Dolan",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 293,
     "id": 45265,
     "name": "Donald Austin",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 294,
     "id": 40938,
     "name": "Beth Doglio",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 295,
     "id": 41950,
     "name": "Christine Rolfes",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 296,
     "id": 41234,
     "name": "Sherry V. Appleton",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 296,
     "id": 42387,
     "name": "Loretta Byrnes",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 297,
     "id": 41033,
     "name": "Drew Hansen",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 298,
     "id": 41014,
     "name": "Kevin Van De Wege",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 298,
     "id": 42774,
     "name": "Danille Turissini",
-    "party": "(Prefers Independent GOP Party)"
+    "party": "(Prefers Independent GOP Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 299,
     "id": 41299,
     "name": "Mike Chapman",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 299,
     "id": 44199,
     "name": "George Vrable",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 300,
     "id": 41021,
     "name": "Steve Tharinger",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 300,
     "id": 45477,
     "name": "John D. Alger",
-    "party": "(Prefers GOP/Independent Party)"
+    "party": "(Prefers GOP/Independent Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 301,
     "id": 41229,
     "name": "Hans Zeiger",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 301,
     "id": 43334,
     "name": "Karl Mecklenburg",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 302,
     "id": 41447,
     "name": "Melanie Stambaugh",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 302,
     "id": 43081,
     "name": "Jamie Smith",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 303,
     "id": 40939,
     "name": "Joyce McDonald",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 303,
     "id": 41042,
     "name": "Michelle Chatterton",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 305,
     "id": 40976,
     "name": "Jesse L. Young",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 305,
     "id": 43051,
     "name": "Larry Seaquist",
-    "party": "(Prefers Indep&#39;t Democrat Party)"
+    "party": "(Prefers Indep&#39;t Democrat Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 306,
     "id": 40844,
     "name": "Michelle Caldier",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 306,
     "id": 43442,
     "name": "Randy Spitzer",
-    "party": "(Prefers Independent Dem. Party)"
+    "party": "(Prefers Independent Dem. Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 307,
     "id": 40789,
     "name": "Jeannie Darneille",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 307,
     "id": 41225,
     "name": "Greg Taylor",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 308,
     "id": 41564,
     "name": "Laurie Jinkins",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 309,
     "id": 40856,
     "name": "Jake Fey",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 310,
     "id": 41207,
     "name": "Steve O'Ban",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 310,
     "id": 41429,
     "name": "Marisa Peloquin",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 311,
     "id": 40919,
     "name": "Richard (Dick) Muri",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 311,
     "id": 40980,
     "name": "Mari Leavitt",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 312,
     "id": 41038,
     "name": "Christine Kilduff",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 312,
     "id": 40807,
     "name": "Paul Wagemann",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 314,
     "id": 40811,
     "name": "David Sawyer",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 314,
     "id": 42815,
     "name": "Rick Thomas",
-    "party": "(Prefers Independent Rep Party)"
+    "party": "(Prefers Independent Rep Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 315,
     "id": 41010,
     "name": "Steve Kirby",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 315,
     "id": 42744,
     "name": "Jessica Garcia",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 317,
     "id": 43222,
     "name": "Mike Pellicciotti",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 317,
     "id": 41103,
     "name": "Linda Kochmar",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 318,
     "id": 41656,
     "name": "Kristine Reeves",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 318,
     "id": 41815,
     "name": "Teri Hickel",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 320,
     "id": 40852,
     "name": "Drew Stokesbary",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 320,
     "id": 41406,
     "name": "John Frostad",
-    "party": "(Prefers Libertarian Party)"
+    "party": "(Prefers Libertarian Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 321,
     "id": 41197,
     "name": "Phil Fortunato",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 321,
     "id": 41070,
     "name": "Lane Walthers",
-    "party": "(Prefers Independent Dem. Party)"
+    "party": "(Prefers Independent Dem. Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 323,
     "id": 40849,
     "name": "Cindy Ryu",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 323,
     "id": 45542,
     "name": "Alvin Rutledge",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 324,
     "id": 42384,
     "name": "Ruth Kagi",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 324,
     "id": 45310,
     "name": "David D. Schirle",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 326,
     "id": 43553,
     "name": "Tina L. Orwall",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 326,
     "id": 43667,
     "name": "John Potter",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 327,
     "id": 42126,
     "name": "Mia Su-Ling Gregerson",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 327,
     "id": 43170,
     "name": "Pamela Pollock",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 329,
     "id": 42111,
     "name": "Eileen L. Cody",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 329,
     "id": 45704,
     "name": "Matthew Benson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 330,
     "id": 42122,
     "name": "Joe Fitzgibbon",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 330,
     "id": 45519,
     "name": "Andrew Pilloud",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 332,
     "id": 40862,
     "name": "Dan Griffey",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 332,
     "id": 41041,
     "name": "Irene Bowling",
-    "party": "(Prefers Independent Dem. Party)"
+    "party": "(Prefers Independent Dem. Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 333,
     "id": 40867,
     "name": "Drew C. MacEwen",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 333,
     "id": 42701,
     "name": "Craig Patti",
-    "party": "(Prefers Independent Dem. Party)"
+    "party": "(Prefers Independent Dem. Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 334,
     "id": 43179,
     "name": "Reuven Carlyle",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 335,
     "id": 42138,
     "name": "Noel Christina Frame",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 336,
     "id": 43664,
     "name": "Gael Tarleton",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 338,
     "id": 42131,
     "name": "Sharon Tomiko Santos",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 338,
     "id": 43162,
     "name": "John Dickinson",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 339,
     "id": 43197,
     "name": "Eric Pettigrew",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 339,
     "id": 45708,
     "name": "Tamra Smilanich",
-    "party": "(Prefers Non-Partisan Party)"
+    "party": "(Prefers Non-Partisan Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 341,
     "id": 42350,
     "name": "June Robinson",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 342,
     "id": 41725,
     "name": "Mike Sells",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 342,
     "id": 44192,
     "name": "Bert Johnson",
-    "party": "(Prefers Independent Party)"
+    "party": "(Prefers Independent Party)",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 343,
     "id": 41161,
     "name": "Kirk Pearson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 344,
     "id": 43865,
     "name": "Dan Kristiansen",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 344,
     "id": 43535,
     "name": "Linda M. Wright",
-    "party": "(Prefers Democrat Party)"
+    "party": "(Prefers Democrat Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 345,
     "id": 42275,
     "name": "John Koster",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 345,
     "id": 42358,
     "name": "Ronda Metcalf",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 346,
     "id": 43859,
     "name": "Kevin Ranker",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 346,
     "id": 45567,
     "name": "Daniel R. Miller",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 347,
     "id": 40703,
     "name": "Kristine Lytton",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 348,
     "id": 43495,
     "name": "Jeff Morris",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 349,
     "id": 43167,
     "name": "Lisa Wellman",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 349,
     "id": 42127,
     "name": "Steve Litzow",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 350,
     "id": 43175,
     "name": "Tana Senn",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 350,
     "id": 45503,
     "name": "John Pass",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 351,
     "id": 43579,
     "name": "Judy Clibborn",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 351,
     "id": 45709,
     "name": "Michael Appleby",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 353,
     "id": 40880,
     "name": "Luanne Van Werven",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 353,
     "id": 45028,
     "name": "Sharlaine LaClair",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 354,
     "id": 42330,
     "name": "Vincent Buys",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 354,
     "id": 45096,
     "name": "Tracy Atwood",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 356,
     "id": 44101,
     "name": "Nicole Macri",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 356,
     "id": 42110,
     "name": "Dan Shih",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 357,
     "id": 43144,
     "name": "Frank Chopp",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 359,
     "id": 41305,
     "name": "John Lovick",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 359,
     "id": 41360,
     "name": "Janice Huxford",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 360,
     "id": 41396,
     "name": "Mark Harmsworth",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 360,
     "id": 44513,
     "name": "Katrina Ondracek",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 362,
     "id": 43517,
     "name": "Roger Goodman",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 362,
     "id": 43182,
     "name": "Ramiro Valderrama",
-    "party": "(Prefers GOP Party)"
+    "party": "(Prefers GOP Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 363,
     "id": 43190,
     "name": "Larry Springer",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 365,
     "id": 42118,
     "name": "Gerry Pollet",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 365,
     "id": 43691,
     "name": "Stephanie Heart Viskovich",
-    "party": "(Prefers Libertarian Party)"
+    "party": "(Prefers Libertarian Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 366,
     "id": 43155,
     "name": "Jessyn Farrell",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 368,
     "id": 44253,
     "name": "Mark Hargrove",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 368,
     "id": 44227,
     "name": "Brooke Valentine",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 369,
     "id": 43191,
     "name": "Pat Sullivan",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 369,
     "id": 43653,
     "name": "Barry Knowles",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 371,
     "id": 42137,
     "name": "Patty Kuderer",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 371,
     "id": 44866,
     "name": "Michelle Darnell",
-    "party": "(Prefers Libertarian Party)"
+    "party": "(Prefers Libertarian Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 372,
     "id": 43559,
     "name": "Joan McBride",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 372,
     "id": 43198,
     "name": "Benjamin Judah Phelps",
-    "party": "(Prefers Libertarian Party)"
+    "party": "(Prefers Libertarian Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 373,
     "id": 44984,
     "name": "Annette Cleveland",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 373,
     "id": 45685,
     "name": "Lewis Gerhardt",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 374,
     "id": 41889,
     "name": "Sharon Wylie",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 374,
     "id": 43195,
     "name": "Kaitlyn Beck",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 375,
     "id": 41431,
     "name": "Monica Jurado Stonier",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 375,
     "id": 41884,
     "name": "Alishia Topper",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 22,
     "id": 40843,
-    "name": "Mary Yu"
+    "name": "Mary Yu",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 22,
     "id": 44223,
-    "name": "David DeWolf"
+    "name": "David DeWolf",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 26,
     "id": 40796,
-    "name": "Barbara Madsen"
+    "name": "Barbara Madsen",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 26,
     "id": 43647,
-    "name": "Greg Zempel"
+    "name": "Greg Zempel",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 27,
     "id": 41551,
-    "name": "Charles (Charlie) Wiggins"
+    "name": "Charles (Charlie) Wiggins",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 27,
     "id": 42426,
-    "name": "Dave Larson"
+    "name": "Dave Larson",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 31,
     "id": 43570,
-    "name": "Michael J. Trickey"
+    "name": "Michael J. Trickey",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 38,
     "id": 40997,
-    "name": "Steve Dwyer"
+    "name": "Steve Dwyer",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 41,
     "id": 41630,
-    "name": "Brad Maxa"
+    "name": "Brad Maxa",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 47,
     "id": 43168,
-    "name": "Jill M. Johanson"
+    "name": "Jill M. Johanson",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 50,
     "id": 40704,
-    "name": "George Fearing"
+    "name": "George Fearing",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 50,
     "id": 44508,
-    "name": "Patrick McBurney"
+    "name": "Patrick McBurney",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 51,
     "id": 41124,
-    "name": "Rebecca Pennell"
+    "name": "Rebecca Pennell",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 65,
     "id": 41142,
-    "name": "Steve Dixon"
+    "name": "Steve Dixon",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 53,
     "id": 41669,
-    "name": "Scott D. Gallina"
+    "name": "Scott D. Gallina",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 54,
     "id": 40959,
-    "name": "Bruce A. Spanner"
+    "name": "Bruce A. Spanner",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 55,
     "id": 40872,
-    "name": "Joe Burrowes"
+    "name": "Joe Burrowes",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 55,
     "id": 42077,
-    "name": "Sam Swanberg"
+    "name": "Sam Swanberg",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 56,
     "id": 40701,
-    "name": "Alexander Carl Ekstrom"
+    "name": "Alexander Carl Ekstrom",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 56,
     "id": 44812,
-    "name": "Alicia Marie Berry"
+    "name": "Alicia Marie Berry",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 57,
     "id": 40700,
-    "name": "Cameron Mitchell"
+    "name": "Cameron Mitchell",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 58,
     "id": 40699,
-    "name": "Vic L. VanderSchoor"
+    "name": "Vic L. VanderSchoor",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 376,
     "id": 40698,
-    "name": "Carrie Runge"
+    "name": "Carrie Runge",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39812,
     "id": 40697,
-    "name": "Jackie Shea Brown"
+    "name": "Jackie Shea Brown",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 66,
     "id": 40982,
-    "name": "Lesley A. Allan"
+    "name": "Lesley A. Allan",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 67,
     "id": 40818,
-    "name": "T.W. (Chip) Small"
+    "name": "T.W. (Chip) Small",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 142,
     "id": 41017,
-    "name": "Alicia H. Nakata"
+    "name": "Alicia H. Nakata",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 68,
     "id": 41328,
-    "name": "Erik Rohrer"
+    "name": "Erik Rohrer",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 69,
     "id": 40786,
-    "name": "Brian Paul Coughenour"
+    "name": "Brian Paul Coughenour",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 69,
     "id": 43089,
-    "name": "Dave Neupert"
+    "name": "Dave Neupert",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 6195,
     "id": 41020,
-    "name": "Christopher Melly"
+    "name": "Christopher Melly",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 78,
     "id": 44445,
-    "name": "Joshua J. Baldwin"
+    "name": "Joshua J. Baldwin",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 78,
     "id": 42229,
-    "name": "Gary B. Bashor"
+    "name": "Gary B. Bashor",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 82,
     "id": 41705,
-    "name": "John Hotchkiss"
+    "name": "John Hotchkiss",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 59,
     "id": 43823,
-    "name": "Patrick A. Monasmith"
+    "name": "Patrick A. Monasmith",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 59,
     "id": 44066,
-    "name": "C. Olivia Irwin"
+    "name": "C. Olivia Irwin",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 60,
     "id": 41344,
-    "name": "Jessica (Taylor) Reeves"
+    "name": "Jessica (Taylor) Reeves",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 60,
     "id": 43907,
-    "name": "Terry L. Williams"
+    "name": "Terry L. Williams",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 83,
     "id": 40738,
-    "name": "David Estudillo"
+    "name": "David Estudillo",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 83,
     "id": 41454,
-    "name": "Nick Wallace"
+    "name": "Nick Wallace",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 84,
     "id": 40754,
-    "name": "John D. Knodell"
+    "name": "John D. Knodell",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 85,
     "id": 40756,
-    "name": "John Antosz"
+    "name": "John Antosz",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 86,
     "id": 41260,
-    "name": "Stephen E. Brown"
+    "name": "Stephen E. Brown",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 87,
     "id": 40741,
-    "name": "David L. Edwards"
+    "name": "David L. Edwards",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 88,
     "id": 40751,
-    "name": "Mark McCauley"
+    "name": "Mark McCauley",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 9219,
     "id": 41376,
-    "name": "Alan R. Hancock"
+    "name": "Alan R. Hancock",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9220,
     "id": 41368,
-    "name": "Vickie I. Churchill"
+    "name": "Vickie I. Churchill",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 89,
     "id": 41433,
-    "name": "Keith C. Harper"
+    "name": "Keith C. Harper",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 127,
     "id": 43600,
-    "name": "Nicole Gaines Phelps"
+    "name": "Nicole Gaines Phelps",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 127,
     "id": 44864,
-    "name": "David Greenspan"
+    "name": "David Greenspan",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 139,
     "id": 43591,
-    "name": "David Keenan"
+    "name": "David Keenan",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 139,
     "id": 44853,
-    "name": "John H. O'Rourke"
+    "name": "John H. O'Rourke",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 145,
     "id": 42902,
-    "name": "Marc S. Stern"
+    "name": "Marc S. Stern",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 145,
     "id": 43196,
-    "name": "Helen Halpert"
+    "name": "Helen Halpert",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 158,
     "id": 43200,
-    "name": "Cathy Moore"
+    "name": "Cathy Moore",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 158,
     "id": 43569,
-    "name": "Eric Newman"
+    "name": "Eric Newman",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 7738,
     "id": 42762,
-    "name": "Anthony Gipe"
+    "name": "Anthony Gipe",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7738,
     "id": 43163,
-    "name": "Kristin Richardson"
+    "name": "Kristin Richardson",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10104,
     "id": 42897,
-    "name": "Mariane Spearman"
+    "name": "Mariane Spearman",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 10104,
     "id": 45703,
-    "name": "Thomas Cline"
+    "name": "Thomas Cline",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 94,
     "id": 41237,
-    "name": "Dale A. Magneson"
+    "name": "Dale A. Magneson",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 94,
     "id": 40734,
-    "name": "Jeffrey P. Bassett"
+    "name": "Jeffrey P. Bassett",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 97,
     "id": 45548,
-    "name": "Candace Hooper"
+    "name": "Candace Hooper",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 97,
     "id": 44963,
-    "name": "Chris Herion"
+    "name": "Chris Herion",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 377,
     "id": 41281,
-    "name": "Scott R. Sparks"
+    "name": "Scott R. Sparks",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 63,
     "id": 41126,
-    "name": "Randall Krog"
+    "name": "Randall Krog",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 98,
     "id": 40722,
-    "name": "Andrew Toynbee"
+    "name": "Andrew Toynbee",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 99,
     "id": 43547,
-    "name": "James W. Lawler"
+    "name": "James W. Lawler",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 100,
     "id": 40729,
-    "name": "Joely O'Rourke"
+    "name": "Joely O'Rourke",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 100,
     "id": 43669,
-    "name": "Katherine Gulmert"
+    "name": "Katherine Gulmert",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 101,
     "id": 41024,
-    "name": "John F. Strohmaier"
+    "name": "John F. Strohmaier",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 102,
     "id": 40775,
-    "name": "Amber Louise Finlay"
+    "name": "Amber Louise Finlay",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 103,
     "id": 40769,
-    "name": "Toni A Sheldon"
+    "name": "Toni A Sheldon",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 39665,
     "id": 41622,
-    "name": "Daniel L. Goodell"
+    "name": "Daniel L. Goodell",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 104,
     "id": 41239,
-    "name": "Henry (Hank) Rawson"
+    "name": "Henry (Hank) Rawson",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 28820,
     "id": 40779,
-    "name": "Chris Culp"
+    "name": "Chris Culp",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 64,
     "id": 42379,
-    "name": "Douglas E. Goelz"
+    "name": "Douglas E. Goelz",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 64,
     "id": 42647,
-    "name": "Michael S. Turner"
+    "name": "Michael S. Turner",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 167,
     "id": 41245,
-    "name": "Timothy L. Ashcraft"
+    "name": "Timothy L. Ashcraft",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 167,
     "id": 40791,
-    "name": "Katherine M. Stolz"
+    "name": "Katherine M. Stolz",
+    "incumbent": "x",
+    "filter": ""
   },
   {
     "race": 170,
     "id": 42207,
-    "name": "Dominique L. Jinhong"
+    "name": "Dominique L. Jinhong",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 170,
     "id": 40925,
-    "name": "Shelly K. Speir"
+    "name": "Shelly K. Speir",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 173,
     "id": 42172,
-    "name": "Grant Blinn"
+    "name": "Grant Blinn",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 173,
     "id": 40829,
-    "name": "Dwayne L. Christopher"
+    "name": "Dwayne L. Christopher",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 182,
     "id": 40759,
-    "name": "Karena Kirkendoll"
+    "name": "Karena Kirkendoll",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 182,
     "id": 41043,
-    "name": "Tom Quinlan"
+    "name": "Tom Quinlan",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 9204,
     "id": 42959,
-    "name": "Donald E. Eaton"
+    "name": "Donald E. Eaton",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 107,
     "id": 41079,
-    "name": "Laura Riquelme"
+    "name": "Laura Riquelme",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 107,
     "id": 41157,
-    "name": "David A. Svaren"
+    "name": "David A. Svaren",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 189,
     "id": 45622,
-    "name": "Cindy Larsen"
+    "name": "Cindy Larsen",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 189,
     "id": 45688,
-    "name": "Rico Tessandore"
+    "name": "Rico Tessandore",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 210,
     "id": 40902,
-    "name": "Linda Tompkins"
+    "name": "Linda Tompkins",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 210,
     "id": 45456,
-    "name": "Ward Andrews"
+    "name": "Ward Andrews",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 211,
     "id": 41679,
-    "name": "Greg Sypolt"
+    "name": "Greg Sypolt",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 211,
     "id": 45366,
-    "name": "Tim Fennessy"
+    "name": "Tim Fennessy",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 213,
     "id": 40733,
-    "name": "Chris Lanese"
+    "name": "Chris Lanese",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 213,
     "id": 44140,
-    "name": "Laura M. Murphy"
+    "name": "Laura M. Murphy",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 219,
     "id": 40752,
-    "name": "John C. Skinder"
+    "name": "John C. Skinder",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 219,
     "id": 45526,
-    "name": "Jim Foley"
+    "name": "Jim Foley",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 108,
     "id": 40948,
-    "name": "John W. Lohrmann"
+    "name": "John W. Lohrmann",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 109,
     "id": 40906,
-    "name": "M. Scott Wolfram"
+    "name": "M. Scott Wolfram",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 113,
     "id": 40784,
-    "name": "Gary J. Libey"
+    "name": "Gary J. Libey",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 222,
     "id": 42905,
-    "name": "Douglas L. Federspiel"
+    "name": "Douglas L. Federspiel",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 222,
     "id": 43665,
-    "name": "Alex Newhouse"
+    "name": "Alex Newhouse",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 255,
     "id": 45761,
     "name": "Write-In: Aaron G. Eskue",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": ""
   },
   {
     "race": 9221,
     "id": 41153,
     "name": "John N. Marshall",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9221,
     "id": 45734,
     "name": "John W. Hunt",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9222,
     "id": 41227,
     "name": "Roger L. Hartwig",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9222,
     "id": 44525,
     "name": "Kenneth Johnson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9230,
     "id": 41198,
     "name": "Dale J. Wagner",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113985,
     "id": 113986,
-    "name": "Levy, Yes"
+    "name": "Levy, Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113985,
     "id": 113987,
-    "name": "Levy, No"
+    "name": "Levy, No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113981,
     "id": 113982,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113981,
     "id": 113983,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113973,
     "id": 113974,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113973,
     "id": 113975,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113977,
     "id": 113978,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113977,
     "id": 113979,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6284,
     "id": 41051,
     "name": "Brian Shinn",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6285,
     "id": 45292,
     "name": "Chris Seubert",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6285,
     "id": 40731,
     "name": "Jim Fuller",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6290,
     "id": 40957,
-    "name": "Tina L. Kernan"
+    "name": "Tina L. Kernan",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113473,
     "id": 113474,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113473,
     "id": 113475,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113477,
     "id": 113478,
-    "name": "Yes, Levy"
+    "name": "Yes, Levy",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113477,
     "id": 113479,
-    "name": "No, Levy"
+    "name": "No, Levy",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8174,
     "id": 42092,
     "name": "Jerome Delvin",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8177,
     "id": 42080,
     "name": "James R. Beaver",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8181,
     "id": 41793,
-    "name": "Steve Osborne"
+    "name": "Steve Osborne",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8190,
     "id": 41499,
-    "name": "Lori Sanders"
+    "name": "Lori Sanders",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113857,
     "id": 113858,
-    "name": "Allow"
+    "name": "Allow",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113857,
     "id": 113859,
-    "name": "Prohibit"
+    "name": "Prohibit",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113865,
     "id": 113866,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113865,
     "id": 113867,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6534,
     "id": 42345,
     "name": "Kevin Overbay",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6534,
     "id": 43796,
     "name": "Randy Harrison",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6536,
     "id": 42854,
     "name": "Doug England",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6661,
     "id": 45609,
-    "name": "(Skip) Cameron Morehouse"
+    "name": "(Skip) Cameron Morehouse",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6661,
     "id": 41044,
-    "name": "Ann Congdon"
+    "name": "Ann Congdon",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6662,
     "id": 42023,
-    "name": "Carnan Bergren"
+    "name": "Carnan Bergren",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6662,
     "id": 40932,
-    "name": "Steve McKenna"
+    "name": "Steve McKenna",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113737,
     "id": 113738,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113737,
     "id": 113739,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113741,
     "id": 113742,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113741,
     "id": 113743,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8798,
     "id": 40768,
     "name": "Ron Richards",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8798,
     "id": 45509,
     "name": "Randy Johnson",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8029,
     "id": 41591,
-    "name": "Will Purser"
+    "name": "Will Purser",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113745,
     "id": 113746,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113745,
     "id": 113747,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113749,
     "id": 113750,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113749,
     "id": 113751,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39805,
     "id": 40916,
     "name": "Tanisha L. Harris",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39805,
     "id": 41366,
     "name": "John Blom",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39806,
     "id": 41919,
     "name": "Eileen Quiring",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39806,
     "id": 40840,
     "name": "Roman Battan",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113549,
     "id": 113550,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113549,
     "id": 113551,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113969,
     "id": 113970,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113969,
     "id": 113971,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113965,
     "id": 113966,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113965,
     "id": 113967,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 12803,
     "id": 41984,
-    "name": "Nancy Barnes"
+    "name": "Nancy Barnes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 12803,
     "id": 41877,
-    "name": "Mike Lyons"
+    "name": "Mike Lyons",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6761,
     "id": 43151,
     "name": "Norm Passmore",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6762,
     "id": 43147,
     "name": "Mike Talbott",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113933,
     "id": 113934,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113933,
     "id": 113935,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113937,
     "id": 113938,
-    "name": "Levy Yes"
+    "name": "Levy Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113937,
     "id": 113939,
-    "name": "Levy No"
+    "name": "Levy No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113557,
     "id": 113558,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113557,
     "id": 113559,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8508,
     "id": 41072,
     "name": "Arne Mortensen",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8508,
     "id": 41711,
     "name": "Michael A. Karnofski",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8511,
     "id": 44891,
     "name": "Shawn Nyman",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8511,
     "id": 41451,
     "name": "Dennis Weber",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8901,
     "id": 44635,
-    "name": "Dave Quinn"
+    "name": "Dave Quinn",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8901,
     "id": 42879,
-    "name": "Lonnie Knowles"
+    "name": "Lonnie Knowles",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113545,
     "id": 113546,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113545,
     "id": 113547,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113529,
     "id": 113530,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113529,
     "id": 113531,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113533,
     "id": 113534,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113533,
     "id": 113535,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113537,
     "id": 113538,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113537,
     "id": 113539,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113541,
     "id": 113542,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113541,
     "id": 113543,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113553,
     "id": 113554,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113553,
     "id": 113555,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113561,
     "id": 113562,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113561,
     "id": 113563,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6071,
     "id": 41009,
     "name": "Pat Haley",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6071,
     "id": 41698,
     "name": "Dan Sutton",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6072,
     "id": 41655,
     "name": "Kyle Steinburg",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6072,
     "id": 41643,
     "name": "Dale L. Snyder",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113453,
     "id": 113454,
-    "name": "APPROVED"
+    "name": "APPROVED",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113453,
     "id": 113455,
-    "name": "REJECTED"
+    "name": "REJECTED",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113841,
     "id": 113842,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113841,
     "id": 113843,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113833,
     "id": 113834,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113833,
     "id": 113835,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113837,
     "id": 113838,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113837,
     "id": 113839,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113425,
     "id": 113426,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113425,
     "id": 113427,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6166,
     "id": 41590,
-    "name": "Aaron Viebrock"
+    "name": "Aaron Viebrock",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5461,
     "id": 45123,
     "name": "Johnna Exner",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5461,
     "id": 43709,
     "name": "Lorna R Johnson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5463,
     "id": 41437,
     "name": "Dave Hedrick",
-    "party": "(Prefers INDEPENDENT Party)"
+    "party": "(Prefers INDEPENDENT Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5463,
     "id": 41487,
     "name": "Mike Blankenship",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5464,
     "id": 44289,
     "name": "Kathryn I. Burke",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5478,
     "id": 44068,
-    "name": "Gordon Strandberg"
+    "name": "Gordon Strandberg",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5478,
     "id": 41777,
-    "name": "Chris Kroupa"
+    "name": "Chris Kroupa",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7739,
     "id": 43054,
     "name": "Brad Peck",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7739,
     "id": 40785,
     "name": "Matt Beaton",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7740,
     "id": 41266,
     "name": "Bob Koch",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7740,
     "id": 41230,
     "name": "Rodney (Rocky) Mullen",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113961,
     "id": 113962,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113961,
     "id": 113963,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7810,
     "id": 40790,
-    "name": "Roger G. Wright"
+    "name": "Roger G. Wright",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6823,
     "id": 43071,
     "name": "Bob Johnson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6823,
     "id": 43082,
     "name": "P. Ernest Kimble",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6824,
     "id": 44490,
     "name": "R. Clay Barr",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6824,
     "id": 43097,
     "name": "Wynne McCabe",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6956,
     "id": 40746,
     "name": "Richard Stevens",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6956,
     "id": 41683,
     "name": "Robert J Dove",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6957,
     "id": 41202,
     "name": "Tom Taylor",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 6957,
     "id": 43759,
     "name": "Nathan Pack",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7025,
     "id": 44240,
-    "name": "Dale Walker"
+    "name": "Dale Walker",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7027,
     "id": 40952,
-    "name": "Tom Flint"
+    "name": "Tom Flint",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113893,
     "id": 113894,
-    "name": "Levy...Yes"
+    "name": "Levy...Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113893,
     "id": 113895,
-    "name": "Levy...No"
+    "name": "Levy...No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113897,
     "id": 113898,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113897,
     "id": 113899,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113901,
     "id": 113902,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113901,
     "id": 113903,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113905,
     "id": 113906,
-    "name": "Special Levy Yes"
+    "name": "Special Levy Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113905,
     "id": 113907,
-    "name": "Special Levy No"
+    "name": "Special Levy No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7650,
     "id": 41238,
     "name": "Wes Cormier",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7650,
     "id": 45602,
     "name": "Jamie Nichols",
-    "party": "(Prefers Democrat Party)"
+    "party": "(Prefers Democrat Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7828,
     "id": 41267,
     "name": "Randy Ross",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7828,
     "id": 40758,
     "name": "Frank H Gordon",
-    "party": "(Prefers Democrat Party)"
+    "party": "(Prefers Democrat Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7830,
     "id": 42672,
-    "name": "Kyle Imler"
+    "name": "Kyle Imler",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7830,
     "id": 42659,
-    "name": "David Mistachkin"
+    "name": "David Mistachkin",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9213,
     "id": 44851,
-    "name": "David Jennings"
+    "name": "David Jennings",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9213,
     "id": 41458,
-    "name": "David F. Timmons"
+    "name": "David F. Timmons",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113909,
     "id": 113910,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113909,
     "id": 113911,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113913,
     "id": 113914,
-    "name": "Levy Yes"
+    "name": "Levy Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113913,
     "id": 113915,
-    "name": "Levy No"
+    "name": "Levy No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113917,
     "id": 113918,
-    "name": "Levy Yes"
+    "name": "Levy Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113917,
     "id": 113919,
-    "name": "Levy No"
+    "name": "Levy No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113921,
     "id": 113922,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113921,
     "id": 113923,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9902,
     "id": 41813,
     "name": "Helen Price Johnson",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9902,
     "id": 45267,
     "name": "Gary Wray",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9901,
     "id": 41385,
     "name": "Jill Johnson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9901,
     "id": 44354,
     "name": "John Fowkes",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11032,
     "id": 43251,
-    "name": "Tanya (Toni) Olson"
+    "name": "Tanya (Toni) Olson",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 11032,
     "id": 42702,
-    "name": "Gordon Sibley"
+    "name": "Gordon Sibley",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7527,
     "id": 41462,
     "name": "Kate Dean",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7527,
     "id": 41509,
     "name": "Tim N. Thomas",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7528,
     "id": 41743,
     "name": "David W. Sullivan",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7621,
     "id": 41326,
-    "name": "Barney Burke"
+    "name": "Barney Burke",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7621,
     "id": 41448,
-    "name": "Jeff Randall"
+    "name": "Jeff Randall",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113809,
     "id": 113810,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113809,
     "id": 113811,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114033,
     "id": 114034,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114033,
     "id": 114035,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114037,
     "id": 114038,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114037,
     "id": 114039,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39933,
     "id": 45757,
-    "name": "Laurel Gibson"
+    "name": "Laurel Gibson",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 39933,
     "id": 45758,
-    "name": "Brian J. Todd"
+    "name": "Brian J. Todd",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39934,
     "id": 45759,
-    "name": "Lisa Paglisotti"
+    "name": "Lisa Paglisotti",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 39935,
     "id": 45760,
-    "name": "Gregg Hirakawa"
+    "name": "Gregg Hirakawa",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 114041,
     "id": 114042,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114041,
     "id": 114043,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114045,
     "id": 114046,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114045,
     "id": 114047,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113949,
     "id": 113950,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113949,
     "id": 113951,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113953,
     "id": 113954,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113953,
     "id": 113955,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114057,
     "id": 114058,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114057,
     "id": 114059,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114061,
     "id": 114062,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114061,
     "id": 114063,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114065,
     "id": 114066,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114065,
     "id": 114067,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114069,
     "id": 114070,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114069,
     "id": 114071,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114073,
     "id": 114074,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114073,
     "id": 114075,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114077,
     "id": 114078,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114077,
     "id": 114079,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114081,
     "id": 114082,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114081,
     "id": 114083,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114085,
     "id": 114086,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114085,
     "id": 114087,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113817,
     "id": 113818,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113817,
     "id": 113819,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114089,
     "id": 114090,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114089,
     "id": 114091,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113821,
     "id": 113822,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113821,
     "id": 113823,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114093,
     "id": 114094,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114093,
     "id": 114095,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114097,
     "id": 114098,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114097,
     "id": 114099,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114101,
     "id": 114102,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114101,
     "id": 114103,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114105,
     "id": 114106,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114105,
     "id": 114107,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113845,
     "id": 113846,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113845,
     "id": 113847,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 38808,
     "id": 40935,
     "name": "Robert (Rob) Gelder",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 38817,
     "id": 40823,
     "name": "Christopher J. Tibbs",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 38817,
     "id": 41027,
     "name": "Charlotte Garrido",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 38975,
     "id": 45101,
-    "name": "Debra Lester"
+    "name": "Debra Lester",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 38975,
     "id": 40705,
-    "name": "John Armstrong"
+    "name": "John Armstrong",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 113849,
     "id": 113850,
-    "name": "Enlargement of the Port of Poulsbo, Yes"
+    "name": "Enlargement of the Port of Poulsbo, Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113849,
     "id": 113851,
-    "name": "Enlargement of the Port of Poulsbo, No"
+    "name": "Enlargement of the Port of Poulsbo, No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11309,
     "id": 41268,
     "name": "Paul Jewell",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11309,
     "id": 42982,
     "name": "Rob Fraser",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11310,
     "id": 42232,
     "name": "Laura Osiadacz",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11310,
     "id": 45119,
     "name": "Carl B. Nelson",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11319,
     "id": 41612,
-    "name": "Mike Lowe"
+    "name": "Mike Lowe",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11319,
     "id": 41048,
-    "name": "Joe O'Leary"
+    "name": "Joe O'Leary",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113641,
     "id": 113642,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113641,
     "id": 113643,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113729,
     "id": 113730,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113729,
     "id": 113731,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9788,
     "id": 42712,
     "name": "Rex F. Johnston",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9788,
     "id": 45751,
     "name": "Patricia (Pat) Arnold",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10137,
     "id": 42747,
     "name": "Jim Sizemore",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10138,
     "id": 41909,
-    "name": "Ray A. Mosbrucker"
+    "name": "Ray A. Mosbrucker",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10138,
     "id": 42001,
-    "name": "Doug Miller"
+    "name": "Doug Miller",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113625,
     "id": 113626,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113625,
     "id": 113627,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9263,
     "id": 40726,
     "name": "Edna J. Fund",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9263,
     "id": 43984,
     "name": "Dan Keahey",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9264,
     "id": 40909,
     "name": "Bobby Jackson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9264,
     "id": 41389,
     "name": "Bob Bozarth",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9277,
     "id": 45364,
-    "name": "Tim Cournyer"
+    "name": "Tim Cournyer",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113925,
     "id": 113926,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113925,
     "id": 113927,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113929,
     "id": 113930,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113929,
     "id": 113931,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113869,
     "id": 113870,
-    "name": "APPROVED"
+    "name": "APPROVED",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113869,
     "id": 113871,
-    "name": "REJECTED"
+    "name": "REJECTED",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 4221,
     "id": 40966,
     "name": "Mark R. Stedman",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 4229,
     "id": 40942,
     "name": "Scott Hutsell",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 4230,
     "id": 41066,
-    "name": "Dan B. Johnson"
+    "name": "Dan B. Johnson",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113873,
     "id": 113874,
-    "name": "LEVY YES"
+    "name": "LEVY YES",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113873,
     "id": 113875,
-    "name": "LEVY NO"
+    "name": "LEVY NO",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 4249,
     "id": 45716,
-    "name": "Jerald Sheffels"
+    "name": "Jerald Sheffels",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113877,
     "id": 113878,
-    "name": "LEVY YES"
+    "name": "LEVY YES",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113877,
     "id": 113879,
-    "name": "LEVY NO"
+    "name": "LEVY NO",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113881,
     "id": 113882,
-    "name": "LEVY YES"
+    "name": "LEVY YES",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113881,
     "id": 113883,
-    "name": "LEVY NO"
+    "name": "LEVY NO",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7284,
     "id": 44054,
     "name": "Randy Neatherlin",
-    "party": "(Prefers None Party)"
+    "party": "(Prefers None Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7284,
     "id": 41377,
     "name": "Kelley McIntosh",
-    "party": "(Prefers Independent Party)"
+    "party": "(Prefers Independent Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7285,
     "id": 41654,
     "name": "Kevin Shutty",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7285,
     "id": 44375,
     "name": "Roslynne Reed",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113941,
     "id": 113942,
-    "name": "For the formation of a metropolitan park district to be governed by five at large commissioners"
+    "name": "For the formation of a metropolitan park district to be governed by five at large commissioners",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113941,
     "id": 113943,
-    "name": "Against the formation of a metropolitan park district"
+    "name": "Against the formation of a metropolitan park district",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39917,
     "id": 45739,
-    "name": "Kris Klusman"
+    "name": "Kris Klusman",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39917,
     "id": 45745,
-    "name": "Arvilla Ohlde"
+    "name": "Arvilla Ohlde",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39918,
     "id": 45740,
-    "name": "Steve Van Denover"
+    "name": "Steve Van Denover",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39918,
     "id": 45743,
-    "name": "Jesse Sims"
+    "name": "Jesse Sims",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39919,
     "id": 45744,
-    "name": "Ken VanBuskirk"
+    "name": "Ken VanBuskirk",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39919,
     "id": 45737,
-    "name": "Andrew Kinney"
+    "name": "Andrew Kinney",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39919,
     "id": 45741,
-    "name": "Phil Wolff"
+    "name": "Phil Wolff",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39920,
     "id": 45746,
-    "name": "Monte Warren Ritter"
+    "name": "Monte Warren Ritter",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39920,
     "id": 45736,
-    "name": "Doug Sayan"
+    "name": "Doug Sayan",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39920,
     "id": 45738,
-    "name": "Richard Hoss"
+    "name": "Richard Hoss",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39921,
     "id": 45735,
-    "name": "John Piety"
+    "name": "John Piety",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39921,
     "id": 45742,
-    "name": "John Johnson"
+    "name": "John Johnson",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113945,
     "id": 113946,
-    "name": "Levy...Yes"
+    "name": "Levy...Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113945,
     "id": 113947,
-    "name": "Levy...No"
+    "name": "Levy...No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7407,
     "id": 44825,
-    "name": "Mike Sheetz"
+    "name": "Mike Sheetz",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7407,
     "id": 42480,
-    "name": "Karl Denison"
+    "name": "Karl Denison",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7410,
     "id": 40970,
-    "name": "Linda R. Gott"
+    "name": "Linda R. Gott",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10454,
     "id": 41598,
     "name": "Sheilah Kennedy",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10454,
     "id": 42289,
     "name": "Chris Branch",
-    "party": "(Prefers Independent Party)"
+    "party": "(Prefers Independent Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10455,
     "id": 41964,
     "name": "Andy Hover",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10455,
     "id": 43949,
     "name": "Ashley W. Thrasher",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10463,
     "id": 40899,
-    "name": "Robert W. Grim"
+    "name": "Robert W. Grim",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10703,
     "id": 41145,
-    "name": "Jerry D. Asmussen"
+    "name": "Jerry D. Asmussen",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10703,
     "id": 43822,
-    "name": "Aaron Kester"
+    "name": "Aaron Kester",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113861,
     "id": 113862,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113861,
     "id": 113863,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7189,
     "id": 45489,
     "name": "Lisa Olsen",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7189,
     "id": 40747,
     "name": "Steve Rogers",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7190,
     "id": 41733,
     "name": "Frank Wolfe",
-    "party": "(Prefers Democrat Party)"
+    "party": "(Prefers Democrat Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7190,
     "id": 45016,
     "name": "Fred H. Hill",
-    "party": "(Prefers Democrat Party)"
+    "party": "(Prefers Democrat Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7233,
     "id": 41699,
-    "name": "Dick Anderson"
+    "name": "Dick Anderson",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7233,
     "id": 41109,
-    "name": "Michael (Mike) Lignoski"
+    "name": "Michael (Mike) Lignoski",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113885,
     "id": 113886,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113885,
     "id": 113887,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5689,
     "id": 40991,
     "name": "Bob Eugene",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5689,
     "id": 42928,
     "name": "Karen Skoog",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5691,
     "id": 44332,
     "name": "RJ Hampton",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5691,
     "id": 42645,
     "name": "Steve Kiss",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113505,
     "id": 113506,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113505,
     "id": 113507,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113509,
     "id": 113510,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113509,
     "id": 113511,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113433,
     "id": 113434,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113433,
     "id": 113435,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113437,
     "id": 113438,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113437,
     "id": 113439,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113517,
     "id": 113518,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113517,
     "id": 113519,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113521,
     "id": 113522,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113521,
     "id": 113523,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113513,
     "id": 113514,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113513,
     "id": 113515,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113501,
     "id": 113502,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113501,
     "id": 113503,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5730,
     "id": 41856,
-    "name": "Rick Larson"
+    "name": "Rick Larson",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113753,
     "id": 113754,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113753,
     "id": 113755,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113785,
     "id": 113786,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113785,
     "id": 113787,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113789,
     "id": 113790,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113789,
     "id": 113791,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113793,
     "id": 113794,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113793,
     "id": 113795,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113797,
     "id": 113798,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113797,
     "id": 113799,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11523,
     "id": 40941,
     "name": "Rick Talbert",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11523,
     "id": 41177,
     "name": "Bruce Dammeier",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11525,
     "id": 40870,
-    "name": "Mike Lonergan"
+    "name": "Mike Lonergan",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 11528,
     "id": 40873,
-    "name": "Paul A. Pastor"
+    "name": "Paul A. Pastor",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 11568,
     "id": 42050,
     "name": "Pam Roach",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11568,
     "id": 41221,
     "name": "Carolyn Edmonds",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11569,
     "id": 41978,
     "name": "Jim McCune",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 11569,
     "id": 41492,
     "name": "Dennis Townsend",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11572,
     "id": 44940,
     "name": "Connie Ladenburg",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 11572,
     "id": 45722,
     "name": "Kit Burns",
-    "party": "(Prefers Independent Party)"
+    "party": "(Prefers Independent Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11573,
     "id": 42066,
     "name": "Doug Richardson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 11573,
     "id": 41298,
     "name": "Linda Farmer",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113801,
     "id": 113802,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113801,
     "id": 113803,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113825,
     "id": 113826,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113825,
     "id": 113827,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113829,
     "id": 113830,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113829,
     "id": 113831,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 38782,
     "id": 41423,
-    "name": "Bill Watson"
+    "name": "Bill Watson",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 38782,
     "id": 42860,
-    "name": "Bob Jarman"
+    "name": "Bob Jarman",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 38783,
     "id": 40813,
-    "name": "Rick Hughes"
+    "name": "Rick Hughes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 38783,
     "id": 45259,
-    "name": "Michael Durland"
+    "name": "Michael Durland",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113481,
     "id": 113482,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113481,
     "id": 113483,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113493,
     "id": 113494,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113493,
     "id": 113495,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8993,
     "id": 41631,
     "name": "Ron Wesen",
-    "party": "(Prefers GOP Party)"
+    "party": "(Prefers GOP Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8994,
     "id": 43619,
     "name": "Ken Dahlstedt",
-    "party": "(Prefers Democrat Party)"
+    "party": "(Prefers Democrat Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8989,
     "id": 43367,
     "name": "Hayley L. Thompson",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39813,
     "id": 41337,
-    "name": "Thomas L. Verge"
+    "name": "Thomas L. Verge",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9156,
     "id": 41144,
-    "name": "Eron Berg"
+    "name": "Eron Berg",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 9156,
     "id": 45573,
-    "name": "Kevin Loy"
+    "name": "Kevin Loy",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113805,
     "id": 113806,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113805,
     "id": 113807,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113853,
     "id": 113854,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113853,
     "id": 113855,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114009,
     "id": 114010,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114009,
     "id": 114011,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8372,
     "id": 40739,
     "name": "Grace D. Cross",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8373,
     "id": 42749,
     "name": "Richard Mahar",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8373,
     "id": 42942,
     "name": "Marie Perez-Gluesenkamp",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8374,
     "id": 40709,
     "name": "Tom Lannen",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8374,
     "id": 41334,
     "name": "Michael Johnson",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8382,
     "id": 40748,
-    "name": "Dave McKenzie"
+    "name": "Dave McKenzie",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8382,
     "id": 45298,
-    "name": "Ted Salka"
+    "name": "Ted Salka",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39928,
     "id": 45752,
-    "name": "MARC ROBINS"
+    "name": "MARC ROBINS",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39929,
     "id": 45753,
-    "name": "BLAYNEY MYERS"
+    "name": "BLAYNEY MYERS",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39930,
     "id": 45754,
-    "name": "ED LA MOTTE"
+    "name": "ED LA MOTTE",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39931,
     "id": 45755,
-    "name": "ALICIA BEYER"
+    "name": "ALICIA BEYER",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39932,
     "id": 45756,
-    "name": "BOB WITTENBERG"
+    "name": "BOB WITTENBERG",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114013,
     "id": 114014,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114013,
     "id": 114015,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114017,
     "id": 114018,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114017,
     "id": 114019,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114021,
     "id": 114022,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114021,
     "id": 114023,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114025,
     "id": 114026,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114025,
     "id": 114027,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114029,
     "id": 114030,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 114029,
     "id": 114031,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113693,
     "id": 113694,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113693,
     "id": 113695,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113697,
     "id": 113698,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113697,
     "id": 113699,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113701,
     "id": 113702,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113701,
     "id": 113703,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113705,
     "id": 113706,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113705,
     "id": 113707,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113709,
     "id": 113710,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113709,
     "id": 113711,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113713,
     "id": 113714,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113713,
     "id": 113715,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113717,
     "id": 113718,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113717,
     "id": 113719,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11037,
     "id": 41479,
     "name": "Sam Low",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11037,
     "id": 42660,
     "name": "Hans Dunshee",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x",
+    "filter": "x"
   },
   {
     "race": 113661,
     "id": 113662,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113661,
     "id": 113663,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113665,
     "id": 113666,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113665,
     "id": 113667,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113669,
     "id": 113670,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113669,
     "id": 113671,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113673,
     "id": 113674,
-    "name": "Levy Yes"
+    "name": "Levy Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113673,
     "id": 113675,
-    "name": "Levy No"
+    "name": "Levy No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113465,
     "id": 113466,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113465,
     "id": 113467,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113681,
     "id": 113682,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113681,
     "id": 113683,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113721,
     "id": 113722,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113721,
     "id": 113723,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113685,
     "id": 113686,
-    "name": "Levy Yes"
+    "name": "Levy Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113685,
     "id": 113687,
-    "name": "Levy No"
+    "name": "Levy No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113689,
     "id": 113690,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113689,
     "id": 113691,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5366,
     "id": 42847,
     "name": "Candace Mumm",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5366,
     "id": 42139,
     "name": "Josh Kerns",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5367,
     "id": 41117,
     "name": "Shelly O'Quinn",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 5367,
     "id": 42554,
     "name": "Andrew Biviano",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113761,
     "id": 113762,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113761,
     "id": 113763,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113765,
     "id": 113766,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113765,
     "id": 113767,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113769,
     "id": 113770,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113769,
     "id": 113771,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113773,
     "id": 113774,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113773,
     "id": 113775,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113777,
     "id": 113778,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113777,
     "id": 113779,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113781,
     "id": 113782,
-    "name": "Levy Yes"
+    "name": "Levy Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113781,
     "id": 113783,
-    "name": "Levy No"
+    "name": "Levy No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113629,
     "id": 113630,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113629,
     "id": 113631,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8618,
     "id": 41864,
-    "name": "Wade A. Carpenter"
+    "name": "Wade A. Carpenter",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113757,
     "id": 113758,
-    "name": "Approved"
+    "name": "Approved",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113757,
     "id": 113759,
-    "name": "Rejected"
+    "name": "Rejected",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8565,
     "id": 42599,
     "name": "Wes McCart",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8567,
     "id": 42885,
     "name": "Steve Parker",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8567,
     "id": 41876,
     "name": "Matt Wolohan",
-    "party": "(Prefers Democrat Party)"
+    "party": "(Prefers Democrat Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8570,
     "id": 41848,
     "name": "Leslie Valz",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113725,
     "id": 113726,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113725,
     "id": 113727,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8048,
     "id": 41169,
     "name": "Jim Cooper",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8048,
     "id": 44358,
     "name": "John (Hutch) Hutchings",
-    "party": "(Prefers Independent Party)"
+    "party": "(Prefers Independent Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8633,
     "id": 41720,
     "name": "Gary Edwards",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8633,
     "id": 41874,
     "name": "Kelsey Hulse",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 8936,
     "id": 41099,
-    "name": "Russ Olsen"
+    "name": "Russ Olsen",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113889,
     "id": 113890,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113889,
     "id": 113891,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113957,
     "id": 113958,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113957,
     "id": 113959,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7444,
     "id": 44890,
     "name": "Greg Prestegard",
-    "party": "(Prefers DEM Party)"
+    "party": "(Prefers DEM Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7444,
     "id": 42838,
     "name": "Mike Backman",
-    "party": "(Prefers Independent Party)"
+    "party": "(Prefers Independent Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7442,
     "id": 42742,
     "name": "Dan L. Cothren",
-    "party": "(Prefers Independent Party)"
+    "party": "(Prefers Independent Party)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7442,
     "id": 45055,
     "name": "Robert L. Jungers",
-    "party": "(States No Party Preference)"
+    "party": "(States No Party Preference)",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7507,
     "id": 42709,
-    "name": "Dennis R. Reid"
+    "name": "Dennis R. Reid",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11458,
     "id": 43707,
     "name": "Jim Johnson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11458,
     "id": 43840,
     "name": "Jared Frerichs",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11459,
     "id": 42852,
     "name": "Randal Son",
-    "party": "D"
+    "party": "D",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 11459,
     "id": 41836,
     "name": "Todd Kimball",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113645,
     "id": 113646,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113645,
     "id": 113647,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113653,
     "id": 113654,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113653,
     "id": 113655,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 12198,
     "id": 41946,
-    "name": "Mike Murphy"
+    "name": "Mike Murphy",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113649,
     "id": 113650,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113649,
     "id": 113651,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113657,
     "id": 113658,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113657,
     "id": 113659,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113733,
     "id": 113734,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113733,
     "id": 113735,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39922,
     "id": 45729,
-    "name": "Vern Yadon"
+    "name": "Vern Yadon",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39924,
     "id": 45733,
-    "name": "Richard Whitson"
+    "name": "Richard Whitson",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39923,
     "id": 45730,
-    "name": "Rebecca Boonstra"
+    "name": "Rebecca Boonstra",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39925,
     "id": 45731,
-    "name": "Kelly Vogel"
+    "name": "Kelly Vogel",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 39926,
     "id": 45732,
-    "name": "Jessica Bee"
+    "name": "Jessica Bee",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 7641,
     "id": 42044,
     "name": "Art Swannack",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 10135,
     "id": 42018,
     "name": "Dean Kinzer",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113637,
     "id": 113638,
-    "name": "YES for the Formation"
+    "name": "YES for the Formation",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113637,
     "id": 113639,
-    "name": "NO Against the Formation"
+    "name": "NO Against the Formation",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113577,
     "id": 113578,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113577,
     "id": 113579,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113237,
     "id": 113238,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113237,
     "id": 113239,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113245,
     "id": 113246,
-    "name": "Yes"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113245,
     "id": 113247,
-    "name": "No"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113581,
     "id": 113582,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113581,
     "id": 113583,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113585,
     "id": 113586,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113585,
     "id": 113587,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113569,
     "id": 113570,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113569,
     "id": 113571,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113565,
     "id": 113566,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113565,
     "id": 113567,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113617,
     "id": 113618,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113617,
     "id": 113619,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113621,
     "id": 113622,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113621,
     "id": 113623,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113573,
     "id": 113574,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113573,
     "id": 113575,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113589,
     "id": 113590,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113589,
     "id": 113591,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113597,
     "id": 113598,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113597,
     "id": 113599,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113593,
     "id": 113594,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113593,
     "id": 113595,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113633,
     "id": 113634,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113633,
     "id": 113635,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113613,
     "id": 113614,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113613,
     "id": 113615,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113601,
     "id": 113602,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113601,
     "id": 113603,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113605,
     "id": 113606,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113605,
     "id": 113607,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113609,
     "id": 113610,
-    "name": "YES"
+    "name": "Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113609,
     "id": 113611,
-    "name": "NO"
+    "name": "No",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 38766,
     "id": 45747,
     "name": "Mike Leita",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 38766,
     "id": 45748,
     "name": "Eric Geary",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 38767,
     "id": 45750,
     "name": "Debra Manjarrez",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 38767,
     "id": 45749,
     "name": "Ron Anderson",
-    "party": "R"
+    "party": "R",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113813,
     "id": 113814,
-    "name": "Levy - Yes"
+    "name": "Levy - Yes",
+    "incumbent": "",
+    "filter": "x"
   },
   {
     "race": 113813,
     "id": 113815,
-    "name": "Levy - No"
+    "name": "Levy - No",
+    "incumbent": "",
+    "filter": "x"
   }
 ]

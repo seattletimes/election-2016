@@ -1,0 +1,842 @@
+[
+  {
+    "raceid": 3,
+    "race": "U.S. Senator",
+    "id": 40725,
+    "name": "Patty Murray"
+  },
+  {
+    "raceid": 4,
+    "race": "Congressional District 5 - U.S. Representative",
+    "id": 41382,
+    "name": "Cathy McMorris Rodgers"
+  },
+  {
+    "raceid": 5,
+    "race": "Congressional District 3 - U.S. Representative",
+    "id": 42016,
+    "name": "Jaime Herrera Beutler"
+  },
+  {
+    "raceid": 6,
+    "race": "Congressional District 1 - U.S. Representative",
+    "id": 41292,
+    "name": "Suzan DelBene"
+  },
+  {
+    "raceid": 7,
+    "race": "Congressional District 4 - U.S. Representative",
+    "id": 41539,
+    "name": "Dan Newhouse"
+  },
+  {
+    "raceid": 8,
+    "race": "Congressional District 2 - U.S. Representative",
+    "id": 42868,
+    "name": "Rick Larsen"
+  },
+  {
+    "raceid": 9,
+    "race": "Congressional District 6 - U.S. Representative",
+    "id": 41887,
+    "name": "Derek Kilmer"
+  },
+  {
+    "raceid": 10,
+    "race": "Congressional District 9 - U.S. Representative",
+    "id": 41065,
+    "name": "Adam Smith"
+  },
+  {
+    "raceid": 12,
+    "race": "Congressional District 8 - U.S. Representative",
+    "id": 41756,
+    "name": "Dave Reichert"
+  },
+  {
+    "raceid": 28824,
+    "race": "Congressional District 10 - U.S. Representative",
+    "id": 44902,
+    "name": "Denny Heck"
+  },
+  {
+    "raceid": 13,
+    "race": "Governor",
+    "id": 41381,
+    "name": "Jay Inslee"
+  },
+  {
+    "raceid": 15,
+    "race": "Secretary of State",
+    "id": 42055,
+    "name": "Kim Wyman"
+  },
+  {
+    "raceid": 18,
+    "race": "Attorney General",
+    "id": 42553,
+    "name": "Bob Ferguson"
+  },
+  {
+    "raceid": 21,
+    "race": "Insurance Commissioner",
+    "id": 40767,
+    "name": "Mike Kreidler"
+  },
+  {
+    "raceid": 22,
+    "race": "Supreme Court - Justice Position 1",
+    "id": 40843,
+    "name": "Mary Yu"
+  },
+  {
+    "raceid": 26,
+    "race": "Supreme Court - Justice Position 5",
+    "id": 40796,
+    "name": "Barbara Madsen"
+  },
+  {
+    "raceid": 27,
+    "race": "Supreme Court - Justice Position 6",
+    "id": 41551,
+    "name": "Charles (Charlie) Wiggins"
+  },
+  {
+    "raceid": 31,
+    "race": "Court of Appeals, Division 1, District 1 - Judge Position 1",
+    "id": 43570,
+    "name": "Michael J. Trickey"
+  },
+  {
+    "raceid": 38,
+    "race": "Court of Appeals, Division 1, District 2 - Judge Position 1",
+    "id": 40997,
+    "name": "Steve Dwyer"
+  },
+  {
+    "raceid": 41,
+    "race": "Court of Appeals, Division 2, District 1 - Judge Position 1",
+    "id": 41630,
+    "name": "Brad Maxa"
+  },
+  {
+    "raceid": 47,
+    "race": "Court of Appeals, Division 2, District 3 - Judge Position 2",
+    "id": 43168,
+    "name": "Jill M. Johanson"
+  },
+  {
+    "raceid": 50,
+    "race": "Court of Appeals, Division 3, District 2 - Judge Position 1",
+    "id": 40704,
+    "name": "George Fearing"
+  },
+  {
+    "raceid": 51,
+    "race": "Court of Appeals, Division 3, District 3 - Judge Position 1",
+    "id": 41124,
+    "name": "Rebecca Pennell"
+  },
+  {
+    "raceid": 94,
+    "race": "Kitsap Superior Court - Judge Position 5",
+    "id": 40734,
+    "name": "Jeffrey P. Bassett"
+  },
+  {
+    "raceid": 145,
+    "race": "King Superior Court - Judge Position 31",
+    "id": 43196,
+    "name": "Helen Halpert"
+  },
+  {
+    "raceid": 10104,
+    "race": "King Superior Court - Judge Position 53",
+    "id": 42897,
+    "name": "Mariane Spearman"
+  },
+  {
+    "raceid": 167,
+    "race": "Pierce Superior Court - Judge Position 2",
+    "id": 40791,
+    "name": "Katherine M. Stolz"
+  },
+  {
+    "raceid": 229,
+    "race": "Legislative District 1 - State Representative Pos. 1",
+    "id": 41257,
+    "name": "Derek Stanford"
+  },
+  {
+    "raceid": 231,
+    "race": "Legislative District 2 - State Senator",
+    "id": 42705,
+    "name": "Randi Becker"
+  },
+  {
+    "raceid": 232,
+    "race": "Legislative District 2 - State Representative Pos. 1",
+    "id": 42310,
+    "name": "Andrew Barkis"
+  },
+  {
+    "raceid": 233,
+    "race": "Legislative District 2 - State Representative Pos. 2",
+    "id": 42667,
+    "name": "JT Wilcox"
+  },
+  {
+    "raceid": 234,
+    "race": "Legislative District 3 - State Senator",
+    "id": 41249,
+    "name": "Andy Billig"
+  },
+  {
+    "raceid": 235,
+    "race": "Legislative District 3 - State Representative Pos. 1",
+    "id": 40940,
+    "name": "Marcus Riccelli"
+  },
+  {
+    "raceid": 236,
+    "race": "Legislative District 3 - State Representative Pos. 2",
+    "id": 40944,
+    "name": "Timm Ormsby"
+  },
+  {
+    "raceid": 237,
+    "race": "Legislative District 4 - State Senator",
+    "id": 41535,
+    "name": "Mike Padden"
+  },
+  {
+    "raceid": 240,
+    "race": "Legislative District 5 - State Senator",
+    "id": 42145,
+    "name": "Mark Mullet"
+  },
+  {
+    "raceid": 241,
+    "race": "Legislative District 5 - State Representative Pos. 1",
+    "id": 44242,
+    "name": "Jay Rodne"
+  },
+  {
+    "raceid": 245,
+    "race": "Legislative District 6 - State Representative Pos. 2",
+    "id": 43714,
+    "name": "Jeff Holy"
+  },
+  {
+    "raceid": 247,
+    "race": "Legislative District 7 - State Representative Pos. 1",
+    "id": 42946,
+    "name": "Shelly Short"
+  },
+  {
+    "raceid": 248,
+    "race": "Legislative District 7 - State Representative Pos. 2",
+    "id": 42770,
+    "name": "Joel Kretz"
+  },
+  {
+    "raceid": 251,
+    "race": "Legislative District 8 - State Representative Pos. 1",
+    "id": 42975,
+    "name": "Brad Klippert"
+  },
+  {
+    "raceid": 252,
+    "race": "Legislative District 8 - State Representative Pos. 2",
+    "id": 42613,
+    "name": "Larry Haler"
+  },
+  {
+    "raceid": 253,
+    "race": "Legislative District 9 - State Senator",
+    "id": 42675,
+    "name": "Mark G. Schoesler"
+  },
+  {
+    "raceid": 254,
+    "race": "Legislative District 9 - State Representative Pos. 1",
+    "id": 41047,
+    "name": "Mary Dye"
+  },
+  {
+    "raceid": 255,
+    "race": "Legislative District 9 - State Representative Pos. 2",
+    "id": 40896,
+    "name": "Joe Schmick"
+  },
+  {
+    "raceid": 256,
+    "race": "Legislative District 10 - State Senator",
+    "id": 43486,
+    "name": "Barbara Bailey"
+  },
+  {
+    "raceid": 257,
+    "race": "Legislative District 10 - State Representative Pos. 1",
+    "id": 44184,
+    "name": "Norma Smith"
+  },
+  {
+    "raceid": 258,
+    "race": "Legislative District 10 - State Representative Pos. 2",
+    "id": 43932,
+    "name": "Dave Hayes"
+  },
+  {
+    "raceid": 259,
+    "race": "Legislative District 11 - State Senator",
+    "id": 43516,
+    "name": "Bob Hasegawa"
+  },
+  {
+    "raceid": 260,
+    "race": "Legislative District 11 - State Representative Pos. 1",
+    "id": 43695,
+    "name": "Zack Hudgins"
+  },
+  {
+    "raceid": 261,
+    "race": "Legislative District 11 - State Representative Pos. 2",
+    "id": 43575,
+    "name": "Steve Bergquist"
+  },
+  {
+    "raceid": 263,
+    "race": "Legislative District 12 - State Representative Pos. 1",
+    "id": 40892,
+    "name": "Cary Condotta"
+  },
+  {
+    "raceid": 266,
+    "race": "Legislative District 13 - State Representative Pos. 1",
+    "id": 41470,
+    "name": "Tom Dent"
+  },
+  {
+    "raceid": 267,
+    "race": "Legislative District 13 - State Representative Pos. 2",
+    "id": 41339,
+    "name": "Matt Manweller"
+  },
+  {
+    "raceid": 268,
+    "race": "Legislative District 14 - State Senator",
+    "id": 42851,
+    "name": "Curtis King"
+  },
+  {
+    "raceid": 269,
+    "race": "Legislative District 14 - State Representative Pos. 1",
+    "id": 41501,
+    "name": "Norm Johnson"
+  },
+  {
+    "raceid": 270,
+    "race": "Legislative District 14 - State Representative Pos. 2",
+    "id": 41540,
+    "name": "Gina McCabe"
+  },
+  {
+    "raceid": 272,
+    "race": "Legislative District 15 - State Representative Pos. 1",
+    "id": 42896,
+    "name": "Bruce Chandler"
+  },
+  {
+    "raceid": 273,
+    "race": "Legislative District 15 - State Representative Pos. 2",
+    "id": 42775,
+    "name": "David V. Taylor"
+  },
+  {
+    "raceid": 276,
+    "race": "Legislative District 16 - State Representative Pos. 2",
+    "id": 43088,
+    "name": "Terry R. Nealey"
+  },
+  {
+    "raceid": 279,
+    "race": "Legislative District 17 - State Representative Pos. 2",
+    "id": 41895,
+    "name": "Paul Harris"
+  },
+  {
+    "raceid": 280,
+    "race": "Legislative District 18 - State Senator",
+    "id": 43571,
+    "name": "Ann Rivers"
+  },
+  {
+    "raceid": 281,
+    "race": "Legislative District 18 - State Representative Pos. 1",
+    "id": 41983,
+    "name": "Brandon Vick"
+  },
+  {
+    "raceid": 282,
+    "race": "Legislative District 18 - State Representative Pos. 2",
+    "id": 41517,
+    "name": "Liz Pike"
+  },
+  {
+    "raceid": 283,
+    "race": "Legislative District 19 - State Senator",
+    "id": 41402,
+    "name": "Dean Takko"
+  },
+  {
+    "raceid": 285,
+    "race": "Legislative District 19 - State Representative Pos. 2",
+    "id": 41930,
+    "name": "Brian E. Blake"
+  },
+  {
+    "raceid": 286,
+    "race": "Legislative District 20 - State Senator",
+    "id": 41265,
+    "name": "John Braun"
+  },
+  {
+    "raceid": 287,
+    "race": "Legislative District 20 - State Representative Pos. 1",
+    "id": 42676,
+    "name": "Richard DeBolt"
+  },
+  {
+    "raceid": 288,
+    "race": "Legislative District 20 - State Representative Pos. 2",
+    "id": 40898,
+    "name": "Ed Orcutt"
+  },
+  {
+    "raceid": 290,
+    "race": "Legislative District 21 - State Representative Pos. 1",
+    "id": 40930,
+    "name": "Strom Peterson"
+  },
+  {
+    "raceid": 291,
+    "race": "Legislative District 21 - State Representative Pos. 2",
+    "id": 42877,
+    "name": "Lillian Ortiz-Self"
+  },
+  {
+    "raceid": 295,
+    "race": "Legislative District 23 - State Senator",
+    "id": 41950,
+    "name": "Christine Rolfes"
+  },
+  {
+    "raceid": 296,
+    "race": "Legislative District 23 - State Representative Pos. 1",
+    "id": 41234,
+    "name": "Sherry V. Appleton"
+  },
+  {
+    "raceid": 297,
+    "race": "Legislative District 23 - State Representative Pos. 2",
+    "id": 41033,
+    "name": "Drew Hansen"
+  },
+  {
+    "raceid": 300,
+    "race": "Legislative District 24 - State Representative Pos. 2",
+    "id": 41021,
+    "name": "Steve Tharinger"
+  },
+  {
+    "raceid": 302,
+    "race": "Legislative District 25 - State Representative Pos. 1",
+    "id": 41447,
+    "name": "Melanie Stambaugh"
+  },
+  {
+    "raceid": 305,
+    "race": "Legislative District 26 - State Representative Pos. 1",
+    "id": 40976,
+    "name": "Jesse L. Young"
+  },
+  {
+    "raceid": 306,
+    "race": "Legislative District 26 - State Representative Pos. 2",
+    "id": 40844,
+    "name": "Michelle Caldier"
+  },
+  {
+    "raceid": 307,
+    "race": "Legislative District 27 - State Senator",
+    "id": 40789,
+    "name": "Jeannie Darneille"
+  },
+  {
+    "raceid": 308,
+    "race": "Legislative District 27 - State Representative Pos. 1",
+    "id": 41564,
+    "name": "Laurie Jinkins"
+  },
+  {
+    "raceid": 309,
+    "race": "Legislative District 27 - State Representative Pos. 2",
+    "id": 40856,
+    "name": "Jake Fey"
+  },
+  {
+    "raceid": 310,
+    "race": "Legislative District 28 - State Senator",
+    "id": 41207,
+    "name": "Steve O'Ban"
+  },
+  {
+    "raceid": 311,
+    "race": "Legislative District 28 - State Representative Pos. 1",
+    "id": 40919,
+    "name": "Richard (Dick) Muri"
+  },
+  {
+    "raceid": 312,
+    "race": "Legislative District 28 - State Representative Pos. 2",
+    "id": 41038,
+    "name": "Christine Kilduff"
+  },
+  {
+    "raceid": 314,
+    "race": "Legislative District 29 - State Representative Pos. 1",
+    "id": 40811,
+    "name": "David Sawyer"
+  },
+  {
+    "raceid": 315,
+    "race": "Legislative District 29 - State Representative Pos. 2",
+    "id": 41010,
+    "name": "Steve Kirby"
+  },
+  {
+    "raceid": 317,
+    "race": "Legislative District 30 - State Representative Pos. 1",
+    "id": 41103,
+    "name": "Linda Kochmar"
+  },
+  {
+    "raceid": 318,
+    "race": "Legislative District 30 - State Representative Pos. 2",
+    "id": 41815,
+    "name": "Teri Hickel"
+  },
+  {
+    "raceid": 320,
+    "race": "Legislative District 31 - State Representative Pos. 1",
+    "id": 40852,
+    "name": "Drew Stokesbary"
+  },
+  {
+    "raceid": 323,
+    "race": "Legislative District 32 - State Representative Pos. 1",
+    "id": 40849,
+    "name": "Cindy Ryu"
+  },
+  {
+    "raceid": 324,
+    "race": "Legislative District 32 - State Representative Pos. 2",
+    "id": 42384,
+    "name": "Ruth Kagi"
+  },
+  {
+    "raceid": 326,
+    "race": "Legislative District 33 - State Representative Pos. 1",
+    "id": 43553,
+    "name": "Tina L. Orwall"
+  },
+  {
+    "raceid": 327,
+    "race": "Legislative District 33 - State Representative Pos. 2",
+    "id": 42126,
+    "name": "Mia Su-Ling Gregerson"
+  },
+  {
+    "raceid": 329,
+    "race": "Legislative District 34 - State Representative Pos. 1",
+    "id": 42111,
+    "name": "Eileen L. Cody"
+  },
+  {
+    "raceid": 330,
+    "race": "Legislative District 34 - State Representative Pos. 2",
+    "id": 42122,
+    "name": "Joe Fitzgibbon"
+  },
+  {
+    "raceid": 332,
+    "race": "Legislative District 35 - State Representative Pos. 1",
+    "id": 40862,
+    "name": "Dan Griffey"
+  },
+  {
+    "raceid": 333,
+    "race": "Legislative District 35 - State Representative Pos. 2",
+    "id": 40867,
+    "name": "Drew C. MacEwen"
+  },
+  {
+    "raceid": 334,
+    "race": "Legislative District 36 - State Senator",
+    "id": 43179,
+    "name": "Reuven Carlyle"
+  },
+  {
+    "raceid": 335,
+    "race": "Legislative District 36 - State Representative Pos. 1",
+    "id": 42138,
+    "name": "Noel Christina Frame"
+  },
+  {
+    "raceid": 336,
+    "race": "Legislative District 36 - State Representative Pos. 2",
+    "id": 43664,
+    "name": "Gael Tarleton"
+  },
+  {
+    "raceid": 338,
+    "race": "Legislative District 37 - State Representative Pos. 1",
+    "id": 42131,
+    "name": "Sharon Tomiko Santos"
+  },
+  {
+    "raceid": 339,
+    "race": "Legislative District 37 - State Representative Pos. 2",
+    "id": 43197,
+    "name": "Eric Pettigrew"
+  },
+  {
+    "raceid": 341,
+    "race": "Legislative District 38 - State Representative Pos. 1",
+    "id": 42350,
+    "name": "June Robinson"
+  },
+  {
+    "raceid": 342,
+    "race": "Legislative District 38 - State Representative Pos. 2",
+    "id": 41725,
+    "name": "Mike Sells"
+  },
+  {
+    "raceid": 343,
+    "race": "Legislative District 39 - State Senator",
+    "id": 41161,
+    "name": "Kirk Pearson"
+  },
+  {
+    "raceid": 344,
+    "race": "Legislative District 39 - State Representative Pos. 1",
+    "id": 43865,
+    "name": "Dan Kristiansen"
+  },
+  {
+    "raceid": 346,
+    "race": "Legislative District 40 - State Senator",
+    "id": 43859,
+    "name": "Kevin Ranker"
+  },
+  {
+    "raceid": 347,
+    "race": "Legislative District 40 - State Representative Pos. 1",
+    "id": 40703,
+    "name": "Kristine Lytton"
+  },
+  {
+    "raceid": 348,
+    "race": "Legislative District 40 - State Representative Pos. 2",
+    "id": 43495,
+    "name": "Jeff Morris"
+  },
+  {
+    "raceid": 349,
+    "race": "Legislative District 41 - State Senator",
+    "id": 42127,
+    "name": "Steve Litzow"
+  },
+  {
+    "raceid": 350,
+    "race": "Legislative District 41 - State Representative Pos. 1",
+    "id": 43175,
+    "name": "Tana Senn"
+  },
+  {
+    "raceid": 351,
+    "race": "Legislative District 41 - State Representative Pos. 2",
+    "id": 43579,
+    "name": "Judy Clibborn"
+  },
+  {
+    "raceid": 353,
+    "race": "Legislative District 42 - State Representative Pos. 1",
+    "id": 40880,
+    "name": "Luanne Van Werven"
+  },
+  {
+    "raceid": 354,
+    "race": "Legislative District 42 - State Representative Pos. 2",
+    "id": 42330,
+    "name": "Vincent Buys"
+  },
+  {
+    "raceid": 357,
+    "race": "Legislative District 43 - State Representative Pos. 2",
+    "id": 43144,
+    "name": "Frank Chopp"
+  },
+  {
+    "raceid": 359,
+    "race": "Legislative District 44 - State Representative Pos. 1",
+    "id": 41305,
+    "name": "John Lovick"
+  },
+  {
+    "raceid": 360,
+    "race": "Legislative District 44 - State Representative Pos. 2",
+    "id": 41396,
+    "name": "Mark Harmsworth"
+  },
+  {
+    "raceid": 362,
+    "race": "Legislative District 45 - State Representative Pos. 1",
+    "id": 43517,
+    "name": "Roger Goodman"
+  },
+  {
+    "raceid": 363,
+    "race": "Legislative District 45 - State Representative Pos. 2",
+    "id": 43190,
+    "name": "Larry Springer"
+  },
+  {
+    "raceid": 365,
+    "race": "Legislative District 46 - State Representative Pos. 1",
+    "id": 42118,
+    "name": "Gerry Pollet"
+  },
+  {
+    "raceid": 366,
+    "race": "Legislative District 46 - State Representative Pos. 2",
+    "id": 43155,
+    "name": "Jessyn Farrell"
+  },
+  {
+    "raceid": 368,
+    "race": "Legislative District 47 - State Representative Pos. 1",
+    "id": 44253,
+    "name": "Mark Hargrove"
+  },
+  {
+    "raceid": 369,
+    "race": "Legislative District 47 - State Representative Pos. 2",
+    "id": 43191,
+    "name": "Pat Sullivan"
+  },
+  {
+    "raceid": 371,
+    "race": "Legislative District 48 - State Representative Pos. 1",
+    "id": 42137,
+    "name": "Patty Kuderer"
+  },
+  {
+    "raceid": 372,
+    "race": "Legislative District 48 - State Representative Pos. 2",
+    "id": 43559,
+    "name": "Joan McBride"
+  },
+  {
+    "raceid": 373,
+    "race": "Legislative District 49 - State Senator",
+    "id": 44984,
+    "name": "Annette Cleveland"
+  },
+  {
+    "raceid": 374,
+    "race": "Legislative District 49 - State Representative Pos. 1",
+    "id": 41889,
+    "name": "Sharon Wylie"
+  },
+  {
+    "raceid": 39933,
+    "race": "Southwest Electoral District Judge Position 3",
+    "id": 45757,
+    "name": "Laurel Gibson"
+  },
+  {
+    "raceid": 39934,
+    "race": "West Electoral District Judge Position 1",
+    "id": 45759,
+    "name": "Lisa Paglisotti"
+  },
+  {
+    "raceid": 39935,
+    "race": "West Electoral District Judge Position 4",
+    "id": 45760,
+    "name": "Gregg Hirakawa"
+  },
+  {
+    "raceid": 38808,
+    "race": "KITSAP COUNTY Commissioner District 1",
+    "id": 40935,
+    "name": "Robert (Rob) Gelder"
+  },
+  {
+    "raceid": 38817,
+    "race": "KITSAP COUNTY Commissioner District 2",
+    "id": 41027,
+    "name": "Charlotte Garrido"
+  },
+  {
+    "raceid": 38975,
+    "race": "PUBLIC UTILITY DISTRICT NO. 1 Commissioner District 1",
+    "id": 40705,
+    "name": "John Armstrong"
+  },
+  {
+    "raceid": 11525,
+    "race": "COUNTY Assessor - Treasurer",
+    "id": 40870,
+    "name": "Mike Lonergan"
+  },
+  {
+    "raceid": 11528,
+    "race": "COUNTY Sheriff",
+    "id": 40873,
+    "name": "Paul A. Pastor"
+  },
+  {
+    "raceid": 11569,
+    "race": "COUNTY COUNCIL DISTRICT NO. 3 County Council No. 3",
+    "id": 41978,
+    "name": "Jim McCune"
+  },
+  {
+    "raceid": 11572,
+    "race": "COUNTY COUNCIL DISTRICT NO. 4 County Council No. 4",
+    "id": 44940,
+    "name": "Connie Ladenburg"
+  },
+  {
+    "raceid": 11573,
+    "race": "COUNTY COUNCIL DISTRICT NO. 6 County Council No. 6",
+    "id": 42066,
+    "name": "Doug Richardson"
+  },
+  {
+    "raceid": 11032,
+    "race": "PUBLIC UTILITIES DISTRICT NO 1 Commissioner District 3",
+    "id": 43251,
+    "name": "Tanya (Toni) Olson"
+  },
+  {
+    "raceid": 11037,
+    "race": "COUNTY COUNCIL DISTRICT 5 Council District 5",
+    "id": 42660,
+    "name": "Hans Dunshee"
+  }
+]
