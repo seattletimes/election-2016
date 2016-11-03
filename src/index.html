@@ -61,7 +61,6 @@
                 <% }); %>
               </select></p> <%
               }
-              var zoomDistricts = [1,11,21,23,25,26,27,28,29,30,32,33,34,36,37,38,41,43,44,45,46,47,48];
               groups.forEach(function(group) { %>
               <div class="subcategory show" data-subcat="<%= group %>">
                 <h2>
@@ -71,7 +70,7 @@
                     <savage-image
                       class="state district" <%
                       var district = group.replace(/district /i, "");
-                      if (zoomDistricts.indexOf(district) > -1) { %>
+                      if (election.zoomed.indexOf(district) > -1) { %>
                       data-src="assets/zoomed.svg"
                       <% } else { %>
                       data-src="assets/legislativedists.svg"
