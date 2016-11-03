@@ -14,7 +14,7 @@
           var state = election.ap.electoral[s];
           if (state.winner && state.winner.last == candidate) {
         %>
-          <li class="tile"><%= s %>
+          <li class="tile" title="<%= s %>: <%= state.winner.electoralTotal %> votes"><%= s %>
         <%
           }
         }

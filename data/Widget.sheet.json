@@ -27,6 +27,12 @@
   },
   {
     "race": 11,
-    "rename": "Congressional District 7 - U.S. Representative"
+    "rename": "Congressional District 7 - U.S. Representative",
+    "filter": "x"
+  },
+  {
+    "race": 113817,
+    "rename": "Sound Transit 3",
+    "description": "Authorizes $54 billion in funding for transit improvements"
   }
 ]

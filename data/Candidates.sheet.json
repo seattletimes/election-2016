@@ -1865,7 +1865,7 @@
     "name": "Mike Sells",
     "party": "D",
     "incumbent": "x",
-    "filter": ""
+    "filter": "x"
   },
   {
     "race": 342,
@@ -1873,7 +1873,7 @@
     "name": "Bert Johnson",
     "party": "(Prefers Independent Party)",
     "incumbent": "",
-    "filter": ""
+    "filter": "x"
   },
   {
     "race": 343,
@@ -3360,14 +3360,14 @@
     "id": 113550,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113549,
     "id": 113551,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113969,
@@ -3460,14 +3460,14 @@
     "id": 113558,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113557,
     "id": 113559,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 8508,
@@ -3590,28 +3590,28 @@
     "id": 113554,
     "name": "Approved",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113553,
     "id": 113555,
     "name": "Rejected",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113561,
     "id": 113562,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113561,
     "id": 113563,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 6071,
@@ -6517,14 +6517,14 @@
     "id": 113578,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113577,
     "id": 113579,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113237,
@@ -6559,140 +6559,140 @@
     "id": 113582,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113581,
     "id": 113583,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113585,
     "id": 113586,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113585,
     "id": 113587,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113569,
     "id": 113570,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113569,
     "id": 113571,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113565,
     "id": 113566,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113565,
     "id": 113567,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113617,
     "id": 113618,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113617,
     "id": 113619,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113621,
     "id": 113622,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113621,
     "id": 113623,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113573,
     "id": 113574,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113573,
     "id": 113575,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113589,
     "id": 113590,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113589,
     "id": 113591,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113597,
     "id": 113598,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113597,
     "id": 113599,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113593,
     "id": 113594,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113593,
     "id": 113595,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113633,
@@ -6713,56 +6713,56 @@
     "id": 113614,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113613,
     "id": 113615,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113601,
     "id": 113602,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113601,
     "id": 113603,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113605,
     "id": 113606,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113605,
     "id": 113607,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113609,
     "id": 113610,
     "name": "Yes",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 113609,
     "id": 113611,
     "name": "No",
     "incumbent": "",
-    "filter": "x"
+    "filter": ""
   },
   {
     "race": 38766,

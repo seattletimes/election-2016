@@ -11,7 +11,7 @@ var $ = require("./lib/qsa");
 var presidential = document.querySelector("savage-image.presidency");
 var ready = function() {
   for (var postal in window.apData.electoral) {
-    var paths = $(`#${postal} path`, presidential);
+    var paths = $(`#${postal} path, #${postal} rect`, presidential);
     var state = window.apData.electoral[postal];
     state.results.forEach(function(result) {
       if (!result.electoral) return;
