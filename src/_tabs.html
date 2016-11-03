@@ -1,0 +1,9 @@
+<nav class="tab-container">
+  <a class="tab" href="#President">President</a> |
+  <% election.categories.forEach(function(cat, i) { %>
+  <a class="tab" href="#<%= cat.replace(/\s/g, "") %>"><%= cat %></a>
+    <% if (i < election.categories.length - 1) { %>
+      |
+    <% } %>
+  <% }) %>
+</nav>

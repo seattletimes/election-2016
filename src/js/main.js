@@ -125,9 +125,8 @@ $("savage-image.district").forEach(function(map, i) {
 var onTabClick = function(e) {
   if (e) e.preventDefault();
   var href = this.getAttribute("href");
-  var active = document.querySelector(".tab.active");
-  if (active) active.classList.remove("active");
-  this.classList.add("active");
+  $(".tab.active").forEach(active => active.classList.remove("active"));
+  $(`.tab[href="${href}"]`).forEach(t => t.classList.add("active"));
   $("section.category.show").forEach(s => s.classList.remove("show"));
   var section = document.querySelector(href);
   section.classList.add("show")
