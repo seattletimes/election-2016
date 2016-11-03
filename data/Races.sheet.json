@@ -123,14 +123,16 @@
   },
   {
     "id": 113485,
-    "name": "Initiative Measure No. 1433 concerns labor standards.",
+    "name": "Initiative 1433 ",
+    "description": "Raises minimum wage, adds paid sick leave",
     "category": "Statewide",
     "featured": "x",
     "map": "x"
   },
   {
     "id": 113525,
-    "name": "Initiative Measure No. 1464 concerns campaign finance laws and lobbyists.",
+    "name": "Initiative 1464 ",
+    "description": "concerns campaign finance laws and lobbyists.",
     "category": "Statewide"
   },
   {

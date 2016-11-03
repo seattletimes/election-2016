@@ -42,20 +42,7 @@
           <section class="category show" id="President">
 
             <div class="vs-container">
-              <header>
-                <% ["Clinton", "Trump"].forEach(function(candidate) { %>
-                <div class="<%= candidate.toLowerCase() %> half">
-                  <% var result = election.ap.byCandidate[candidate].national || { percent: 0 }; %>
-                  <div class="above">
-                    <span class="name"><%= candidate %></span>
-                    <span class="electoral vote"><%= result.electoral || 0 %></span>
-                  </div>
-                  <div class="below">
-                    <span class="popular vote"><%= result.percent.toFixed(1) %>%</span>
-                  </div>
-                </div>
-                <% }) %>
-              </header>
+              <%= t.include("_presidentHeader.html") %>
               <div class="map-container presidency">
                 <savage-image class="presidency" data-src="./assets/electoral.svg"></savage-image>
               </div>

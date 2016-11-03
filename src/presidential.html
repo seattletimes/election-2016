@@ -11,27 +11,10 @@
 
     <responsive-child class="election-widget">
 
-      <div class="races">
-        <% election.widget.forEach(function(race) { %>
-        <div class="race">
-          <div class="meta">
-            <h2><%= race.name %></h2>
-            <% if (race.description) { %>
-            <p class="description"><%= race.description %></p>
-            <% } %>
-          </div>
-          <ul class="results">
-          <% race.results.forEach(function(result) { %>
-            <li>
-              <% if (race.called && race.called == result.candidate) { %>
-              <span class="checkmark">&#10004;</span>
-              <% } %>
-              <span class="name"><%= result.candidate %></span> -
-              <%= t.formatNumber(result.votes) %> (<%= result.percent %>%)
-          <% }) %>
-          </ul>
+      <div id="President">
+        <div class="vs-container">
+          <%= t.include("_presidentHeader.html") %>
         </div>
-        <% }) %>
       </div>
 
       <div class="links">

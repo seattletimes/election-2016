@@ -20,6 +20,27 @@
           .flex(0 0 100%);
         }
 
+        .below {
+          .state-tiles {
+            padding: 0;
+            margin: 0;
+            display: block;
+          }
+
+          .tile {
+            background: @elex-blue;
+            color: white;
+            display: inline-block;
+            padding: 2px 3px;
+            border-radius: 2px;
+            margin-right: 3px;
+            margin-bottom: 3px;
+            font-size: 13px;
+            width: 2em;
+            text-align: center;
+          }
+        }
+
         &.trump {
           .above {
             .flex-direction(row-reverse);
@@ -28,6 +49,12 @@
 
           .below {
             text-align: right;
+
+            .tile {
+              background: @elex-red;
+              margin-right: 0;
+              margin-left: 3px;
+            }
           }
         }
       }

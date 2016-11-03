@@ -1,0 +1,26 @@
+<header>
+  <% ["Clinton", "Trump"].forEach(function(candidate) { %>
+  <div class="<%= candidate.toLowerCase() %> half">
+    <% var result = election.ap.byCandidate[candidate].national || { percent: 0 }; %>
+    <div class="above">
+      <span class="name"><%= candidate %></span>
+      <span class="electoral vote"><%= result.electoral || 0 %></span>
+    </div>
+    <div class="below">
+      <span class="popular vote"><%= result.percent.toFixed(1) %>%</span>
+      <ul class="state-tiles">
+        <%
+        for (var s in election.ap.electoral) {
+          var state = election.ap.electoral[s];
+          if (state.winner && state.winner.last == candidate) {
+        %>
+          <li class="tile"><%= s %>
+        <%
+          }
+        }
+        %>
+      </ul>
+    </div>
+  </div>
+  <% }) %>
+</header>
