@@ -53,6 +53,12 @@ savage-image {
 .map-container {
   position: relative;
 
+  &.county {
+    width: 400px;
+    max-width: 100%;
+    margin: 20px auto;
+  }
+
   &::before {
     display: block;
     content: "";
@@ -75,9 +81,16 @@ savage-image {
   position: absolute;
   padding: 8px;
   display: none;
-  &.show { display: block }
   z-index: 999;
-  width: 50%;
+  width: 66%;
+
+  &.show {
+    display: block;
+
+    @media @mobile {
+      display: none;
+    }
+  }
 
   .county {
     text-transform: uppercase;

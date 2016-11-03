@@ -9,14 +9,14 @@
     "id": 3,
     "name": "U.S. Senator",
     "category": "Statewide",
-    "featured": "x",
+    "featured": 6,
     "map": "x"
   },
   {
     "id": 13,
     "name": "Governor",
     "category": "Statewide",
-    "featured": "x",
+    "featured": 7,
     "map": "x"
   },
   {
@@ -61,85 +61,95 @@
   },
   {
     "id": 6,
-    "name": "Congressional District 1 - U.S. Representative",
+    "name": "Congressional District 1",
     "category": "Congressional",
+    "subcategory": "U.S. House of Representatives",
     "locator": 1
   },
   {
     "id": 8,
-    "name": "Congressional District 2 - U.S. Representative",
+    "name": "Congressional District 2",
     "category": "Congressional",
+    "subcategory": "U.S. House of Representatives",
     "locator": 2
   },
   {
     "id": 5,
-    "name": "Congressional District 3 - U.S. Representative",
+    "name": "Congressional District 3",
     "category": "Congressional",
+    "subcategory": "U.S. House of Representatives",
     "locator": 3
   },
   {
     "id": 7,
-    "name": "Congressional District 4 - U.S. Representative",
+    "name": "Congressional District 4",
     "category": "Congressional",
+    "subcategory": "U.S. House of Representatives",
     "locator": 4
   },
   {
     "id": 4,
-    "name": "Congressional District 5 - U.S. Representative",
+    "name": "Congressional District 5",
     "category": "Congressional",
+    "subcategory": "U.S. House of Representatives",
     "locator": 5
   },
   {
     "id": 9,
-    "name": "Congressional District 6 - U.S. Representative",
+    "name": "Congressional District 6",
     "category": "Congressional",
+    "subcategory": "U.S. House of Representatives",
     "locator": 6
   },
   {
     "id": 11,
-    "name": "Congressional District 7 - U.S. Representative",
+    "name": "Congressional District 7",
     "category": "Congressional",
-    "featured": "x",
+    "subcategory": "U.S. House of Representatives",
+    "featured": 3,
     "locator": 7
   },
   {
     "id": 12,
-    "name": "Congressional District 8 - U.S. Representative",
+    "name": "Congressional District 8",
     "category": "Congressional",
+    "subcategory": "U.S. House of Representatives",
     "locator": 8
   },
   {
     "id": 10,
-    "name": "Congressional District 9 - U.S. Representative",
+    "name": "Congressional District 9",
     "category": "Congressional",
+    "subcategory": "U.S. House of Representatives",
     "locator": 9
   },
   {
     "id": 28824,
-    "name": "Congressional District 10 - U.S. Representative",
+    "name": "Congressional District 10",
     "category": "Congressional",
+    "subcategory": "U.S. House of Representatives",
     "locator": 10
   },
   {
     "id": 113817,
     "name": "Sound Transit 3",
-    "description": "Proposition 1 authorizes $54 billiom in light rail and other transit expansion.",
+    "description": "Proposition 1 authorizes light rail, other transit expansion.",
     "category": "Local",
     "subcategory": "King",
-    "featured": "x"
+    "featured": 1
   },
   {
     "id": 113485,
     "name": "Initiative 1433 ",
     "description": "Raises state minimum wage, requires paid sick leave.",
     "category": "Statewide",
-    "featured": "x",
+    "featured": 2,
     "map": "x"
   },
   {
     "id": 113525,
     "name": "Initiative 1464 ",
-    "description": "Publicly funded campaign financing, lobbying restrictions",
+    "description": "Publicly funded campaigns, lobbyist restrictions",
     "category": "Statewide"
   },
   {
@@ -147,7 +157,7 @@
     "name": "Initiative 1491 ",
     "description": "Allows court-issued extreme risk protection orders temporarily preventing access to firearms.",
     "category": "Statewide",
-    "featured": "x",
+    "featured": 5,
     "map": "x"
   },
   {
@@ -161,7 +171,7 @@
     "name": "Initiative 732 ",
     "description": "Places a tax on carbon, reduces sales and some business taxes",
     "category": "Statewide",
-    "featured": "x",
+    "featured": 4,
     "map": "x"
   },
   {

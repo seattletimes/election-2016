@@ -583,7 +583,7 @@
     "race": 234,
     "id": 44499,
     "name": "James R. Apker",
-    "party": "(Prefers Libertarian Party)",
+    "party": "L",
     "incumbent": "",
     "filter": ""
   },
@@ -599,7 +599,7 @@
     "race": 235,
     "id": 42937,
     "name": "Randy McGlenn II",
-    "party": "(Prefers Libertarian Party)",
+    "party": "L",
     "incumbent": "",
     "filter": ""
   },
@@ -679,7 +679,7 @@
     "race": 241,
     "id": 44860,
     "name": "Jason Ritchie",
-    "party": "(Prefers Dem/Working Fmly Party)",
+    "party": "D/Working Families Party)",
     "incumbent": "",
     "filter": ""
   },
@@ -751,7 +751,7 @@
     "race": 248,
     "id": 43133,
     "name": "Mike Foster",
-    "party": "(Prefers Libertarian Party)",
+    "party": "L",
     "incumbent": "",
     "filter": ""
   },
@@ -791,7 +791,7 @@
     "race": 253,
     "id": 42675,
     "name": "Mark G. Schoesler",
-    "party": "(Prefers G.O.P Party)",
+    "party": "R",
     "incumbent": "x",
     "filter": ""
   },
