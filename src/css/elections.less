@@ -208,3 +208,47 @@
     text-align: center;
   }
 }
+
+.balance-of-power {
+  font-family: @df-sans;
+
+  h1 {
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    margin: 0;
+  }
+
+  h2 {
+    font-size: 20px;
+    color: @df-dark-gray;
+    margin-top: 0;
+    border-bottom: 1px solid @df-light-gray;
+    // text-transform: uppercase;
+    // font-weight: normal;
+    text-align: center;
+  }
+
+  .parties {
+    .display-flex();
+    padding-bottom: 20px;
+  }
+
+  .party {
+    .flex(1 1 0%);
+    text-align: center;
+    padding: 0 8px;
+    color: @df-middle-gray;
+    text-transform: uppercase;
+    font-size: 14px;
+
+    .count {
+      font-size: 30px;
+      font-family: @df-serif;
+    }
+
+    &.D .count { color: @democrat }
+    &.R .count { color: @republican }
+    &.I .count { color: @elex-purple }
+  }
+}

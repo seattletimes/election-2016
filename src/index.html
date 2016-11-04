@@ -47,52 +47,119 @@
           </section>
 
           <% election.categories.forEach(function(cat, i) { var category = election.categorized[cat]; %>
-            <section class="category show" id="<%= cat.replace(/\s/g, "") %>">
+          <section class="category show" id="<%= cat.replace(/\s/g, "") %>">
 
-            <!-- conditionally insert balance of power for legislative -->
+          <% if (cat == "Legislative") { %>
+            <div class="balance-of-power">
+                <%
+                var senateBalance = { D: election.occupiedSenate.d, R: election.occupiedSenate.r, I: 0 };
+                senateBalance.total = senateBalance.D + senateBalance.R;
+                var houseBalance = { D: 0, R: 0, I: 0, total: 0 };
+                for (var key in election.all) {
+                  var r = election.all[key];
+                  if (r.name.match(/state senator/i) && r.winner) {
+                    var p = r.winner.party in senateBalance ? r.winner.party : "I";
+                    senateBalance[p]++;
+                    senateBalance.total++;
+                  } else if (r.name.match(/state representative/i) && r.winner) {
+                    var p = r.winner.party in senateBalance ? r.winner.party : "I";
+                    houseBalance[p]++;
+                    houseBalance.total++;
+                  }
+                };
+                %>
+              <div class="senate">
+                <h2>Senate</h2>
+                <div class="parties">
+                  <div class="party D">
+                    <div class="count"><%= senateBalance.D %></div>
+                    Democrats
+                  </div>
+                  <div class="party R">
+                    <div class="count"><%= senateBalance.R %></div>
+                    Republicans
+                  </div>
+                  <div class="party I">
+                    <div class="count"><%= senateBalance.I %></div>
+                    Other
+                  </div>
+                  <div class="party pending">
+                    <div class="count"><%= 49 - senateBalance.total %></div>
+                    Undecided
+                  </div>
+                </div>
+              </div>
+              <div class="house">
+                <h2>House</h2>
+                <div class="parties">
+                  <div class="party D">
+                    <div class="count"><%= houseBalance.D %></div>
+                    Democrats
+                  </div>
+                  <div class="party R">
+                    <div class="count"><%= houseBalance.R %></div>
+                    Republicans
+                  </div>
+                  <div class="party I">
+                    <div class="count"><%= houseBalance.I %></div>
+                    Other
+                  </div>
+                  <div class="party pending">
+                    <div class="count"><%= 49 * 2 - houseBalance.total %></div>
+                    Undecided
+                  </div>
+                </div>
+              </div>
+            </div>
+          <% } %>
 
-            <%
-            var groups = Object.keys(category.grouped);
-            if (groups.length) {
-              if (groups.length && cat == "Local") { %>
-              <p class="subnav-controls">Select a location: <select class="subnav">
-                <% groups.sort().forEach(function(group) { %>
-                <option value="<%= group %>"><%= group %></option>
-                <% }); %>
-              </select></p> <%
-              }
-              groups.forEach(function(group) { %>
-              <div class="subcategory show" data-subcat="<%= group %>">
-                <h2>
-                  <%= group %>
-                  <% if (cat == "Legislative") { %>
-                  <span class="map-icon">Map
-                    <savage-image
-                      class="state district" <%
-                      var district = group.replace(/district /i, "");
-                      if (election.zoomed.indexOf(district) > -1) { %>
-                      data-src="assets/zoomed.svg"
-                      <% } else { %>
-                      data-src="assets/legislativedists.svg"
-                      <% } %>
-                      data-district="<%= district %>"
-                      role="img"
-                      aria-label="Locator map for this district"></savage-image>
-                  </span>
-                  <% } %>
-                </h2><%
-                category.grouped[group].forEach(function(race) {
-                  print(t.include("_resultEntry.html", { race: race, cat: cat }));
-                });%>
-              </div><%
-              });
+
+          <!-- conditionally insert balance of power for legislative -->
+
+          <%
+          var groups = Object.keys(category.grouped);
+          if (groups.length) {
+
+            if (groups.length && cat == "Local") { %>
+            <p class="subnav-controls">Select a county: <select class="subnav">
+              <% groups.sort().forEach(function(group) { %>
+              <option value="<%= group %>"><%= group %></option>
+              <% }); %>
+            </select></p> <%
             }
-            //present ungrouped races last
-            category.races.forEach(function(race) {
-              print(t.include("_resultEntry.html", { race: race, cat: cat }));
+
+            groups.forEach(function(group) { %>
+            <div class="subcategory show" data-subcat="<%= group %>">
+              <h2>
+                <%= group %>
+                <% if (cat == "Legislative") { %>
+                <span class="map-icon">Map
+                  <savage-image
+                    class="state district" <%
+                    var district = group.replace(/district /i, "");
+                    if (election.zoomed.indexOf(district) > -1) { %>
+                    data-src="assets/zoomed.svg"
+                    <% } else { %>
+                    data-src="assets/legislativedists.svg"
+                    <% } %>
+                    data-district="<%= district %>"
+                    role="img"
+                    aria-label="Locator map for this district"></savage-image>
+                </span>
+                <% } %>
+              </h2><%
+              category.grouped[group].forEach(function(race) {
+                print(t.include("_resultEntry.html", { race: race, cat: cat }));
+              });%>
+            </div><%
             });
-            %>
-            </section>
+          }
+          //present ungrouped races last
+          category.races.forEach(function(race) {
+            print(t.include("_resultEntry.html", { race: race, cat: cat }));
+          });
+          %>
+          </section>
           <% }); %>
 
           <%= t.include("_tabs.html") %>

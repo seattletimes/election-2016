@@ -106,6 +106,9 @@ module.exports = function(grunt) {
         var race = races[result.race];
         if (!race) console.log("Bad statewide race ", result)
         race.results.push(result);
+        if (result.votes > 0 && (!race.winner || race.winner.votes < result.votes)) {
+          race.winner = result;
+        }
       });
 
       //add mappable county data to races via reference
@@ -194,7 +197,11 @@ module.exports = function(grunt) {
         zoomed: [1,11,21,23,25,26,27,28,29,30,32,33,34,36,37,38,41,43,44,45,46,47,48],
         turnout: turnout,
         updated: getDateline(),
-        widget: widget
+        widget: widget,
+        occupiedSenate: { // not running: districts 6, 7, 8, 13, 15, 21, 26, 29, 30, 31, 32, 33, 34, 35, 37, 38, 42, 43, 44, 45, 46, 47, 48
+          d: 12, // 21, 29, 32, 33, 34, 35, 37, 38, 43, 44, 46, 48
+          r: 11 // 6, 7, 8, 13, 15, 26, 30, 31, 42, 45, 47
+        }
       };
 
       c();
