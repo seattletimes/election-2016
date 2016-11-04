@@ -16,24 +16,26 @@ module.exports = function(counties, races, raceConfig) {
     //add the race to the aggregation
     race.aggregate[county.candidate].push(county);
   });
+  //aggregated is a hash of race ID to race object
   Object.keys(aggregated).forEach(function(c) {
     var total = 0;
-    var county = aggregated[c];
-    for (var candidate in county.aggregate) {
-      var list = county.aggregate[candidate];
+    var race = aggregated[c];
+    for (var candidate in race.aggregate) {
+      var list = race.aggregate[candidate];
       var result = {};
-      //object.create doesn't work for JSON, so manually copy
+      //object.create doesn't work for JSON output, so manually copy values
       for (var key in list[0]) result[key] = list[0][key];
+      //override the copied location
       result.location = "Aggregated";
       result.votes = list.reduce(function(prev, now) { return prev + now.votes }, 0);
-      county.results.push(result);
+      race.results.push(result);
       total += result.votes;
     }
-    //figure percentages
-    county.results.forEach(function(result) {
+    //figure percentages for each
+    race.results.forEach(function(result) {
       result.percent = Math.round(result.votes / total * 1000) / 10;
     });
-    delete county.aggregate;
+    delete race.aggregate;
   });
 
   //add county data to mappable races

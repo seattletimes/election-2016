@@ -24,17 +24,21 @@ var getResults = function(config, c) {
   var raceMap = {};
   races.filter(d => !d.filter).forEach(r => raceMap[r.id] = r);
 
+  //load candidate metadata
   var candidates = require("../../data/Candidates.sheet.json");
   var candidateMap = {};
   candidates.forEach(c => candidateMap[c.id] = c);
 
+  //load cached data
   var cachePath = "./temp/" + config.cache;
   if (project.caching && fs.existsSync(cachePath)) {
     if (fs.statSync(cachePath).mtime > (new Date(Date.now() - 5 * 60 * 1000))) {
       console.log("Using cached:", config.url);
-      return c(null, JSON.parse(fs.readFileSync(cachePath)));
+      return c(null, JSON.parse(fs.readFileSync(cachePath, "utf-8")));
     }
   }
+
+  //parse CSV from SOS
   var parser = csv.parse({
     columns: true,
     auto_parse: true,
