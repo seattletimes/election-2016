@@ -551,7 +551,7 @@
     "race": 232,
     "id": 40859,
     "name": "Amy Pivetta Hoffman",
-    "party": "Independent Democrat",
+    "party": "D",
     "incumbent": "",
     "filter": ""
   },
@@ -679,7 +679,7 @@
     "race": 241,
     "id": 44860,
     "name": "Jason Ritchie",
-    "party": "D/Working Families Party)",
+    "party": "D",
     "incumbent": "",
     "filter": ""
   },
@@ -991,7 +991,7 @@
     "race": 268,
     "id": 45400,
     "name": "Amanda Richards",
-    "party": "Independent Republican",
+    "party": "R",
     "incumbent": "",
     "filter": ""
   },
@@ -1103,7 +1103,7 @@
     "race": 277,
     "id": 42382,
     "name": "Tim Probst",
-    "party": "Independent Democrat",
+    "party": "D",
     "incumbent": "",
     "filter": ""
   },
@@ -1119,7 +1119,7 @@
     "race": 278,
     "id": 43293,
     "name": "Sam Kim",
-    "party": "Independent Democrat",
+    "party": "D",
     "incumbent": "",
     "filter": ""
   },
@@ -1183,7 +1183,7 @@
     "race": 282,
     "id": 40958,
     "name": "Kathy Gillespie",
-    "party": "Independent Democrat",
+    "party": "D",
     "incumbent": "",
     "filter": ""
   },
@@ -1199,7 +1199,7 @@
     "race": 283,
     "id": 44477,
     "name": "Sue Kuehl Pederson",
-    "party": "Independent Republican",
+    "party": "R",
     "incumbent": "",
     "filter": ""
   },
@@ -1375,7 +1375,7 @@
     "race": 298,
     "id": 42774,
     "name": "Danille Turissini",
-    "party": "Independent Republican",
+    "party": "R",
     "incumbent": "",
     "filter": ""
   },
@@ -1407,7 +1407,7 @@
     "race": 300,
     "id": 45477,
     "name": "John D. Alger",
-    "party": "R/Independent",
+    "party": "R",
     "incumbent": "",
     "filter": ""
   },
@@ -1471,7 +1471,7 @@
     "race": 305,
     "id": 43051,
     "name": "Larry Seaquist",
-    "party": "Independent Democrat",
+    "party": "D",
     "incumbent": "",
     "filter": ""
   },
@@ -1487,7 +1487,7 @@
     "race": 306,
     "id": 43442,
     "name": "Randy Spitzer",
-    "party": "(Prefers Independent Dem. Party)",
+    "party": "D",
     "incumbent": "",
     "filter": ""
   },
@@ -1542,7 +1542,7 @@
   {
     "race": 311,
     "id": 40919,
-    "name": "Richard (Dick) Muri",
+    "name": "Dick Muri",
     "party": "R",
     "incumbent": "x",
     "filter": ""
@@ -1583,7 +1583,7 @@
     "race": 314,
     "id": 42815,
     "name": "Rick Thomas",
-    "party": "(Prefers Independent Rep Party)",
+    "party": "R",
     "incumbent": "",
     "filter": ""
   },
@@ -1647,7 +1647,7 @@
     "race": 320,
     "id": 41406,
     "name": "John Frostad",
-    "party": "(Prefers Libertarian Party)",
+    "party": "L",
     "incumbent": "",
     "filter": ""
   },
@@ -1663,7 +1663,7 @@
     "race": 321,
     "id": 41070,
     "name": "Lane Walthers",
-    "party": "(Prefers Independent Dem. Party)",
+    "party": "D",
     "incumbent": "",
     "filter": ""
   },
@@ -1775,7 +1775,7 @@
     "race": 332,
     "id": 41041,
     "name": "Irene Bowling",
-    "party": "(Prefers Independent Dem. Party)",
+    "party": "D",
     "incumbent": "",
     "filter": ""
   },
@@ -1791,7 +1791,7 @@
     "race": 333,
     "id": 42701,
     "name": "Craig Patti",
-    "party": "(Prefers Independent Dem. Party)",
+    "party": "D",
     "incumbent": "",
     "filter": ""
   },
@@ -1831,7 +1831,7 @@
     "race": 338,
     "id": 43162,
     "name": "John Dickinson",
-    "party": "(States No Party Preference)",
+    "party": "(none)",
     "incumbent": "",
     "filter": ""
   },
@@ -1847,7 +1847,7 @@
     "race": 339,
     "id": 45708,
     "name": "Tamra Smilanich",
-    "party": "(Prefers Non-Partisan Party)",
+    "party": "Nonpartisan",
     "incumbent": "",
     "filter": ""
   },
@@ -1871,7 +1871,7 @@
     "race": 342,
     "id": 44192,
     "name": "Bert Johnson",
-    "party": "(Prefers Independent Party)",
+    "party": "Independent",
     "incumbent": "",
     "filter": "x"
   },
@@ -2274,7 +2274,7 @@
   {
     "race": 27,
     "id": 41551,
-    "name": "Charles (Charlie) Wiggins",
+    "name": "Charlie Wiggins",
     "incumbent": "x",
     "filter": ""
   },
@@ -2421,7 +2421,7 @@
   {
     "race": 67,
     "id": 40818,
-    "name": "T.W. (Chip) Small",
+    "name": "T.W. \"Chip\" Small",
     "incumbent": "",
     "filter": ""
   },
@@ -2498,7 +2498,7 @@
   {
     "race": 60,
     "id": 41344,
-    "name": "Jessica (Taylor) Reeves",
+    "name": "Jessica Taylor Reeves",
     "incumbent": "",
     "filter": ""
   },
@@ -2764,8 +2764,8 @@
   {
     "race": 104,
     "id": 41239,
-    "name": "Henry (Hank) Rawson",
-    "incumbent": "",
+    "name": "Henry \"Hank\" Rawson",
+    "incumbent": "x",
     "filter": ""
   },
   {

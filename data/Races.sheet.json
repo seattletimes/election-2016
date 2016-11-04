@@ -133,7 +133,7 @@
   {
     "id": 113817,
     "name": "Sound Transit 3",
-    "description": "Proposition 1 authorizes light rail, other transit expansion.",
+    "description": "Called Proposition 1, authorizes light rail, commuter rail and bus service expansion. ",
     "category": "Local",
     "subcategory": "King",
     "featured": 1
@@ -141,7 +141,7 @@
   {
     "id": 113485,
     "name": "Initiative 1433 ",
-    "description": "Raises state minimum wage, requires paid sick leave.",
+    "description": "Raises state minimum wage, requires paid sick leave",
     "category": "Statewide",
     "featured": 2,
     "map": "x"
@@ -149,13 +149,13 @@
   {
     "id": 113525,
     "name": "Initiative 1464 ",
-    "description": "Publicly funded campaigns, lobbyist restrictions",
+    "description": "Provides for publicly funded campaigns, lobbyist restrictions",
     "category": "Statewide"
   },
   {
     "id": 113489,
     "name": "Initiative 1491 ",
-    "description": "Allows court-issued extreme risk protection orders temporarily preventing access to firearms.",
+    "description": "Allows court-issued protection orders temporarily preventing access to firearms",
     "category": "Statewide",
     "featured": 5,
     "map": "x"
@@ -163,36 +163,39 @@
   {
     "id": 113497,
     "name": "Initiative 1501 ",
-    "description": "Exempts certain information about in-home caregivers and clients from disclosure.",
+    "description": "Exempts certain information about in-home caregivers and clients from disclosure",
     "category": "Statewide"
   },
   {
     "id": 113429,
     "name": "Initiative 732 ",
-    "description": "Places a tax on carbon, reduces sales and some business taxes",
+    "description": "Places a tax on carbon, provides tax credit for low-income residents, reduces some taxes",
     "category": "Statewide",
     "featured": 4,
     "map": "x"
   },
   {
+    "id": 113449,
+    "name": "Senate Joint Resolution 8210",
+    "description": "Amend state constitution to require earlier deadline for legislative, congressional redistricting",
+    "category": "Statewide"
+  },
+  {
     "id": 113445,
-    "name": "Initiative Measure No. 735 concerns a proposed amendment to the federal constitution.",
+    "name": "Initiative 735 ",
+    "description": "Urges support for federal constitutional amendment negating Citizens United ",
     "category": "Statewide"
   },
   {
     "id": 113461,
-    "name": "Advisory Vote No. 14 House Bill 2768",
+    "name": "Advisory Vote 14",
+    "description": "The Legislature extended an insurance-premium tax to some dental plans",
     "category": "Statewide"
   },
   {
     "id": 113457,
-    "name": "Advisory Vote No. 15 Second Engrossed Substitute House Bill 2778",
-    "category": "Statewide"
-  },
-  {
-    "id": 113449,
-    "name": "Proposed Amendments to the Constitution - Senate Joint Resolution No. 8210 ",
-    "description": "Earlier deadline for legislative and congressional redistricting",
+    "name": "Advisory Vote 15",
+    "description": "The Legislature imposed limitations on certain sales and use tax exemptions",
     "category": "Statewide"
   },
   {
@@ -1080,32 +1083,32 @@
   },
   {
     "id": 31,
-    "name": "Court of Appeals, Division 1, District 1 - Judge Position 1",
+    "name": "Court of Appeals, Division 1, District 1 - Judge Pos. 1",
     "category": "Statewide"
   },
   {
     "id": 38,
-    "name": "Court of Appeals, Division 1, District 2 - Judge Position 1",
+    "name": "Court of Appeals, Division 1, District 2 - Judge Pos. 1",
     "category": "Statewide"
   },
   {
     "id": 41,
-    "name": "Court of Appeals, Division 2, District 1 - Judge Position 1",
+    "name": "Court of Appeals, Division 2, District 1 - Judge Pos. 1",
     "category": "Statewide"
   },
   {
     "id": 47,
-    "name": "Court of Appeals, Division 2, District 3 - Judge Position 2",
+    "name": "Court of Appeals, Division 2, District 3 - Judge Pos. 2",
     "category": "Statewide"
   },
   {
     "id": 50,
-    "name": "Court of Appeals, Division 3, District 2 - Judge Position 1",
+    "name": "Court of Appeals, Division 3, District 2 - Judge Pos. 1",
     "category": "Statewide"
   },
   {
     "id": 51,
-    "name": "Court of Appeals, Division 3, District 3 - Judge Position 1",
+    "name": "Court of Appeals, Division 3, District 3 - Judge Pos. 1",
     "category": "Statewide"
   },
   {
@@ -1278,43 +1281,43 @@
   },
   {
     "id": 127,
-    "name": "King Superior Court - Judge Position 14",
+    "name": "County Superior Court Judge Pos. 14",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 139,
-    "name": "King Superior Court - Judge Position 26",
+    "name": "County Superior Court Judge Pos. 26",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 145,
-    "name": "King Superior Court - Judge Position 31",
+    "name": "County Superior Court Judge Pos. 31",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 158,
-    "name": "King Superior Court - Judge Position 44",
+    "name": "County Superior Court Judge Pos. 44",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 7738,
-    "name": "King Superior Court - Judge Position 52",
+    "name": "County Superior Court Judge Pos. 52",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 10104,
-    "name": "King Superior Court - Judge Position 53",
+    "name": "County Superior Court Judge Pos. 53",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 94,
-    "name": "Kitsap Superior Court - Judge Position 5",
+    "name": "County Superior Court Judge Pos. 5",
     "category": "Local",
     "subcategory": "Kitsap"
   },
@@ -1398,25 +1401,25 @@
   },
   {
     "id": 167,
-    "name": "Pierce Superior Court - Judge Position 2",
+    "name": "County Superior Court - Judge Pos. 2",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 170,
-    "name": "Pierce Superior Court - Judge Position 5",
+    "name": "County Superior Court - Judge Pos. 5",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 173,
-    "name": "Pierce Superior Court - Judge Position 8",
+    "name": "County Superior Court Judge Pos. 8",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 182,
-    "name": "Pierce Superior Court - Judge Position 17",
+    "name": "County Superior Court Judge Pos. 17",
     "category": "Local",
     "subcategory": "Pierce"
   },
@@ -1434,7 +1437,7 @@
   },
   {
     "id": 189,
-    "name": "Snohomish Superior Court - Judge Position 3",
+    "name": "County Superior Court Judge Pos. 3",
     "category": "Local",
     "subcategory": "Snohomish"
   },
@@ -2118,169 +2121,191 @@
   },
   {
     "id": 114033,
-    "name": "Metropolitan King County Charter Amendment No. 1, Nonpartisan Prosecuting Attorney",
+    "name": "King County Charter Amendment 1",
+    "description": "Nonpartisan prosecuting attorney",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114037,
-    "name": "Metropolitan King County Charter Amendment No. 2, Gender-Neutral Language",
+    "name": "King County Charter Amendment  2",
+    "description": "Gender-neutral language in charter",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 39933,
-    "name": "Southwest Electoral District Judge Position 3",
+    "name": "Southwest Electoral District Judge Pos. 3",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 39934,
-    "name": "West Electoral District Judge Position 1",
+    "name": "West Electoral District Judge Pos. 1",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 39935,
-    "name": "West Electoral District Judge Position 4",
+    "name": "West Electoral District Judge Pos. 4",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114041,
-    "name": "City Of Bellevue Proposition No. 1, Levy for Fire Facilities",
+    "name": "City Of Bellevue Proposition 1",
+    "description": "Levy for fire facilities",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114045,
-    "name": "City Of Bellevue Proposition No. 2, Levy for Neighborhood Safety, Connectivity, and Congestion",
+    "name": "City Of Bellevue Proposition 2",
+    "description": "Levy for neighborhood safety, connectivity, congestion",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 113949,
-    "name": "City Of Bothell Advisory Proposition No. 1 Sale, Possession and Discharge of Consumer Fireworks in the City of Bothell",
+    "name": "City Of Bothell Advisory Prop. 1 ",
+    "description": "On banning fireworks",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 113953,
-    "name": "City Of Bothell Proposition No. 1 Levy for Safe Streets and Sidewalks",
+    "name": "City Of Bothell Proposition 1",
+    "description": "Levy for safe streets and sidewalks",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114057,
-    "name": "City Of Duvall Proposition No. 1, Nine Year Levy Lid Lift for Big Rock Ballfield Improvements, Employment of a Full-Time School Resource Officer, and IT System Improvements",
+    "name": "City Of Duvall Proposition 1",
+    "description": "Levy lid lift for ballfield improvement, employment of school resource officer, IT improvements",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114061,
-    "name": "City Of Duvall Advisory Vote No. 1, Sale, Possession, and Discharge of Consumer Fireworks Within the City of Duvall",
+    "name": "City Of Duvall Advisory Vote 1",
+    "description": "On banning fireworks ",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114065,
-    "name": "City Of Issaquah Proposition No. 1, Traffic Improvement Bonds",
+    "name": "City Of Issaquah Proposition 1",
+    "description": "Traffic improvement bonds **",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114069,
-    "name": "City Of Kenmore Proposition No. 1, General Obligation Bonds Walkways and Waterways Improvements",
+    "name": "City Of Kenmore Proposition 1",
+    "description": "Bonds for walkways, waterways improvements **",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114073,
-    "name": "City Of Seattle Initiative Measure No. 124",
+    "name": "City Of Seattle Initiative 124",
+    "description": "Safety, health, labor protections for hotel employees",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114077,
-    "name": "City Of Shoreline Proposition No. 1, Basic Public Safety, Parks &amp; Recreation, and Community Services Maintenance and Operations Levy",
+    "name": "City Of Shoreline Proposition 1",
+    "description": "Levy for public safety, maintenance & operations ",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114081,
-    "name": "City Of Snoqualmie Proposition No. 1, Public Safety Levy",
+    "name": "City Of Snoqualmie Proposition 1",
+    "description": "Public safety levy",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114085,
-    "name": "City Of Tukwila Proposition No. 1, Public Safety Bonds",
+    "name": "City Of Tukwila Proposition 1",
+    "description": "Public safety bonds **",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114089,
-    "name": "Highline School District No. 401 Proposition No. 1, Bonds to Construct New Schools and Replace and Renovate Deteriorating Schools",
+    "name": "Highline School District Proposition 1",
+    "description": "Bonds to build, renovate schools **",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 113821,
-    "name": "Auburn School District No. 408 Proposition No. 1 School Construction and Replacement General Obligation Bonds - $456,056,000",
+    "name": "Auburn School District Proposition 1 ",
+    "description": "Bonds to build, renovate schools **",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114093,
-    "name": "Kent School District No. 415 Proposition No. 1, Capital Improvement and School Construction General Obligation Bonds - $252,000,000",
+    "name": "Kent School District Proposition 1",
+    "description": "Bonds for capital improvement, school construction **",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114097,
-    "name": "King County Fire Protection District 27 Proposition No. 1, Levy of General Tax for Maintenance and Operations",
+    "name": "King County Fire Protection District 27 Prop. 1",
+    "description": "Maintenance and operations levy **",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114101,
-    "name": "South King Fire And Rescue Proposition No. 1, Levy of General Tax $2,750,000 for Maintenance and Operations",
+    "name": "South King Fire And Rescue Prop. 1",
+    "description": "Maintenance and operations levy **",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 114105,
-    "name": "Proposed Eastside Regional Fire Authority Proposition No. 1",
+    "name": "Proposed Eastside Regional Fire Authority Prop. 1",
+    "description": "Creation of Eastside Regional Fire Authority **",
     "category": "Local",
     "subcategory": "King"
   },
   {
     "id": 113845,
-    "name": "KITSAP TRANSIT Proposition No. 1 Passenger-Only Ferry Investment Plan And Sales &amp; Use Tax",
+    "name": "Kitsap Transit Proposition 1",
+    "description": "Passenger-only ferries, plus sales and use tax",
     "category": "Local",
     "subcategory": "Kitsap"
   },
   {
     "id": 38808,
-    "name": "KITSAP COUNTY Commissioner District 1",
+    "name": "Kitsap County Commissioner District 1",
     "category": "Local",
     "subcategory": "Kitsap"
   },
   {
     "id": 38817,
-    "name": "KITSAP COUNTY Commissioner District 2",
+    "name": "Kitsap County Commissioner District 2",
     "category": "Local",
     "subcategory": "Kitsap"
   },
   {
     "id": 38975,
-    "name": "PUBLIC UTILITY DISTRICT NO. 1 Commissioner District 1",
+    "name": "Public Utility District No. 1 Commissioner District 1",
     "category": "Local",
     "subcategory": "Kitsap"
   },
   {
     "id": 113849,
-    "name": "PROPOSED PT POULSBO ANNEX 2016 Proposition No. 1 Enlargement of Port of Poulsbo",
+    "name": "Port of Poulsbo Proposition 1",
+    "description": "Enlarging port by annexation",
     "category": "Local",
     "subcategory": "Kitsap"
   },
@@ -2657,91 +2682,99 @@
   },
   {
     "id": 113753,
-    "name": "COUNTY Proposed Charter Amendment No. 41 Initiative Procedures",
+    "name": "County Charter Amendment 41",
+    "description": "Initiative signatures",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 113785,
-    "name": "COUNTY Proposed Charter Amendment No. 42 Referendum Procedures",
+    "name": "County Charter Amendment 42",
+    "description": "Referendum signatures",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 113789,
-    "name": "COUNTY Proposed Charter Amendment No. 43 Referendum Procedures",
+    "name": "County Charter Amendment 43",
+    "description": "Referendum procedures",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 113793,
-    "name": "COUNTY Proposed Charter Amendment No. 44 Conflict of Interest",
+    "name": "County Charter Amendment 44 ",
+    "description": "Conflict of interest",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 113797,
-    "name": "COUNTY Proposed Charter Amendment No. 45 Purchasing, Contracts, Claims and Bonds",
+    "name": "County Charter Amendment 45 ",
+    "description": "Competitive bidding on public works ",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 11523,
-    "name": "COUNTY Executive",
+    "name": "County Executive",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 11525,
-    "name": "COUNTY Assessor - Treasurer",
+    "name": "County Assessor - Treasurer",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 11528,
-    "name": "COUNTY Sheriff",
+    "name": "County Sheriff",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 11568,
-    "name": "COUNTY COUNCIL DISTRICT NO. 2 County Council No. 2",
+    "name": "County Council District No. 2 ",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 11569,
-    "name": "COUNTY COUNCIL DISTRICT NO. 3 County Council No. 3",
+    "name": "County Council District No. 3 ",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 11572,
-    "name": "COUNTY COUNCIL DISTRICT NO. 4 County Council No. 4",
+    "name": "County Council District No. 4 ",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 11573,
-    "name": "COUNTY COUNCIL DISTRICT NO. 6 County Council No. 6",
+    "name": "County Council District No. 6",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 113801,
-    "name": "FRANKLIN PIERCE SCHOOL DISTRICT NO. 402 Proposition No. 1 General Obligation Bonds - $157,000,000",
+    "name": "Franklin Pierce School District Prop. 1",
+    "description": "Bonds to build, renovate schools **",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 113825,
-    "name": "FIRE PROTECTION DISTRICT NO. 5 Proposition No. 1 Six-Year Levy Lid Lift",
+    "name": "Fire Protection District No. 5 Proposition 1",
+    "description": "Six-year levy lid lift",
     "category": "Local",
     "subcategory": "Pierce"
   },
   {
     "id": 113829,
-    "name": "FIRE PROTECTION DISTRICT NO. 21 Proposition No. 1 Increasing the Number of Commissioners",
+    "name": "Fire Protection District No. 21 Proposition 1 ",
+    "description": "Increasing the number of commissioners",
     "category": "Local",
     "subcategory": "Pierce"
   },
@@ -2929,103 +2962,119 @@
   },
   {
     "id": 113693,
-    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 1 Commission on Human Rights",
+    "name": "County Charter Amendment Prop. 1",
+    "description": "Commission on human rights",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113697,
-    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 2 Establishing Office of Public Advocate",
+    "name": "County Charter Amendment Prop. 2 ",
+    "description": "Establishing office of public advocate",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113701,
-    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 3 County Policy on Nondiscrimination",
+    "name": "County Charter Amendment Prop. 3 ",
+    "description": "County policy on nondiscrimination",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113705,
-    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 4 Revising Hearing Examiner System and Appeals",
+    "name": "County Charter Amendment Prop. 4",
+    "description": "Revising hearing-examiner system and appeals",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113709,
-    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 5 Requiring Additional County Council Meetings and Hearings",
+    "name": "County Charter Amendment Prop. 5 ",
+    "description": "Requiring additional County Council meetings and hearings",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113713,
-    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 6 Revising Procedures for Appointment and Confirmation of Chief Executive Officers",
+    "name": "County Charter Amendment Prop. 6",
+    "description": "Revising appointments, confirmations of chief officers of executive departments",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113717,
-    "name": "Proposed Amendments to the Snohomish County Charter Proposition No. 7 Revising County Redistricting Process",
+    "name": "County Charter Amendment Prop. 7 ",
+    "description": "Revising county redistricting process",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 11037,
-    "name": "COUNTY COUNCIL DISTRICT 5 Council District 5",
+    "name": "County County District 5 ",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113661,
-    "name": "City of Everett Proposition No. 1 Amendment to the City of Everett Charter, Section 3.2 (Council meetings)",
+    "name": "City of Everett Proposition 1",
+    "description": "Amendment to city charter (council meetings)",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113665,
-    "name": "City of Everett Proposition No. 2 Amendment to the City of Everett Charter, Section 15.9 (Gender references, correction of scrivener's errors)",
+    "name": "City of Everett Proposition 2",
+    "description": "Amendment to city charter (gender references, scrivener's errors)",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113669,
-    "name": "City of Everett Proposition No. 3 Adding a new section to the City of Everett Charter, Section 15.10 (Diversity ΓÇô boards, commissions and committees)",
+    "name": "City of Everett Proposition 3 ",
+    "description": "Addition to city charter (diversity of boards, committees)",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113673,
-    "name": "City of Mill Creek Proposition No. 1 Emergency Medical Services Levy",
+    "name": "City of Mill Creek Proposition 1",
+    "description": "Emergency medical services levy **",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113465,
-    "name": "City of Snohomish Proposition No. 1 Fireworks Advisory Measure",
+    "name": "City of Snohomish Proposition 1 ",
+    "description": "Advisory vote on a fireworks ban",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113681,
-    "name": "City of Snohomish Proposition No. 2 Whether to Adopt the Mayor/Council Form of Government Within the City of Snohomish",
+    "name": "City of Snohomish Proposition 2 ",
+    "description": "Adoping mayor/council form of government ",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113721,
-    "name": "Town of Woodway Proposition No. 1 Levy to Support Police, Fire and Emergency Medical Services and Existing Town Operations",
+    "name": "Town of Woodway Proposition  1 ",
+    "description": "Levy for police, fire, EMS, town operations",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113685,
-    "name": "Fire District 1 Proposition No. 1 Re-authorization of Regular Property Tax Levy",
+    "name": "Fire District 1 Proposition 1",
+    "description": "Levy re-authorization ",
     "category": "Local",
     "subcategory": "Snohomish"
   },
   {
     "id": 113689,
-    "name": "Lynnwood Transportation Benefit District Proposition No. 1 Sales and Use Tax for Transportation Improvements",
+    "name": "Lynnwood Transportation Benefit District Prop. 1 ",
+    "description": "Sales and use tax for transportation improvements",
     "category": "Local",
     "subcategory": "Snohomish"
   },
