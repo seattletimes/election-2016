@@ -15,8 +15,8 @@
   "slug": "",
   "tags": [],
   "sheets": ["1NV-f2Wry4eGVx_fD-L1y-06tMDnrnz5pwgw7-gxKzVs"],
-  "caching": false,
-  "image": "assets/social.jpg",
+  "image": "assets/social-banner.jpg",
   "production": true,
-  "embedded": false
+  "embedded": false,
+  "caching": false
 }

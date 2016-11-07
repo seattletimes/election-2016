@@ -5,12 +5,15 @@ var csv = require("csv");
 var url = "http://results.vote.wa.gov/results/current/export/MediaVoterTurnout.txt";
 
 module.exports = function(c) {
+
   var parser = csv.parse({
     columns: true,
     auto_parse: true,
     delimiter: "\t"
   });
-  var turnout = {};
+  var turnout = {
+    Total: {}
+  };
   parser.on("data", function(line) {
     var county = line.CountyName;
     turnout[county] = line;
@@ -21,11 +24,19 @@ module.exports = function(c) {
     turnout.percentage = Math.round(counted / expected * 1000) / 10;
     c(null, turnout);
   });
-  var req = request(url);
-  req.pipe(parser);
-  if (!fs.existsSync("./temp")) {
-    fs.mkdirSync("temp");
+
+  var project = require("../../project.json");
+  if (project.caching && fs.existsSync("./temp/turnout.txt")) {
+    var cached = fs.createReadStream("./temp/turnout.txt");
+    cached.pipe(parser);
+  } else {
+    var req = request(url);
+    req.pipe(parser);
+    if (!fs.existsSync("./temp")) {
+      fs.mkdirSync("temp");
+    }
+    var temp = fs.createWriteStream("./temp/turnout.txt");
+    req.pipe(temp);
   }
-  var temp = fs.createWriteStream("./temp/turnout.txt");
-  req.pipe(temp);
+
 };
