@@ -136,7 +136,7 @@
                 <span class="map-icon">Map
                   <savage-image
                     class="state district" <%
-                    var district = group.replace(/district /i, "");
+                    var district = group.replace(/district /i, "") * 1;
                     if (election.zoomed.indexOf(district) > -1) { %>
                     data-src="assets/zoomed.svg"
                     <% } else { %>
