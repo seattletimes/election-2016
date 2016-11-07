@@ -57,11 +57,11 @@
                 var houseBalance = { D: 0, R: 0, I: 0, total: 0 };
                 for (var key in election.all) {
                   var r = election.all[key];
-                  if (r.name.match(/state senator/i) && r.winner) {
+                  if (r.called && r.name.match(/state senator/i) && r.winner) {
                     var p = r.winner.party in senateBalance ? r.winner.party : "I";
                     senateBalance[p]++;
                     senateBalance.total++;
-                  } else if (r.name.match(/state representative/i) && r.winner) {
+                  } else if (r.called && r.name.match(/state representative/i) && r.winner) {
                     var p = r.winner.party in senateBalance ? r.winner.party : "I";
                     houseBalance[p]++;
                     houseBalance.total++;
@@ -85,7 +85,7 @@
                   </div>
                   <div class="party pending">
                     <div class="count"><%= 49 - senateBalance.total %></div>
-                    Undecided
+                    Uncalled
                   </div>
                 </div>
               </div>
@@ -106,7 +106,7 @@
                   </div>
                   <div class="party pending">
                     <div class="count"><%= 49 * 2 - houseBalance.total %></div>
-                    Undecided
+                    Uncalled
                   </div>
                 </div>
               </div>
