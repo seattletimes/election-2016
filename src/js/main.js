@@ -52,7 +52,7 @@ $("savage-image.county").forEach(function(map, i) {
         <li>
           <span class="candidate">${r.candidate}</span>
           <span class="spacer"></span>
-          <span class="votes">${r.percent ? r.percent + "%" : "0.0%"}&nbsp;(${r.votes})</span>`
+          <span class="votes">${r.percent ? r.percent.toFixed(1) + "%" : "0.0%"}&nbsp;(${r.votes})</span>`
       }).join("") || "<li> No results yet."}
       </ul>`
 
