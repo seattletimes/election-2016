@@ -11,6 +11,8 @@
 
     <responsive-child class="election-widget">
 
+      <h2 class="local">Local results</h2>
+
       <div class="races">
 
         <% election.widget.forEach(function(race) { %>
@@ -26,7 +28,7 @@
               <% } %>
               <span class="name"><%= result.candidate %></span>
               <span class="spacer"></span>
-              <span class="percent"><%= result.percent %>%</span>
+              <span class="percent"><%= result.percent || "0.0" %>%</span>
           <% }) %>
           </ul>
           <% if (race.description) { %>
