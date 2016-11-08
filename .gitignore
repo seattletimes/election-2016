@@ -6,3 +6,4 @@ auth.json
 npm-debug.log
 src/js/lib/*/**
 data/*.csv
+data/*.json
