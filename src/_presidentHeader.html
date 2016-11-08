@@ -1,7 +1,9 @@
 <header class="vs">
+  <% var total = 0; %>
   <% ["Clinton", "Trump"].forEach(function(candidate) { %>
   <div class="<%= candidate.toLowerCase() %> half">
     <% var result = election.ap.byCandidate[candidate].national || { percent: 0 }; %>
+    <% total += result.votes %>
     <div class="above">
       <span class="name"><%= candidate %></span>
       <span class="electoral vote"><%= result.electoral || 0 %></span>
@@ -24,3 +26,6 @@
   </div>
   <% }) %>
 </header>
+<div class="votes-counted">
+  <%= total > 1000000 ? (total / 1000000).toFixed(2) + "M" : (total / 1000).toFixed(1) + "K" %> votes counted nationwide
+</div>
