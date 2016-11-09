@@ -34,7 +34,7 @@ var check = function() {
         }
       }
       results[key] = hash;
-      c(updated);
+      c(null, updated);
     });
   }, function(err) {
     if (err) {
