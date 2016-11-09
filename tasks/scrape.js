@@ -192,7 +192,7 @@ module.exports = function(grunt) {
         ap: ap,
         categorized: categorized,
         // move Key Races to the front
-        categories: ["Key Races"].concat(Object.keys(categorized).filter(r => r != "Key Races")),
+        categories: ["Key Races", "Statewide", "Congressional", "Legislative", "Local"],
         mapped: countyData.mapped,
         zoomed: [1,11,21,23,25,26,27,28,29,30,32,33,34,36,37,38,41,43,44,45,46,47,48],
         turnout: turnout,
