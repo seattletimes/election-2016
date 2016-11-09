@@ -40,6 +40,7 @@ var synonyms = {
         <%= result.incumbent ? "*" : "" %>
         <%= result.candidate %>
         <span class="party"><%= result.party ? " - " + result.party : "" %></span>
+        <%= race.called && race.called * 1 == result.candidateID ? "&check;" : "" %>
       </div>
       <div class="votes">
         <span class="numbers"><%= t.formatNumber(result.votes) %></span>
@@ -50,7 +51,6 @@ var synonyms = {
           class="bar <%= result.party %> <%= synonyms[result.candidate.toLowerCase()] %>"
           style="width: <%= result.percent * .8 %>%">
           <div class="percentage"><%= result.percent %>%
-            <%= race.called && race.called == race.candidate ? "&check;" : "" %>
           </div>
         </div>
       </div>
